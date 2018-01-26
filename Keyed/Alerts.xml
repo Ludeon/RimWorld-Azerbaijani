@@ -32,7 +32,7 @@
 
   <LowMedicine>Dərman azdır</LowMedicine>
   <LowMedicineDesc>Anbarda sadcəcə {0} dərman var.\n\nAlverçilərdən dərman al.</LowMedicineDesc>
-  <NoMedicineDesc>Anbarda dərman qalmayıb.\n\nAlverçilərdən çoclu dərman al.</NoMedicineDesc>
+  <NoMedicineDesc>Anbarda dərman qalmayıb.\n\nAlverçilərdən çoxlu dərman al.</NoMedicineDesc>
 
   <NeedColonistBeds>kolonist yatağı lazımdır</NeedColonistBeds>
   <NeedColonistBedsDesc>kolonistlərin sayı yataqlardan çoxdur. Bəzilərinin yatmağa yeri yoxdur.\n\n Ya çoxlu yataq düzəlt ya da dustaqların yatağını kolonistlətinə ver. Əgər heç bir resursun yoxdursa yataq spotlarını işlət.</NeedColonistBedsDesc>
