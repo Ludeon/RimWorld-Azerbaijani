@@ -1,125 +1,126 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
   
-  <DesignatorCancel>Cancel</DesignatorCancel>
-  <DesignatorCancelDesc>Cancel designated building, mining, hauling, harvesting, and all other designations.</DesignatorCancelDesc>
+  <DesignatorCancel>Ləğv et</DesignatorCancel>
+  <DesignatorCancelDesc>Verilən əmrləri; inşaatı, mədənçiliyi, daşınmaçılığı və digərlərini ləğv et.</DesignatorCancelDesc>
 
-  <DesignatorCutPlants>Cut plants</DesignatorCutPlants>
-  <DesignatorCutPlantsDesc>Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlants>Bitkiləri kəs.</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>İşarələnən bitkilər kəsilər. Bitki tamamilə yox olacaq.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Deconstruct</DesignatorDeconstruct>
-  <DesignatorDeconstructDesc>Deconstruct this and reclaim part of its resources.</DesignatorDeconstructDesc>
+  <DesignatorDeconstruct>Dağıt</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Binaları sök və işlənən materialların bir hissəsini geri al.</DesignatorDeconstructDesc>
 
-  <DesignatorUninstall>Uninstall</DesignatorUninstall>
-  <DesignatorUninstallDesc>Uninstall this so it can be moved, sold, or installed somewhere else.</DesignatorUninstallDesc>
+  <DesignatorUninstall>Sök</DesignatorUninstall>
+  <DesignatorUninstallDesc>Satılmaq və ya başqa biryerə yenidən inşa etmək üçün sök.</DesignatorUninstallDesc>
 
-  <DesignatorHarvest>Harvest</DesignatorHarvest>
-  <DesignatorHarvestDesc>Marks plants to be harvested for their food or other products.</DesignatorHarvestDesc>
+  <DesignatorHarvest>Biç</DesignatorHarvest>
+  <DesignatorHarvestDesc>İşarələnən bitkilər və ya digər məhsullar biçilər.</DesignatorHarvestDesc>
 
-  <DesignatorHarvestWood>Chop wood</DesignatorHarvestWood>
-  <DesignatorHarvestWoodDesc>Marks trees to be chopped down for wood.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWood>Ağac kəs</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>İşarələnən ağaclar kəsilər.</DesignatorHarvestWoodDesc>
 
-  <DesignatorHaulThings>Haul things</DesignatorHaulThings>
-  <DesignatorHaulThingsDesc>Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable.</DesignatorHaulThingsDesc>
-  <MustHaulHaulables>Can only designate haulable but non-always-hauled things (like rock chunks).</MustHaulHaulables>
+  <DesignatorHaulThings>Daşı</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Zibiliyyə aparmaq üçün qaya parçalarını və başqa şeyləri seçin.  Hər zaman daşınabilən olan yemək və cəsətlər üçün lazım deyil.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Sadəcə avtomatik olmayan şeyləri daşıya bilərsən(məs: qaya parçaları).</MustHaulHaulables>
 
-  <DesignatorHunt>Hunt</DesignatorHunt>
-  <DesignatorHuntDesc>Mark animals to be hunted by your hunters.</DesignatorHuntDesc>
+  <DesignatorHunt>Ov et</DesignatorHunt>
+  <DesignatorHuntDesc>İşarələnən heyvanlar ovçular tərəfindən ovlanacaq.</DesignatorHuntDesc>
 
-  <DesignatorMine>Mine</DesignatorMine>
-  <DesignatorMineDesc>Designate areas of rock to be mined out.</DesignatorMineDesc>
+  <DesignatorMine>Mədən qaz</DesignatorMine>
+  <DesignatorMineDesc>Filiz çıxarmaq üçün qayaları seç.</DesignatorMineDesc>
 
-  <DesignatorSmoothFloor>Smooth floor</DesignatorSmoothFloor>
-  <DesignatorSmoothFloorDesc>Designate rough stone terrain to be smoothed.</DesignatorSmoothFloorDesc>
+  <DesignatorSmoothFloor>Hamar döşəmə</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Nahamar olan əraziləri düzəlt.</DesignatorSmoothFloorDesc>
 
   <DesignatorPlan>Plan</DesignatorPlan>
-  <DesignatorPlanDesc>Place planning designations. These don't do anything except help you plan future expansions.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Yer planlamasını düzəldin.Bu planlaşdırmaqdan başqa bir iş görmür..</DesignatorPlanDesc>
 
-  <DesignatorPlanRemove>Remove plans</DesignatorPlanRemove>
-  <DesignatorPlanRemoveDesc>Remove planning designations.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemove>Planları sil</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Yaratdığın planları sil.</DesignatorPlanRemoveDesc>
 
-  <DesignatorAreaHomeExpand>Expand home area</DesignatorAreaHomeExpand>
-  <DesignatorAreaHomeExpandDesc>Colonists will repair buildings, clean floors, and extinguish fires only in the home area.</DesignatorAreaHomeExpandDesc>
-  <DesignatorAreaHomeClear>Clear home area</DesignatorAreaHomeClear>
-  <DesignatorAreaHomeClearDesc>Removes a home area. Colonists will no longer clean, repair, or extinguish fires here.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeExpand>Ev ərazisini genişləndir</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Kolonistlər sadəcə ev ərazisindəki sökülən binaları düzəldir, yerləri süpürər və çıxan yanğınları söndürər. </DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Ev ərazisini sil</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Ev ərazisini sil. Kolonistlərin artıq burdakı binaları düzəltməyəcək, yerləri süpürməyəvək və çıxan yanğınları söndürməyəcəklər.</DesignatorAreaHomeClearDesc>
 
-  <DesignatorAreaBuildRoofExpand>Build roof area</DesignatorAreaBuildRoofExpand>
-  <DesignatorAreaBuildRoofExpandDesc>Colonists will build roofs in this area.</DesignatorAreaBuildRoofExpandDesc>
-
-  <DesignatorAreaNoRoofExpand>Remove roof area</DesignatorAreaNoRoofExpand>
-  <DesignatorAreaNoRoofExpandDesc>Colonists will remove roofs in this area (except overhead mountain, which cannot be removed).</DesignatorAreaNoRoofExpandDesc>
-
-  <DesignatorAreaIgnoreRoofExpand>Ignore roof area</DesignatorAreaIgnoreRoofExpand>
-  <DesignatorAreaIgnoreRoofExpandDesc>Colonists will ignore roofs in this area.</DesignatorAreaIgnoreRoofExpandDesc>
-
-  <DesignatorAreaSnowClearExpand>Expand snow clear area</DesignatorAreaSnowClearExpand>
-  <DesignatorAreaSnowClearExpandDesc>Create a area which colonists will try to keep clear of snow.</DesignatorAreaSnowClearExpandDesc>
-  <DesignatorAreaSnowClearClear>Clear snow clear Area</DesignatorAreaSnowClearClear>
-  <DesignatorAreaSnowClearClearDesc>Removes a snow clearing area. Colonists will no longer try to keep this area clear of snow.</DesignatorAreaSnowClearClearDesc>
-
-  <DesignatorExpandAreaAllowed>Expand allowed area</DesignatorExpandAreaAllowed>
-  <DesignatorExpandAreaAllowedDesc>Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorExpandAreaAllowedDesc>
-  <DesignatorClearAreaAllowed>Clear allowed area</DesignatorClearAreaAllowed>
-  <DesignatorClearAreaAllowedDesc>Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area.</DesignatorClearAreaAllowedDesc>
-  <ManageAreas>Manage areas...</ManageAreas>
-
-  <DesignatorGrowingZoneDesc>Create a zone where your colonists will try to grow a certain kind of plant.</DesignatorGrowingZoneDesc>
-
-  <DesignatorZoneCreateStorageResourcesDesc>Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageResourcesDesc>
-
-  <DesignatorZoneCreateStorageDumpingDesc>Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile.</DesignatorZoneCreateStorageDumpingDesc>
-
-  <DesignatorZoneDelete>Delete zones</DesignatorZoneDelete>
-  <DesignatorZoneDeleteDesc>Remove zones, like stockpile zones or growing zones.</DesignatorZoneDeleteDesc>
+  <DesignatorAreaBuildRoofExpand>Damörtüyü Yarat</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonistlər buraya damörtüyü quracaq.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Damörtüyünü sil</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Kolonistlər burdakı damörtüyünü siləcək və bura damörtüyü inşa etməyəcəklər.</DesignatorAreaBuildRoofClearDesc>
   
-  <DesignatorClaim>Claim</DesignatorClaim>
-  <DesignatorClaimDesc>Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists.</DesignatorClaimDesc>
-
-  <DesignatorRemoveFloor>Remove floor</DesignatorRemoveFloor>
-  <DesignatorRemoveFloorDesc>Remove floors to reveal the terrain underneath.</DesignatorRemoveFloorDesc>
-
-  <DesignatorStrip>Strip</DesignatorStrip>
-  <DesignatorStripDesc>Strip apparel from corpses and the wounded.</DesignatorStripDesc>
-
-  <DesignatorRearmTrap>Rearm trap</DesignatorRearmTrap>
-  <DesignatorRearmTrapDesc>Rearm a sprung trap so it can be triggered again.</DesignatorRearmTrapDesc>
-
-  <DesignatorOpen>Open</DesignatorOpen>
-  <DesignatorOpenDesc>Open containers.</DesignatorOpenDesc>
+  <DesignatorAreaNoRoofExpand>Damörtüyü olmayan ərazi yarat</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Damörtüyü olmayan ərazi yarat. Seçdiyin ərazidəki damörtükləri uçurulacaq.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Damörtüyü olmayan ərazini sil</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Damörtüyü olmayan ərazini silər.</DesignatorAreaNoRoofClearDesc>
   
-  <DesignatorSlaughter>Slaughter</DesignatorSlaughter>
-  <DesignatorSlaughterDesc>Slaughter a tame animal.</DesignatorSlaughterDesc>
+  <DesignatorAreaSnowClearExpand>Qarlı ərazini təmizlə</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Kolonistlər bu ərazidəki qarları təmizləyərlər.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Qarları təmizləmə ərazisini ləğv et</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Kolonistlər bu ərazini artıq qardan təmizləməyəcəklər.</DesignatorAreaSnowClearClearDesc>
 
-  <DesignatorTame>Tame</DesignatorTame>
-  <DesignatorTameDesc>Tame a wild animal.</DesignatorTameDesc>
+  <DesignatorExpandAreaAllowed>İcazəli əraziləri genişlət</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>İcazə verilən ərazilərə təyin olanan kolonistlər sadəcə burdakı işləri görər və kənara çıxmazlar.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>İcazəli ərazini sil</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>icazə verilən ərazini sil.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>İcazəli əraziləri idarə et...</ManageAreas>
+  
+  <DesignatorGrowingZoneDesc>Kolonistlərin bitki əkə biləcəkləri bir yer yaradın.(Əgər əkiləcək heç nə seçməsəniz kartof əkəcəklər).</DesignatorGrowingZoneDesc>
 
+  <DesignatorZoneCreateStorageResourcesDesc>Kolonistlərin əşyaları yığa biləcəkləri bir depo yaradır.\nBununla mövcud olan depoları genişlədə bilərsən.</DesignatorZoneCreateStorageResourcesDesc>
 
+  <DesignatorZoneCreateStorageDumpingDesc>Kolonistlərin zibilləri ata biləcəyi bir zibilxana yarat.\nBununla hər hansı bir zibilxananı genişlədə bilərsən.</DesignatorZoneCreateStorageDumpingDesc>
+  
+  <DesignatorRemoveFloor>Döşəməni çıxar</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Sonradan düzəldilən döşəmələri çıxar.</DesignatorRemoveFloorDesc>
+
+  <DesignatorZoneDelete>Ərazini sil</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Depo və əkin sahələrini sil.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>Mənimsə</DesignatorClaim>
+  <DesignatorClaimDesc>Başqa bir koloniyaya aid və ya heç kimin olmayan əşyanı və bölgəni mənimsəməyə bilərsən. Mənimsənilən yeri sökə və ya təmir edə bilərsən.</DesignatorClaimDesc>
+
+  <DesignatorStrip>Soymaq</DesignatorStrip>
+  <DesignatorStripDesc>Cəsəttləri və ya yaralıları soy.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Tələni yeniden qur</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Açılmış tələləri yenidən qur.</DesignatorRearmTrapDesc>
+
+  <DesignatorOpen>Aç</DesignatorOpen>
+  <DesignatorOpenDesc>Bağlı konteynerləri aç.</DesignatorOpenDesc>
+  
+  <DesignatorSlaughter>Heyvanları kəs</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Əhilləşmiş heyvanı kəs.</DesignatorSlaughterDesc>
+  
+  <DesignatorTame>Əhilləşdir</DesignatorTame>
+  <DesignatorTameDesc>Vəhşi heyvanları əhilləşdir.</DesignatorTameDesc>
+
+  
   <!-- Failure messages -->
-  <UnchosenStuff>Unchosen material</UnchosenStuff>
-  <TooCloseToMapEdge>Too close to map edge.</TooCloseToMapEdge>
-  <OutOfBounds>Out of bounds.</OutOfBounds>
-  <CannotPlaceInUndiscovered>Cannot place in undiscovered areas.</CannotPlaceInUndiscovered>
-  <InteractionSpotBlocked>Interaction spot is blocked by {0}.</InteractionSpotBlocked>
-  <InteractionSpotOutOfBounds>Interaction spot is out of bounds.</InteractionSpotOutOfBounds>
-  <InteractionSpotWillBeBlocked>Interaction spot will be blocked by {0}.</InteractionSpotWillBeBlocked>
-  <WouldBlockInteractionSpot>{0} would block {1}'s interaction spot.</WouldBlockInteractionSpot>
-  <TerrainIsAlready>The terrain here is already {0}.</TerrainIsAlready>
-  <TerrainBeingSmoothed>The terrain is already marked for smoothing.</TerrainBeingSmoothed>
-  <IdenticalThingExists>Identical thing already exists here.</IdenticalThingExists>
-  <IdenticalBlueprintExists>Identical blueprint already exists here.</IdenticalBlueprintExists>
-  <TerrainCannotSupport>The terrain here cannot support this.</TerrainCannotSupport>
-  <SpaceAlreadyOccupied>Space already occupied.</SpaceAlreadyOccupied>
-  <SpaceBeingSmoothed>Space being smoothed.</SpaceBeingSmoothed>
-  <TerrainMustBeRemovable>Must target a removable floor.</TerrainMustBeRemovable>
+  <UnchosenStuff>Material seçilmədi.</UnchosenStuff>
+  <TooCloseToMapEdge>Xəritənin kənarına çox yaxın.</TooCloseToMapEdge>
+  <OutOfBounds>Kənarda.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Kəşfedilməyən ərazilərə yerləşdirilməz.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Qarşılıqlı təsir nöqtəsi {0} tərəfindən bloklanıb.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Qarşılıqlı təsir nöqtəsindən xaricdə.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Qarşılıqlı təsir nöqtəsi{0} tərəfindən bloklanacaq.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0}, {1}'in qarşılıqlı təsir nöqtəsini bloklayacaq.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Buradakı ərazi onsuzda {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Bu ərazi onsuzda hamarlaşdırmaq üçün seçildi.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Onsuzda burda eynisindən var.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Onsuzda burda eyni plan var.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Ərazi bunu dəstəkləmir.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Yer dolu.</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Söküləbilən döşəmə seçilməlidir.</TerrainMustBeRemovable>
   
   
   <!-- Mouse attachments -->
-  <ExpandOrCreateZone>Expand {0} or\nCreate new {1}</ExpandOrCreateZone>
-  <CreateNewZone>Create new {0}</CreateNewZone>
+  <ExpandOrCreateZone>{0} 'ı genişlət yada \n Yeni bir {1} yarat.</ExpandOrCreateZone>
+  <CreateNewZone>Yeni bir {0} yarat.</CreateNewZone>
+
   
-  
-  <!-- Desc helpers -->
-  <TransmitsPower>Transmits power</TransmitsPower>
-  <ConstructionNeeded>Construction needed</ConstructionNeeded>
+  <!-- desc helpers -->
+  <TransmitsPower>Elektrik ötürülür</TransmitsPower>
+  <ConstructionNeeded>İnşaar lazımdır</ConstructionNeeded>
+
 
 </LanguageData>
