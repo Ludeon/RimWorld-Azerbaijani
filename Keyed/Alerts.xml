@@ -9,7 +9,7 @@
   <BreakRiskMinorDesc>Bu kolonistlərin kefi yoxdur. Hər an kiçik böhran keçirə bilərlər:\n\n{0}</BreakRiskMinorDesc>
   <BreakRiskMajorDesc>Bu kolonistlərdə vəziyyət xarabdı. Hər an böyük böhran keçirə bilərlər:\n\n{0}</BreakRiskMajorDesc>
   <BreakRiskExtremeDesc>Bu kolonistlərdə vəziyyət həddən artıq xarabdı və hər an dəli ola bilərlər (böyük ehtimalla qabaqlarına nı keçsə dağıdacaqlar):\n\n{0}</BreakRiskExtremeDesc>
-  <BreakRiskDescEnding>Bu kolonistlərin nəyə üzüldüyünə baxmaq üçün ehtiyaçlar hissəsinə keç..\n\n Kolonistlərin özlərini daha yaxşı hiss etməsi üçün, onlara dadlı yeməklər, əyləncə vasitələri, qəşəng otaqlar, siqaret və içki təşkil edə bilərsən.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Bu kolonistlərin nəyə üzüldüyünə baxmaq üçün ehtiyaclar hissəsinə keç..\n\n Kolonistlərin özlərini daha yaxşı hiss etməsi üçün, onlara dadlı yeməklər, əyləncə vasitələri, qəşəng otaqlar, siqaret və içki təşkil edə bilərsən.</BreakRiskDescEnding>
 
   <ColonistNeedsRescue>kolonisti qurtarmaq lazımdır</ColonistNeedsRescue>
   <ColonistsNeedRescue>kolonistlərin qurtarılması lazımdır</ColonistsNeedRescue>
