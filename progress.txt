@@ -21,7 +21,7 @@
 |       Dialogs_Various.xml
 |       Dialog_StatsReports.xml-------------------> 95%
 |       Dialog_Trees.xml--------------------------> 100%
-|       Enums.xml
+|       Enums.xml---------------------------------> 100%
 |       FloatMenu.xml
 |       GameplayCommands.xml
 |       Grammar.xml
