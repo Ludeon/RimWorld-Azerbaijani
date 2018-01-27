@@ -20,7 +20,7 @@
 |       Designators.xml---------------------------> 100%
 |       Dialogs_Various.xml
 |       Dialog_StatsReports.xml-------------------> 95%
-|       Dialog_Trees.xml
+|       Dialog_Trees.xml--------------------------> 100%
 |       Enums.xml
 |       FloatMenu.xml
 |       GameplayCommands.xml
