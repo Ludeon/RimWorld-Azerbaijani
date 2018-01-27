@@ -1,0 +1,3 @@
+Keyed>Dialog_StatReports.xml
+<StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
+<StatsReport_GearAndInventoryMass>Gear and inventory</StatsReport_GearAndInventoryMass>
