@@ -9,3 +9,6 @@ Keyed > Enums.xml
 <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
 
 -------------------------------------
+Keyed > FloatMenu.xml
+
+<NoWort>need wort</NoWort>

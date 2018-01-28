@@ -1,75 +1,75 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<CallOnRadio>Call {0}</CallOnRadio>
-  <CannotUseReason>Cannot use ({0})</CannotUseReason>
-	<CannotUseSolarFlare>Cannot use (solar flare)</CannotUseSolarFlare>
-	<CannotUseNoPower>Cannot use (no power)</CannotUseNoPower>
-	<CannotUseNoPath>Cannot use (no path)</CannotUseNoPath>
-  <CannotUseReserved>Cannot use (reserved)</CannotUseReserved>
-  <CannotUseFull>Cannot use (full)</CannotUseFull>
-	<LeaderUnavailable>leader {0} is unavailable</LeaderUnavailable>
-	<LeaderUnavailableNoLeader>leader is unavailable</LeaderUnavailableNoLeader>
+	<CallOnRadio>Zəng Et {0}</CallOnRadio>
+  <CannotUseReason>İstifadə oluna bilməz ({0})</CannotUseReason>
+	<CannotUseSolarFlare>İstifadə oluna bilməz (günəş partlaması)</CannotUseSolarFlare>
+	<CannotUseNoPower>İstifadə oluna bilməz (elektrik yoxdur)</CannotUseNoPower>
+	<CannotUseNoPath>İstifadə oluna bilməz (yol yoxdur)</CannotUseNoPath>
+  <CannotUseReserved>İstifadə oluna bilməz (rezerv)</CannotUseReserved>
+  <CannotUseFull>İstifadə oluna bilməz (dolu)</CannotUseFull>
+	<LeaderUnavailable>lider {0} istifadə edilə bilmir</LeaderUnavailable>
+	<LeaderUnavailableNoLeader>lider istifadə edilə bilmir</LeaderUnavailableNoLeader>
   
-  <FireAt>Fire at {0}</FireAt>
+  <FireAt>Atəş aç {0}</FireAt>
 
-  <OutOfRange>out of range</OutOfRange>
-  <CannotHitTarget>cannot hit target</CannotHitTarget>
-  <IsIncapableOfViolenceLower>{0} is incapable of violence</IsIncapableOfViolenceLower>
-  <IncapableOfViolenceLower>incapable of violence</IncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} is not drafted</IsNotDraftedLower>
-  <CannotOrderNonControlledLower>cannot order non-controlled units</CannotOrderNonControlledLower>
-  <CannotAttackSelf>cannot attack self</CannotAttackSelf>
+  <OutOfRange>hədəfdən kənarda</OutOfRange>
+  <CannotHitTarget>hədəfi vura bilməz</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} şiddət və zorakılıq edə bilmir</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>şiddət və zorakılıq edə bilmir</IncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} səfərbərlikə keçirilməyib</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>idarə olunmayan bölmələrə əmr vermək olmur</CannotOrderNonControlledLower>
+  <CannotAttackSelf>şəxsi hücum etmək olmur</CannotAttackSelf>
 
-  <OrderManThing>Man {0}</OrderManThing>
+  <OrderManThing>Adam {0}</OrderManThing>
   
-  <MeleeAttack>Melee attack {0}</MeleeAttack>
-  <MeleeAttackToDeath>Melee attack {0} to death</MeleeAttackToDeath>
-  <NoPath>no path</NoPath>
+  <MeleeAttack>Yaxın döyüş {0}</MeleeAttack>
+  <MeleeAttackToDeath>{0} yaxın döyüş ilə öldür</MeleeAttackToDeath>
+  <NoPath>yol yoxdur</NoPath>
 
-	<ForbiddenLower>forbidden</ForbiddenLower>
-	<ForbiddenOutsideAllowedAreaLower>outside allowed area</ForbiddenOutsideAllowedAreaLower>
-	<NotInHomeArea>not in home area</NotInHomeArea>
-	<BurningLower>burning</BurningLower>
-	<NoEmptyPlaceLower>no empty, accessible spot configured to store it</NoEmptyPlaceLower>
-	<AlreadyFilledLower>already filled enough</AlreadyFilledLower>
-	<MissingMaterials>need material</MissingMaterials>
-	<MissingSkill>skill too low</MissingSkill>
-	<NoEmptyGraveLower>no empty grave configured to store it</NoEmptyGraveLower>
-	<AnimalInteractedTooRecently>animal interacted too recently</AnimalInteractedTooRecently>
-	<NoUsableFood>no usable food</NoUsableFood>
-	<NoFood>no food</NoFood>
-	<AnimalsSkillTooLow>animals skill too low</AnimalsSkillTooLow>
-  <ConstructionSkillTooLow>construction skill too low</ConstructionSkillTooLow>
-	<NoComponentsToRepair>need components</NoComponentsToRepair>
-	<NoFuelToRefuel>need {0}</NoFuelToRefuel>
+	<ForbiddenLower>qadağan olunub</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>icazə verilən ərazidən kənarda</ForbiddenOutsideAllowedAreaLower>
+	<NotInHomeArea>ev ərazisində deyil</NotInHomeArea>
+	<BurningLower>yanır</BurningLower>
+	<NoEmptyPlaceLower>bunu saxlamağa boş anbar yoxdur</NoEmptyPlaceLower>
+	<AlreadyFilledLower>onsuzda lazımı qədər doludur</AlreadyFilledLower>
+	<MissingMaterials>material lazımdır</MissingMaterials>
+	<MissingSkill>bacarığı çox zəifdir</MissingSkill>
+	<NoEmptyGraveLower>saxlamaq üçün boş qəbir yoxdur</NoEmptyGraveLower>
+	<AnimalInteractedTooRecently>heyvanla bir az bundan qabaq qarşılıqlı təsirdə oldu</AnimalInteractedTooRecently>
+	<NoUsableFood>istifadə oluna bilən qida yoxdur</NoUsableFood>
+	<NoFood>qida yoxdur</NoFood>
+	<AnimalsSkillTooLow>heyvanın bacarığı çox aşağıdır</AnimalsSkillTooLow>
+  <ConstructionSkillTooLow>inşaat bacarığı çox aşağıdır</ConstructionSkillTooLow>
+	<NoComponentsToRepair>komponent lazımdır</NoComponentsToRepair>
+	<NoFuelToRefuel>lazımdır {0}</NoFuelToRefuel>
   <NoWort>need wort</NoWort>
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>available food is in storage of higher priority</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
-  <NoFoodToFillHopper>no suitable food</NoFoodToFillHopper>
-  <SelfTendDisabled>self-tend disabled</SelfTendDisabled>
-  <ReservedForPrisoners>reserved for prisoners</ReservedForPrisoners>
-  <CannotReach>cannot reach</CannotReach>
-  <NotSurgeryReady>not ready for surgery</NotSurgeryReady>
-  <CantSowCavePlantBecauseOfLight>too bright</CantSowCavePlantBecauseOfLight>
-  <CantSowCavePlantBecauseUnroofed>unroofed</CantSowCavePlantBecauseUnroofed>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>anbarda olan uyğun qidalar yüksək prioritetə malikdir</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>uyğun qida yoxdur</NoFoodToFillHopper>
+  <SelfTendDisabled>şəxsi müalicə ləğv edilib</SelfTendDisabled>
+  <ReservedForPrisoners>dustaq tərəfindən rezerv edilib</ReservedForPrisoners>
+  <CannotReach>çata bilməz</CannotReach>
+  <NotSurgeryReady>əməliyyata hazır deyil</NotSurgeryReady>
+  <CantSowCavePlantBecauseOfLight>çox işıqlıdır</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>damörtüyü yoxdur</CantSowCavePlantBecauseUnroofed>
   
-  <ConsumeThing>Consume {0}</ConsumeThing>
+  <ConsumeThing>Ye {0}</ConsumeThing>
   
-  <CannotGoNoPath>Cannot go here (no path)</CannotGoNoPath>
-  <GoHere>Go here</GoHere>
+  <CannotGoNoPath>Bura gedə bilməz (yol yoxdur)</CannotGoNoPath>
+  <GoHere>Bura get</GoHere>
   
-  <Arrest>Arrest {0}</Arrest>
-  <TryToArrest>Try to arrest {0}</TryToArrest>
-  <CannotArrest>Cannot arrest</CannotArrest>
+  <Arrest>Həbs elə {0}</Arrest>
+  <TryToArrest>Həbs etməyə çalış {0}</TryToArrest>
+  <CannotArrest>Həbs edə bilməz</CannotArrest>
 
-  <Capture>Capture {0}</Capture>
-  <CannotCapture>Cannot capture</CannotCapture>
+  <Capture>Tutu {0}</Capture>
+  <CannotCapture>Tutmağa çalış</CannotCapture>
 
-  <Rescue>Rescue {0}</Rescue>
-  <CannotRescue>Cannot rescue</CannotRescue>
+  <Rescue>Qurtar {0}</Rescue>
+  <CannotRescue>Qurtara bilməz</CannotRescue>
 
-  <CarryToCryptosleepCasket>Carry {0} to cryptosleep casket</CarryToCryptosleepCasket>
-  <CannotCarryToCryptosleepCasket>Cannot carry to cryptosleep casket</CannotCarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>{0} kriptoyuxu konteynerinə apar</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Kriptoyuxu konteynerinə apara bilir </CannotCarryToCryptosleepCasket>
 
   <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
   <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature.</NoPrisonerBed>
