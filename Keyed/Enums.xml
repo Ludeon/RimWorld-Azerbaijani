@@ -12,7 +12,7 @@
   <Never>İcazə Vermə</Never>
   
   <!-- Price types -->
-  <PriceTypeVeryCheap>Çox ucuz</PriceTypeVeryCheap>
+  <PriceTypeVeryCheap>çox ucuz</PriceTypeVeryCheap>
   <PriceTypeCheap>ucuz</PriceTypeCheap>
   <PriceTypeNormal>normal</PriceTypeNormal>
   <PriceTypeExpensive>bahalı</PriceTypeExpensive>
