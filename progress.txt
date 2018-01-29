@@ -28,7 +28,7 @@
 |       Incidents.xml
 |       ITabs.xml---------------------------------> 100%
 |       Letters.xml
-|       MainTabs.xml
+|       MainTabs.xml------------------------------> 100%
 |       Menus_Main.xml
 |       Menu_KeyBindings.xml
 |       Menu_Options.xml
