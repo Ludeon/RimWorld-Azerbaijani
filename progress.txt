@@ -24,9 +24,9 @@
 |       Enums.xml---------------------------------> 100%
 |       FloatMenu.xml-----------------------------> 99%
 |       GameplayCommands.xml
-|       Grammar.xml
+|       Grammar.xml-------------------------------> 100%
 |       Incidents.xml
-|       ITabs.xml
+|       ITabs.xml---------------------------------> 100%
 |       Letters.xml
 |       MainTabs.xml
 |       Menus_Main.xml
