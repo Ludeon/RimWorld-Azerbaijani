@@ -80,91 +80,91 @@
   <IsReservedBy>{0} bu {1} tərəfindən rezerv olunub.</IsReservedBy>
   <TooHeavy>Çox ağır</TooHeavy>
 
-  <Incapable>bacarıqsıq</Incapable>
+  <Incapable>bacarıqsız</Incapable>
   <IncapableOfCapacity>{0} bacarmır</IncapableOfCapacity>
 
   <MinSkill>minimum bacarıq</MinSkill>
   
   <Equip>Silahlan {0}</Equip>
-  <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
-  <CannotEquip>Cannot equip {0}</CannotEquip>
+  <EquipWarningBrawler>(döyüşçünün xoşu gəlməyəcək)</EquipWarningBrawler>
+  <CannotEquip>{0} silahını götürə bilməz</CannotEquip>
   
-  <ForceWear>Force wear {0}</ForceWear>
-  <CannotWear>Cannot wear {0}</CannotWear>
-  <CannotWearBecauseOfMissingBodyParts>missing body parts</CannotWearBecauseOfMissingBodyParts>
+  <ForceWear>Geyinməyə məcbur et {0}</ForceWear>
+  <CannotWear>Geyinə bilməz {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>Bədən üzvü yoxdur</CannotWearBecauseOfMissingBodyParts>
   
-  <CannotPickUp>Cannot pick up {0}</CannotPickUp>
-  <CannotPickUpAll>Cannot pick up {0} (all)</CannotPickUpAll>
-  <PickUp>Pick up {0}</PickUp>
-  <PickUpAll>Pick up {0} (all)</PickUpAll>
-  <PickUpSome>Pick up {0}...</PickUpSome>
-  <PickUpCount>Pick up {0} x{{0}}</PickUpCount>
+  <CannotPickUp>{0} götürə bilməz</CannotPickUp>
+  <CannotPickUpAll>{0} götürə bilməz (heç birini)</CannotPickUpAll>
+  <PickUp>{0} götür</PickUp>
+  <PickUpAll>{0} götür (hamısını)</PickUpAll>
+  <PickUpSome>{0} götür...</PickUpSome>
+  <PickUpCount>{0} götür x{{0}}</PickUpCount>
   
-  <CannotGiveToPackAnimal>Cannot give {0} to pack animal</CannotGiveToPackAnimal>
-  <CannotGiveToPackAnimalAll>Cannot give {0} (all) to pack animal</CannotGiveToPackAnimalAll>
-  <GiveToPackAnimal>Give {0} to pack animal</GiveToPackAnimal>
-  <GiveToPackAnimalAll>Give {0} (all) to pack animal</GiveToPackAnimalAll>
-  <GiveToPackAnimalSome>Give {0} to pack animal...</GiveToPackAnimalSome>
-  <GiveToPackAnimalCount>Take {0} x{{0}}</GiveToPackAnimalCount>
+  <CannotGiveToPackAnimal>{0} heyvana verə bilməz</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>{0} heyvana verə bilməz (heç birini)</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Heyvana {0} ver</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Heyvana {0} ver (hamısını)</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Heyvana {0} ver...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Götür {0} x{{0}}</GiveToPackAnimalCount>
   
-  <CannotCarryToExit>Cannot carry {0} and leave the area</CannotCarryToExit>
-  <CarryToExit>Carry {0} and leave the area</CarryToExit>
+  <CannotCarryToExit>{0} daşıya və ərazini tərk edə bilməz</CannotCarryToExit>
+  <CarryToExit>{0} daşı və ərazini tərk et</CarryToExit>
   
-  <Strip>Strip {0}</Strip>
-  <CannotStrip>Cannot strip {0}</CannotStrip>
+  <Strip>Soyundur {0}</Strip>
+  <CannotStrip>Soyundura bilməz {0}</CannotStrip>
 
-  <SelfDestructHere>Self-destruct here</SelfDestructHere>
+  <SelfDestructHere>Buranı dağıt</SelfDestructHere>
   
-  <Drop>Drop {0}</Drop>
+  <Drop>At yerə {0}</Drop>
 
-  <UseMedicalBed>Rest until healed</UseMedicalBed>
-  <NotInjured>Not injured</NotInjured>
-  <SomeoneElseSleeping>Occupied by {0}</SomeoneElseSleeping>
+  <UseMedicalBed>Sağalana qədər istirahət et</UseMedicalBed>
+  <NotInjured>Yaralı deyil</NotInjured>
+  <SomeoneElseSleeping>{0} tərəfindən işlədilir (boşda deyil)</SomeoneElseSleeping>
   
-  <TradeWith>Trade with {0}</TradeWith>
-  <CannotTrade>Cannot trade</CannotTrade>
+  <TradeWith>{0} ilə alış-veriş et</TradeWith>
+  <CannotTrade>Alış-veriş edilə bilməz</CannotTrade>
   
-  <EnterMap>Enter {0}</EnterMap>
-  <VisitSettlement>Visit {0}</VisitSettlement>
-  <VisitPeaceTalks>Visit {0}</VisitPeaceTalks>
-  <VisitSite>Visit {0}</VisitSite>
-  <VisitEscapeShip>Visit {0}</VisitEscapeShip>
-  <AttackSite>Attack {0}</AttackSite>
-  <AttackSettlement>Attack {0}</AttackSettlement>
+  <EnterMap>Daxil ol {0}</EnterMap>
+  <VisitSettlement>Ziyarət et {0}</VisitSettlement>
+  <VisitPeaceTalks>Ziyarət et {0}</VisitPeaceTalks>
+  <VisitSite>Ziyarət et {0}</VisitSite>
+  <VisitEscapeShip>Ziyarət et {0}</VisitEscapeShip>
+  <AttackSite>Hücum et {0}</AttackSite>
+  <AttackSettlement>Hücum et {0}</AttackSettlement>
 
   <!-- Specific thing interactions -->
-  <EnterCryptosleepCasket>Enter cryptosleep casket</EnterCryptosleepCasket>
-  <OpenCryptosleepCasket>Open cryptosleep casket</OpenCryptosleepCasket>
+  <EnterCryptosleepCasket>Kriptoyuxu konteynerinə daxil ol</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Kriptoyuxu konteynerini aç</OpenCryptosleepCasket>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
-  <CannotGenericWork>Cannot {0} {1}</CannotGenericWork>
+  <CannotGenericWork>Edə bilməz {0} {1}</CannotGenericWork>
 
   <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
-  <CannotMissingHealthActivities>Cannot prioritize (incapable of {0})</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Prioritet verilə bilmir ({0} bacarmır)</CannotMissingHealthActivities>
 
-  <CannotGenericAlreadyAm>Already {0} {1}</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>Hal-hazırda {0} {1}</CannotGenericAlreadyAm>
 
-  <CannotPrioritizeWorkTypeDisabled>Cannot prioritize (will never do {0})</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Prioritet verilə bilmir ({0} heç vaxt etməyib)</CannotPrioritizeWorkTypeDisabled>
 
-	<CannotPrioritizeWorkGiverDisabled>Cannot prioritize (will never {0})</CannotPrioritizeWorkGiverDisabled>
+	<CannotPrioritizeWorkGiverDisabled>Prioritet verilə bilmir ({0} heç vaxt etməyib)</CannotPrioritizeWorkGiverDisabled>
 
-	<CannotPrioritizeNotAssignedToWorkType>Cannot prioritize (not assigned to {0})</CannotPrioritizeNotAssignedToWorkType>
+	<CannotPrioritizeNotAssignedToWorkType>Prioritet verilə bilmir ({0} təyin olunmayıb)</CannotPrioritizeNotAssignedToWorkType>
 
-  <CannotPrioritizeResearch>Cannot prioritize (research is a long-term task)</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Prioritet verilə bilmir (araşdırma çox çəkən işdir)</CannotPrioritizeResearch>
 
-  <CannotPrioritizeForbidden>Cannot prioritize ({0} is forbidden)</CannotPrioritizeForbidden>
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Cannot prioritize ({0} is outside allowed area)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbidden>Prioritet verilə bilmir ({0} icazə verilmir)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Prioritet verilə bilmir ({0} icazə verilən ərazidən kənardadır)</CannotPrioritizeForbiddenOutsideAllowedArea>
   
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
-  <PrioritizeGeneric>Prioritize {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>Prioritet ver {0} {1}</PrioritizeGeneric>
   
-  <DropAtEdge>Drop at edge</DropAtEdge>
-  <DropInCenter>Drop in center</DropInCenter>
+  <DropAtEdge>Qırağa at</DropAtEdge>
+  <DropInCenter>Ortaya at</DropInCenter>
   
-  <VomitingLower>vomiting</VomitingLower>
-  <NotInterruptibleLower>not interruptible</NotInterruptibleLower>
+  <VomitingLower>qusur</VomitingLower>
+  <NotInterruptibleLower>bölünə bilməz</NotInterruptibleLower>
   
-  <AddWaypoint>Add a new waypoint here</AddWaypoint>
-  <RemoveWaypoint>Remove this waypoint</RemoveWaypoint>
+  <AddWaypoint>Yeni yol əlavə et</AddWaypoint>
+  <RemoveWaypoint>Bu yolu sil</RemoveWaypoint>
   
 </LanguageData>
