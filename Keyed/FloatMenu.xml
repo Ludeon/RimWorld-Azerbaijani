@@ -85,7 +85,7 @@
 
   <MinSkill>minimum bacarıq</MinSkill>
   
-  <Equip>Geyin {0}</Equip>
+  <Equip>Silahlan {0}</Equip>
   <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
   <CannotEquip>Cannot equip {0}</CannotEquip>
   
