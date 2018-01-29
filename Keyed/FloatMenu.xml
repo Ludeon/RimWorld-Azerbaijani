@@ -71,21 +71,21 @@
   <CarryToCryptosleepCasket>{0} kriptoyuxu konteynerinə apar</CarryToCryptosleepCasket>
   <CannotCarryToCryptosleepCasket>Kriptoyuxu konteynerinə apara bilir </CannotCarryToCryptosleepCasket>
 
-  <NoCryptosleepCasket>No available cryptosleep casket.</NoCryptosleepCasket>
-  <NoPrisonerBed>No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature.</NoPrisonerBed>
-  <NoNonPrisonerBed>No reachable, un-reserved non-prisoner bed in safe temperature.</NoNonPrisonerBed>
-  <NoAnimalBed>No reachable, un-reserved animal bed in safe temperature.</NoAnimalBed>
-  <Reserved>Reserved by someone else.</Reserved>
-  <ReservedBy>Reserved by {0}</ReservedBy>
-  <IsReservedBy>{0} is reserved by {1}.</IsReservedBy>
-  <TooHeavy>Too heavy</TooHeavy>
+  <NoCryptosleepCasket>Boşda kriptoyuxu konteyneri yoxdur.</NoCryptosleepCasket>
+  <NoPrisonerBed>Dustaq üçün yataq yoxdur.</NoPrisonerBed>
+  <NoNonPrisonerBed>Dustaq üçün yataq yoxdur.</NoNonPrisonerBed>
+  <NoAnimalBed>Heyvan üçün yataq yoxdur.</NoAnimalBed>
+  <Reserved>Başqa biri tərəfindən rezrev edilib.</Reserved>
+  <ReservedBy>{0} tərəfindən rezerv olunub.</ReservedBy>
+  <IsReservedBy>{0} bu {1} tərəfindən rezerv olunub.</IsReservedBy>
+  <TooHeavy>Çox ağır</TooHeavy>
 
-  <Incapable>incapable</Incapable>
-  <IncapableOfCapacity>incapable of {0}</IncapableOfCapacity>
+  <Incapable>bacarıqsıq</Incapable>
+  <IncapableOfCapacity>{0} bacarmır</IncapableOfCapacity>
 
-  <MinSkill>min skill</MinSkill>
+  <MinSkill>minimum bacarıq</MinSkill>
   
-  <Equip>Equip {0}</Equip>
+  <Equip>Geyin {0}</Equip>
   <EquipWarningBrawler>(brawler will be unhappy)</EquipWarningBrawler>
   <CannotEquip>Cannot equip {0}</CannotEquip>
   
