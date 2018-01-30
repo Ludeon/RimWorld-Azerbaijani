@@ -17,7 +17,7 @@
   <CannotHitTarget>hədəfi vura bilməz</CannotHitTarget>
   <IsIncapableOfViolenceLower>{0} şiddət və zorakılıq edə bilmir</IsIncapableOfViolenceLower>
   <IncapableOfViolenceLower>şiddət və zorakılıq edə bilmir</IncapableOfViolenceLower>
-  <IsNotDraftedLower>{0} səfərbərlikə keçirilməyib</IsNotDraftedLower>
+  <IsNotDraftedLower>{0} səfərbərliyə keçirilməyib</IsNotDraftedLower>
   <CannotOrderNonControlledLower>idarə olunmayan bölmələrə əmr vermək olmur</CannotOrderNonControlledLower>
   <CannotAttackSelf>şəxsi hücum etmək olmur</CannotAttackSelf>
 
@@ -62,7 +62,7 @@
   <TryToArrest>Həbs etməyə çalış {0}</TryToArrest>
   <CannotArrest>Həbs edə bilməz</CannotArrest>
 
-  <Capture>Tutu {0}</Capture>
+  <Capture>{0} tut</Capture>
   <CannotCapture>Tutmağa çalış</CannotCapture>
 
   <Rescue>Qurtar {0}</Rescue>
