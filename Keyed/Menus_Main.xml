@@ -2,17 +2,17 @@
 <LanguageData>
 
   <!--=========== Main menu ==========-->
-  <Tutorial>Tutorial</Tutorial>
-  <NewColony>New colony</NewColony>
-  <BackToGame>Back to game</BackToGame>
-  <ReviewScenario>Review scenario</ReviewScenario>
-  <Save>Save</Save>
-  <LoadGame>Load game</LoadGame>
-  <Options>Options</Options>
-  <Mods>Mods</Mods>
+  <Tutorial>Dərsliklər</Tutorial>
+  <NewColony>Yeni Koloniya</NewColony>
+  <BackToGame>Oyuna geri dön</BackToGame>
+  <ReviewScenario>Senari icmalı</ReviewScenario>
+  <Save>Yaddaşa ver</Save>
+  <LoadGame>Yüklə</LoadGame>
+  <Options>Seçimlər</Options>
+  <Mods>Modlar</Mods>
   <Credits>Credits</Credits>
-  <QuitToMainMenu>Quit to main menu</QuitToMainMenu>
-  <SaveAndQuitToMainMenu>Save and quit to menu</SaveAndQuitToMainMenu>
+  <QuitToMainMenu>Menuya qayıt</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Yaddaşa ver və menuya qayıt</SaveAndQuitToMainMenu>
   <QuitToOS>Quit to OS</QuitToOS>
   <SaveAndQuitToOS>Save and quit to OS</SaveAndQuitToOS>
   <FictionPrimer>Fiction primer</FictionPrimer>
