@@ -12,3 +12,8 @@ Keyed > Enums.xml
 Keyed > FloatMenu.xml
 
 <NoWort>need wort</NoWort>
+
+-------------------------------------
+Keyed > Menus_Main.xml
+
+<Credits>Credits</Credits>
