@@ -88,7 +88,7 @@
   <Delete>Silin</Delete>
   
   <!--============ Scenario editor ===============-->
-  <Seed>Planer Adı</Seed>
+  <Seed>Planet Adı</Seed>
   <Load>Yüklə</Load>
   <EditMode>modu redaktə et</EditMode>
   <Summary>Nəticə</Summary>
@@ -102,88 +102,88 @@
   
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Hekayəni danışacaq Süni Zəkanı seçin</ChooseAIStoryteller>
-  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
-  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
-  <Difficulty>Difficulty</Difficulty>
+  <HowStorytellersWork>Süni Zəka pirat basqınları, qaynaqların düşməsi və ya heyvan hücumları kimi hadisələri yaradır. Bütün bunlar Koloniyanın hekayəsini formalaşdırır.</HowStorytellersWork>
+  <MustChooseDifficulty>Çətinlik ayarlarını seçin.</MustChooseDifficulty>
+  <Difficulty>Çətinlik</Difficulty>
 
   <!--=========== Landing site select =========-->
-  <SelectLandingSite>Select landing site</SelectLandingSite>
-  <SelectRandomSite>Select random site</SelectRandomSite>
-  <SelectSite>Select site</SelectSite>
-  <MustSelectLandingSite>Please select a landing site.</MustSelectLandingSite>
-  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
-  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
-  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
-  <BaseAlreadyThere>{0} already have a base there.</BaseAlreadyThere>
-  <YourBaseAlreadyThere>You already have a base there.</YourBaseAlreadyThere>
-  <TileOccupied>This tile is occupied.</TileOccupied>
-  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
-  <Biome>Biome</Biome>
-  <Terrain>Terrain</Terrain>
-  <Road>Road</Road>
-  <River>River</River>
-  <Elevation>Elevation</Elevation>
-  <Fertility>Fertility</Fertility>
-  <AvgTemp>Average temperature</AvgTemp>
-  <AvgSummerTemp>Summer temperature</AvgSummerTemp>
-	<AvgWinterTemp>Winter temperature</AvgWinterTemp>
-	<Rainfall>Rainfall</Rainfall>
-  <SpecialFeatures>Special features</SpecialFeatures>
-  <HasCoast0>northern coast</HasCoast0>
-  <HasCoast1>eastern coast</HasCoast1>
-  <HasCoast2>southern coast</HasCoast2>
-  <HasCoast3>western coast</HasCoast3>
-  <HasCaves>caves</HasCaves>
-  <FactionBase>Faction base</FactionBase>
-  <StoneTypesHere>Stone types</StoneTypesHere>
-  <TimeZone>Time zone</TimeZone>
-	<MovementTimeNow>Current movement time</MovementTimeNow>
-	<MovementTimeSummer>Summer movement time</MovementTimeSummer>
-	<MovementTimeWinter>Winter movement time</MovementTimeWinter>
-  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
-  <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
-  <PerYear>per year</PerYear>
+  <SelectLandingSite>Eniş nöqtəsini seçin</SelectLandingSite>
+  <SelectRandomSite>Rastgələ bir nöqtə</SelectRandomSite>
+  <SelectSite>Yer seçin</SelectSite>
+  <MustSelectLandingSite>Eniş nöqtəsi seçməlisiniz.</MustSelectLandingSite>
+  <CannotLandBiome>Bu bioma enə bilməzsiniz: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Bu biom əlavə edilmədi</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Keçilməz dağlara enə bilməzsiniz.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>Burda artıq {0} baza qurublar.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Burda artıq bazan var.</YourBaseAlreadyThere>
+  <TileOccupied>Bu nöqtə artıq tutulub.</TileOccupied>
+  <FactionBaseAdjacent>Yaşayış məntəqələri bir-birinə bitişik ola bilməz.</FactionBaseAdjacent>
+  <Biome>İqlim</Biome>
+  <Terrain>Relyef</Terrain>
+  <Road>Yol</Road>
+  <River>Çay</River>
+  <Elevation>Yüksəklik</Elevation>
+  <Fertility>Məhsuldarlıq</Fertility>
+  <AvgTemp>Ortalama Temperatur</AvgTemp>
+  <AvgSummerTemp>Yay Temperaturu</AvgSummerTemp>
+	<AvgWinterTemp>Qış Temperaturu</AvgWinterTemp>
+	<Rainfall>Yağıntı səviyyəsi</Rainfall>
+  <SpecialFeatures>Xüsusi özəlliklər</SpecialFeatures>
+  <HasCoast0>şimal sahili</HasCoast0>
+  <HasCoast1>şərq sahili</HasCoast1>
+  <HasCoast2>cənub sahili</HasCoast2>
+  <HasCoast3>qərb sahili</HasCoast3>
+  <HasCaves>mağaralar</HasCaves>
+  <FactionBase>Klan bazası</FactionBase>
+  <StoneTypesHere>Daş tipləri</StoneTypesHere>
+  <TimeZone>Saat qurşağı</TimeZone>
+	<MovementTimeNow>Cari hərəkət vaxtı</MovementTimeNow>
+	<MovementTimeSummer>Yay hərəkət vaxtı</MovementTimeSummer>
+	<MovementTimeWinter>Qış hərəkət vaxtı</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Heyvanlar indi otlaya bilər</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Orta xəstəlik sıxlığı</AverageDiseaseFrequency>
+  <PerYear>ildə</PerYear>
 
 
 	<!--=========== Character chooser ==========-->
-  <CreateCharacters>Create characters</CreateCharacters>
-  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
-  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
-  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
-  <Randomize>Randomize</Randomize>
-  <AgeIndicator>age {0}</AgeIndicator>
-  <Backstory>Backstory</Backstory>
-  <IncapableOf>Incapable of</IncapableOf>
-  <Traits>Traits</Traits>
-  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
-  <Skills>Skills</Skills>
-  <NoneLower>none</NoneLower>
-  <Adulthood>Adulthood</Adulthood>
-  <Childhood>Childhood</Childhood>
-  <Male>male</Male>
-  <Female>female</Female>
-  <Pain>Pain</Pain>
-  <Health>Health</Health>
-  <Relations>Relations</Relations>
-  <TeamSkills>Team skills</TeamSkills>
-  <StartingPawnsSelected>Selected</StartingPawnsSelected>
-  <StartingPawnsLeftBehind>Left behind</StartingPawnsLeftBehind>
+  <CreateCharacters>Personaj yarat</CreateCharacters>
+  <FirstNameDesc>Adı.\n\nBu ancaq bəzi menularda görsənəcək.</FirstNameDesc>
+  <ShortIdentifierDesc>Təxəllüs.\n\nBu hər zaman görsənəcək. Adı, Soyadı və ya tamamilə başqa bir şey ola bilər.</ShortIdentifierDesc>
+  <LastNameDesc>Soyadı.\n\nBu ancaq bəzi menularda görsənəcək.</LastNameDesc>
+  <Randomize>Rastgələ</Randomize>
+  <AgeIndicator>yaş {0}</AgeIndicator>
+  <Backstory>Keçmişi</Backstory>
+  <IncapableOf>Edə bilmir</IncapableOf>
+  <Traits>Xasiyyətləri</Traits>
+  <PermanentMoodEffect>Daimi əhval effekti</PermanentMoodEffect>
+  <Skills>Bacarıqları</Skills>
+  <NoneLower>heç biri</NoneLower>
+  <Adulthood>Yetkinlik çağı</Adulthood>
+  <Childhood>Uşaqlıq çağı</Childhood>
+  <Male>kişi</Male>
+  <Female>qadın</Female>
+  <Pain>Ağrı</Pain>
+  <Health>Sağlıq</Health>
+  <Relations>Münasibətlər</Relations>
+  <TeamSkills>Komanda bacarıqları</TeamSkills>
+  <StartingPawnsSelected>Seçilmişlər</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Arxada qalanlar</StartingPawnsLeftBehind>
   
   <!--=========== Misc ==========-->
-  <Start>Start</Start>
-  <Advanced>Advanced</Advanced>
-  <Next>Next</Next>
-  <Back>Back</Back>
-  <Gameplay>Gameplay</Gameplay>
-  <ConfirmQuit>Really quit? You'll lose unsaved progress.</ConfirmQuit>
-  <EveryoneNeedsValidName>Each person needs a valid name.</EveryoneNeedsValidName>
-  <Quit>Quit</Quit>
-  <Ignore>Ignore</Ignore>
+  <Start>Başla</Start>
+  <Advanced>Təkmilləşdirilmiş</Advanced>
+  <Next>Növbəti</Next>
+  <Back>Geri</Back>
+  <Gameplay>Oynanış</Gameplay>
+  <ConfirmQuit>Dəqiq çıxılsın? Yaddaşa verilməmiş məlumatları itirəcəksiniz.</ConfirmQuit>
+  <EveryoneNeedsValidName>Hər şəxsin uyğun bir adı olmalıdır.</EveryoneNeedsValidName>
+  <Quit>Çıx</Quit>
+  <Ignore>Fikir vermə</Ignore>
   
   <!--============ Progress bar==============-->
-  <GeneratingWorld>Generating world</GeneratingWorld>
-  <GeneratingPlanet>Generating planet</GeneratingPlanet>
-  <GeneratingMap>Generating map</GeneratingMap>
-  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+  <GeneratingWorld>Dünya yaradılır</GeneratingWorld>
+  <GeneratingPlanet>Planet yaradılır</GeneratingPlanet>
+  <GeneratingMap>Xəritə yaradılır</GeneratingMap>
+  <GeneratingMapForNewEncounter>Rastlaşmaq üçün xəritə yaradılır</GeneratingMapForNewEncounter>
 
 </LanguageData>
