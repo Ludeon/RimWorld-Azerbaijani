@@ -2,18 +2,6 @@ Keyed > Dialog_StatReports.xml
 
 <StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
 <StatsReport_GearAndInventoryMass>Gear and inventory</StatsReport_GearAndInventoryMass>
+<StatsReport_GearAndInventoryMass>Tərtibat və inventar</StatsReport_GearAndInventoryMass>
 
 -------------------------------------
-Keyed > Enums.xml
-
-<ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
-
--------------------------------------
-Keyed > FloatMenu.xml
-
-<NoWort>need wort</NoWort>
-
--------------------------------------
-Keyed > Menus_Main.xml
-
-<Credits>Credits</Credits>

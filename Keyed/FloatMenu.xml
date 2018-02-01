@@ -43,7 +43,7 @@
   <ConstructionSkillTooLow>inşaat bacarığı çox aşağıdır</ConstructionSkillTooLow>
 	<NoComponentsToRepair>komponent lazımdır</NoComponentsToRepair>
 	<NoFuelToRefuel>lazımdır {0}</NoFuelToRefuel>
-  <NoWort>need wort</NoWort>
+  <NoWort>fermentə olmamış pivə lazımdır</NoWort>
   <TheOnlyAvailableFoodIsInStorageOfHigherPriority>anbarda olan uyğun qidalar yüksək prioritetə malikdir</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <NoFoodToFillHopper>uyğun qida yoxdur</NoFoodToFillHopper>
   <SelfTendDisabled>şəxsi müalicə ləğv edilib</SelfTendDisabled>
@@ -53,7 +53,7 @@
   <CantSowCavePlantBecauseOfLight>çox işıqlıdır</CantSowCavePlantBecauseOfLight>
   <CantSowCavePlantBecauseUnroofed>damörtüyü yoxdur</CantSowCavePlantBecauseUnroofed>
   
-  <ConsumeThing>Ye {0}</ConsumeThing>
+  <ConsumeThing>{0} ye</ConsumeThing>
   
   <CannotGoNoPath>Bura gedə bilməz (yol yoxdur)</CannotGoNoPath>
   <GoHere>Bura get</GoHere>
