@@ -2,82 +2,82 @@
 <LanguageData>
 
   <!-- Forbid -->
-  <CommandForbid>Forbid</CommandForbid>
-	<CommandForbiddenDesc>Forbidden - colonists will not interact with this.</CommandForbiddenDesc>
-	<CommandNotForbiddenDesc>Not forbidden - colonists may interact with this.</CommandNotForbiddenDesc>
+  <CommandForbid>Qadağa</CommandForbid>
+	<CommandForbiddenDesc>Qadağan - kolonist buna toxunmayacaq.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Qadağan olmayan - kolonistə bununla bağlı icazə verilib.</CommandNotForbiddenDesc>
 
   <!-- Power -->
-  <CommandTogglePowerLabel>Toggle power</CommandTogglePowerLabel>
-  <CommandTogglePowerDesc>Toggle power.</CommandTogglePowerDesc>
+  <CommandTogglePowerLabel>Yandır-Söndür</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Yandır-Söndür.</CommandTogglePowerDesc>
   
-  <CommandDesignateTogglePowerLabel>Designate toggle power</CommandDesignateTogglePowerLabel>
-  <CommandDesignateTogglePowerDesc>Designate this thing to have power toggled. A colonist will come soon to flick the switch.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerLabel>Elektrik durumunu dəyiş</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Bu alətin elektrik durumunu dəyişir. Kolonistlərdən biri ən qısa zamanda gəlib açarın vəziyətini dəyişəcək.</CommandDesignateTogglePowerDesc>
   
-  <CommandTryReconnectLabel>Reconnect</CommandTryReconnectLabel>
-  <CommandTryReconnectDesc>Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby.</CommandTryReconnectDesc>
+  <CommandTryReconnectLabel>Yenidən qoş</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Ətrafındakı başqa bir elektrik mənbəyinə qoşulmağa çalışacaq. Bu elektrik olmayan kabellərdən ayrılıb başqa bir kabelə qoşulmağa yarayır.</CommandTryReconnectDesc>
 
-  <CommandGatherSpotToggleLabel>Gather spot</CommandGatherSpotToggleLabel>
-  <CommandGatherSpotToggleDescActive>Active - colonists will gather around this object.</CommandGatherSpotToggleDescActive>
-  <CommandGatherSpotToggleDescInactive>Inactive - colonists will not gather around this object.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleLabel>Yığıncaq yeri</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktiv - Kolonistlər bunun ətrafında toplanacaq.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Aktiv deyil - Kolonistlər bunun ətrafında toplanamaycaq.</CommandGatherSpotToggleDescInactive>
   
   
   <!-- Drafting -->
-  <CommandDraftLabel>Draft</CommandDraftLabel>
-  <CommandUndraftLabel>Undraft</CommandUndraftLabel>
-  <CommandToggleDraftDesc>Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest.</CommandToggleDraftDesc>
-  <IsIncapped>{0} cannot walk.</IsIncapped>
+  <CommandDraftLabel>Səfərbərlik</CommandDraftLabel>
+  <CommandUndraftLabel>Səfərbərlikdən çıxar</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Səfərbərlik elan et.\n\nSəfərbər olmuş kolonistlər ancaq əmrləri yerinə yetirib döyüşəcək. İşləməyəcək, yeməyəcək və ya istirahət etməyəcəklər.</CommandToggleDraftDesc>
+  <IsIncapped>{0} yeriyə bilməz.</IsIncapped>
 
-  <CommandFireAtWillLabel>Fire at will</CommandFireAtWillLabel>
-	<CommandFireAtWillDesc>Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat.</CommandFireAtWillDesc>
+  <CommandFireAtWillLabel>Atəş açmağa icazə ver</CommandFireAtWillLabel>
+	<CommandFireAtWillDesc>Atəş açmaq seçimini dəyişdir.\n\n Deaktiv edildikdə, atəş mənzilindəki hədəflərə avtomatik atəş açmayacaq. Bu yaxın döyüşə təsir etmir.</CommandFireAtWillDesc>
 	
-  <CommandClearPrioritizedWork>Clear prioritized work</CommandClearPrioritizedWork>
-  <CommandClearPrioritizedWorkDesc>Clear any prioritized work you assigned. The character will go back to their usual self-directed activities.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWork>Prioritet verilən işi ləğv et</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Təyin etdiyiniz hər hansı prioritetli işləri ləğv edin. Kolonist öz işi ilə məşğul olacaq.</CommandClearPrioritizedWorkDesc>
   
-  <CommandCancelConstructionLabel>Cancel</CommandCancelConstructionLabel>
-  <CommandCancelConstructionDesc>Cancel this construction.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionLabel>Ləğv et</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Bu inşaatı ləğv et.</CommandCancelConstructionDesc>
 
-  <CommandGetOutOfBedLabel>Get out of bed</CommandGetOutOfBedLabel>
-  <CommandGetOutOfBedDesc>Get out of current bed.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedLabel>Qalx yataqdan</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Olduğu yataqdan qalxar.</CommandGetOutOfBedDesc>
 
-  <CommandBedSetOwnerLabel>Set owner</CommandBedSetOwnerLabel>
-  <CommandBedSetOwnerDesc>Assign this bed to be owned by a specific colonist.</CommandBedSetOwnerDesc>
-  <CommandGraveAssignColonistLabel>Assign colonist</CommandGraveAssignColonistLabel>
-  <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific colonist.</CommandGraveAssignColonistDesc>
-  <BuildingAssign>Assign</BuildingAssign>
-  <BuildingUnassign>Unassign</BuildingUnassign>
-  <CommandBedSetForPrisonersLabel>For prisoners</CommandBedSetForPrisonersLabel>
-  <CommandBedSetForPrisonersDesc>Whether beds in this room should be used by prisoners.</CommandBedSetForPrisonersDesc>
-  <CommandBedSetForPrisonersFailOutdoors>Only beds in enclosed spaces can be set for prisoners.</CommandBedSetForPrisonersFailOutdoors>
-  <CommandBedSetAsMedicalLabel>Medical</CommandBedSetAsMedicalLabel>
-  <CommandBedSetAsMedicalDesc>Whether this bed is for medical use.</CommandBedSetAsMedicalDesc>
-  <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
-  <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
-  <AreYouSure>Are you sure you want to do this?</AreYouSure>
+  <CommandBedSetOwnerLabel>Sahib</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Bu yatağı hər hansı bir kolonistə ver.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Kolonistə təyin et</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Bu qəbiri hər hansı bir kolonistə ver.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Təyin et</BuildingAssign>
+  <BuildingUnassign>Təyinatı ləğv et</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Dustaqlar üçün</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Bu otaqdakı yataqları dustaqlara ayır.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Dustaqlar çöldə yata bilməz.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Tibbi</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Bu yatağı tibbi istifadəyə ayır.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>Dustaq rejimini açmaq otaqdakı bütün yataqlara təsir edir (beləki dustaqlar ilə kolonistlər eyni otaqda yata bilməz).\n\nBu kolonistlər yataqlarını itirəcəklər:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Dustaq rejimini ləğv etmək otaqdakı bütün yataqlara təsir edir (beləki dustaqlar ilə kolonistlər eyni otaqda yata bilməz).\n\nBu dustaqlar yataqlarını itirəcəklər:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Bunu həqiqətən etmək istəyirsiniz?</AreYouSure>
 
-  <CommandDetonateLabel>Detonate</CommandDetonateLabel>
-  <CommandDetonateDesc>Start the countdown to detonation.</CommandDetonateDesc>
+  <CommandDetonateLabel>Partlat</CommandDetonateLabel>
+  <CommandDetonateDesc>Partlayış üçün geri sayımı başlat.</CommandDetonateDesc>
 
-  <CommandRenameZoneLabel>Rename</CommandRenameZoneLabel>
-  <CommandRenameZoneDesc>Rename this zone.</CommandRenameZoneDesc>
+  <CommandRenameZoneLabel>Yenidən adlandır</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Bu ərazinin adın dəyiş.</CommandRenameZoneDesc>
 
-  <CommandHideZoneLabel>Hide</CommandHideZoneLabel>
-  <CommandUnhideZoneLabel>Unhide</CommandUnhideZoneLabel>
-  <CommandHideZoneDesc>Hide/unhide this zone.</CommandHideZoneDesc>
+  <CommandHideZoneLabel>Gizlət</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Gizlətmə</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Bu ərazini Gizlət/Gizlətmə.</CommandHideZoneDesc>
 
-  <CommandDeleteZoneLabel>Delete</CommandDeleteZoneLabel>
-  <CommandDeleteZoneDesc>Delete this zone.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneLabel>Sil</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Ərazini sil.</CommandDeleteZoneDesc>
 
-  <CommandCopyZoneSettingsLabel>Copy settings</CommandCopyZoneSettingsLabel>
-  <CommandCopyZoneSettingsDesc>Copy this zone's settings to the clipboard so you can paste them onto another zone.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsLabel>Ayarları kopyala</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Ərazinin ayarlarını başqa əraziyə yapışdırmaq üçün kopyala.</CommandCopyZoneSettingsDesc>
 
-  <CommandPasteZoneSettingsLabel>Paste settings</CommandPasteZoneSettingsLabel>
-  <CommandPasteZoneSettingsDesc>Overwrite this zone's settings with those previously copied to the clipboard.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsLabel>Ayarları yapışdır</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Kopyalanmış ayarlar ilə carini dəyişdir.</CommandPasteZoneSettingsDesc>
 
-  <CommandAllowSow>Allow sowing</CommandAllowSow>
-  <CommandAllowSowDesc>When disabled, colonists will never sow plants in this zone. They will still harvest.</CommandAllowSowDesc>
+  <CommandAllowSow>Əkinə icazə ver</CommandAllowSow>
+  <CommandAllowSowDesc>Ləğv edildikdə, kolonistlər bu ərazidə heç nə əkmirlər sadəcə biçinlə məşğul olurlar.</CommandAllowSowDesc>
 
   <!-- Artillery -->
-  <CommandSetForceAttackTarget>Set forced target</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>Hədəf Seç</CommandSetForceAttackTarget>
   <CommandSetForceAttackTargetDesc>Sets a target that this turret must attack continuously as long as it can.</CommandSetForceAttackTargetDesc>
   <CommandStopForceAttack>Stop forced attack</CommandStopForceAttack>
   <CommandStopForceAttackDesc>Stops force-attacking and allows the turret to fire as it wishes.</CommandStopForceAttackDesc>
