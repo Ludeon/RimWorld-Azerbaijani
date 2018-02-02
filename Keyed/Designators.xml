@@ -7,11 +7,11 @@
   <DesignatorCutPlants>Bitkiləri kəs</DesignatorCutPlants>
   <DesignatorCutPlantsDesc>İşarələnən bitkilər kəsilər. Bitki tamamilə yox olacaq.</DesignatorCutPlantsDesc>
 
-  <DesignatorDeconstruct>Dağıt</DesignatorDeconstruct>
+  <DesignatorDeconstruct>Sök</DesignatorDeconstruct>
   <DesignatorDeconstructDesc>Binaları sök və işlənən materialların bir hissəsini geri al.</DesignatorDeconstructDesc>
 
-  <DesignatorUninstall>Sök</DesignatorUninstall>
-  <DesignatorUninstallDesc>Satılmaq və ya başqa biryerə yenidən inşa etmək üçün sök.</DesignatorUninstallDesc>
+  <DesignatorUninstall>Qaldır</DesignatorUninstall>
+  <DesignatorUninstallDesc>Satılmaq və ya başqa biryerə yenidən inşa etmək üçün götürün.</DesignatorUninstallDesc>
 
   <DesignatorHarvest>Biç</DesignatorHarvest>
   <DesignatorHarvestDesc>İşarələnən bitkilər və ya digər məhsullar biçilər.</DesignatorHarvestDesc>
