@@ -30,7 +30,7 @@
 |       Letters.xml
 |       MainTabs.xml------------------------------> 100%
 |       Menus_Main.xml----------------------------> 100%
-|       Menu_KeyBindings.xml
+|       Menu_KeyBindings.xml----------------------> 83%
 |       Menu_Options.xml
 |       Messages.xml
 |       Misc.xml
