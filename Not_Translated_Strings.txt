@@ -5,3 +5,14 @@ Keyed > Dialog_StatReports.xml
 <StatsReport_GearAndInventoryMass>Tərtibat və inventar</StatsReport_GearAndInventoryMass>
 
 -------------------------------------
+Keyed > Menu_KeyBindings.xml
+
+<KeyBindingOverwritten>Key binding overwritten: {0}</KeyBindingOverwritten>
+
+-------------------------------------
+Keyed > Menu_Options.xml
+
+<AmbientVolume>Ambient volume</AmbientVolume>
+<Antialiasing>Anti-aliasing</Antialiasing>
+<LogVerbose>Verbose logging</LogVerbose>
+<PlantWindSway>Plant wind sway</PlantWindSway>

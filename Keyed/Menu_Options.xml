@@ -2,52 +2,52 @@
 <LanguageData>
 
   <!-- Audiovisuals -->
-  <Audiovisuals>Audiovisuals</Audiovisuals>
-  <GameVolume>Game volume</GameVolume>
-  <MusicVolume>Music volume</MusicVolume>
+  <Audiovisuals>AudioVizual</Audiovisuals>
+  <GameVolume>Oyun səsi</GameVolume>
+  <MusicVolume>Musiqi səsi</MusicVolume>
   <AmbientVolume>Ambient volume</AmbientVolume>
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
-  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
-  <PauseOnLoad>Pause on load</PauseOnLoad>
-  <PauseOnUrgentLetter>Pause on urgent letter</PauseOnUrgentLetter>
-  <CustomCursor>Custom cursor</CustomCursor>
-  <HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>
-  <UIScale>UI scale</UIScale>
-	<KeyboardConfig>Keyboard configuration</KeyboardConfig>
-  <ChooseLanguage>Choose language</ChooseLanguage>
-  <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
-  <AdaptiveTutorIsReset>Tutor is reset. You will be now be re-taught all lessons from scratch.</AdaptiveTutorIsReset>
-  <RunInBackground>Run in background</RunInBackground>
-  <DevelopmentMode>Development mode</DevelopmentMode>
-  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <EdgeScreenScroll>Ekran-kənarı maus hərəkəti</EdgeScreenScroll>
+  <PauseOnLoad>Pauza vəziyyətində başlat</PauseOnLoad>
+  <PauseOnUrgentLetter>Təcili məktub gələndə saxla</PauseOnUrgentLetter>
+  <CustomCursor>Fərdi maus ikonu</CustomCursor>
+  <HatsShownOnlyOnMap>Papaqlar ancaq oyun xəritəsində görsənsin</HatsShownOnlyOnMap>
+  <UIScale>UI şkalası</UIScale>
+	<KeyboardConfig>Klaviatura ayarları</KeyboardConfig>
+  <ChooseLanguage>Dil seçin</ChooseLanguage>
+  <ResetAdaptiveTutor>Öyrənməni sıfırlayın</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Öyrədici sıfırlandı. Ən sadədən başlayaraq öyərnəcəksiniz.</AdaptiveTutorIsReset>
+  <RunInBackground>Arxafonda çalış</RunInBackground>
+  <DevelopmentMode>Development modu</DevelopmentMode>
+  <ResetModsConfigOnCrash>Qəza anında modların ayarlarını sıfırla</ResetModsConfigOnCrash>
   <LogVerbose>Verbose logging</LogVerbose>
-  <OpenSaveGameDataFolder>Open save data folder</OpenSaveGameDataFolder>
-  <NamesYouWantToSee>Names of player-created characters you want to see:</NamesYouWantToSee>
-  <AddName>Add name</AddName>
-  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
-  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
+  <OpenSaveGameDataFolder>Yaddaş qovluğunu aç</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Görmək istədiyin oyunçu-personaj adları:</NamesYouWantToSee>
+  <AddName>Ad əlavə et</AddName>
+  <TypeFirstNickOrLastName>Adını, ləqəbini və ya soyadını yaz.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Bu ad siyahıda onsuzda var..</MessageAlreadyPreferredName>
   <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
-  <AutosaveInterval>Autosave interval</AutosaveInterval>
-  <TemperatureMode>Temperature mode</TemperatureMode>
-  <ShowRealtimeClock>Show realtime clock</ShowRealtimeClock>
-  <MaxNumberOfPlayerHomes>Maximum number of colonies: {0}</MaxNumberOfPlayerHomes>
+  <AutosaveInterval>AvtoYaddaş aralığı</AutosaveInterval>
+  <TemperatureMode>Temperatur rejimi</TemperatureMode>
+  <ShowRealtimeClock>Real zamanı göstər</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Maksimal koloniya sayı: {0}</MaxNumberOfPlayerHomes>
   <PlantWindSway>Plant wind sway</PlantWindSway>
-  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
-  <ModSettings>Mod Settings</ModSettings>
+  <MaxPermadeathAutosaveIntervalInfo>Permadeath rejimində maksimal AvtoYaddaş aralığı {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Mod Ayarları</ModSettings>
 
   <!-- Resolution -->
-  <Resolution>Resolution</Resolution>
-  <Fullscreen>Fullscreen</Fullscreen>
+  <Resolution>Görüntü</Resolution>
+  <Fullscreen>Tam Ekran</Fullscreen>
 
   <!-- Privacy -->
-  <Privacy>Privacy</Privacy>
-  <UserName>User name</UserName>
-  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
-  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+  <Privacy>Məxfilik</Privacy>
+  <UserName>İstifadəçi adı</UserName>
+  <ChooseHistoryUploadPref>Oyu məlumatlarını paylaş</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Sizin oyun məlumatlarınız developerlərə oyunu daha balansı etməyə yardım edir. Razı olarsanız hər {0} oyun günündən bir (bəzəndə oyun sonlarında) RimWorld serverinə göndəriləcək və analiz olunacaqlar. Göndərilənlər sadəcə statistika və oyunla bağlı  məlumatlarlardır. İstifadəç adından başqa sizin fərdi məlumatlarını göndərilməyəcək bu da tam məxfi deməkdir.</AboutHistoryUpload>
 
   <!-- Mods -->
-  <SelectMod>Select mod...</SelectMod>
-  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+  <SelectMod>Mod seçin...</SelectMod>
+  <NoConfigurableMods>Ayarlana biləcək mod yüklənməyib.</NoConfigurableMods>
 </LanguageData>
