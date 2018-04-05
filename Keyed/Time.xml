@@ -1,43 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <LetterDay>d</LetterDay>
-  <LetterHour>h</LetterHour>
-  <LetterMinute>m</LetterMinute>
-  <LetterSecond>s</LetterSecond>
+  <LetterDay>g</LetterDay>
+  <LetterHour>s</LetterHour>
+  <LetterMinute>d</LetterMinute>
+  <LetterSecond>san</LetterSecond>
   
-  <DaysLower>days</DaysLower>
-  <SecondsLower>seconds</SecondsLower>
+  <DaysLower>günlər</DaysLower>
+  <SecondsLower>saniyələr</SecondsLower>
 
-  <SeasonSpring>spring</SeasonSpring>
-  <SeasonSummer>summer</SeasonSummer>
-  <SeasonFall>fall</SeasonFall>
-  <SeasonWinter>winter</SeasonWinter>
-  <SeasonPermanentSummer>permanent summer</SeasonPermanentSummer>
-  <SeasonPermanentWinter>permanent winter</SeasonPermanentWinter>
+  <SeasonSpring>yaz</SeasonSpring>
+  <SeasonSummer>yay</SeasonSummer>
+  <SeasonFall>payız</SeasonFall>
+  <SeasonWinter>qış</SeasonWinter>
+  <SeasonPermanentSummer>daim yay</SeasonPermanentSummer>
+  <SeasonPermanentWinter>daim qış</SeasonPermanentWinter>
 
   <QuadrumAprimay>Aprimay</QuadrumAprimay>
   <QuadrumJugust>Jugust</QuadrumJugust>
   <QuadrumSeptober>Septober</QuadrumSeptober>
   <QuadrumDecembary>Decembary</QuadrumDecembary>
   
-  <Born>Born: {0}</Born>
-  <AgeChronological>Chronological age: {0} years, {1} quadrums, {2} days</AgeChronological>
-  <AgeBiological>Biological age: {0} years, {1} quadrums, {2} days</AgeBiological>
+  <Born>Anadan olub: {0}</Born>
+  <AgeChronological>Xronoloji yaşı: {0} il, {1} quadrum, {2} gün</AgeChronological>
+  <AgeBiological>Biological age: {0} il, {1} quadrum, {2} gün</AgeBiological>
 
   <!-- Date periods -->
-	<Period1Year>1 year</Period1Year>
-  <PeriodYears>{0} years</PeriodYears>
+	<Period1Year>1 il</Period1Year>
+  <PeriodYears>{0} il</PeriodYears>
   <Period1Quadrum>1 quadrum</Period1Quadrum>
-  <PeriodQuadrums>{0} quadrums</PeriodQuadrums>
-  <Period1Day>1 day</Period1Day>
-  <PeriodDays>{0} days</PeriodDays>
-  <Period1Hour>1 hour</Period1Hour>
-  <PeriodHours>{0} hours</PeriodHours>
+  <PeriodQuadrums>{0} quadrum</PeriodQuadrums>
+  <Period1Day>1 gün</Period1Day>
+  <PeriodDays>{0} gün</PeriodDays>
+  <Period1Hour>1 saat</Period1Hour>
+  <PeriodHours>{0} saat</PeriodHours>
 
   <!-- Misc -->
-  <Started>Started</Started>
+  <Started>Başladı</Started>
   <Lasted>Lasted</Lasted>
-  <OccurredTimeAgo>occurred {0} ago</OccurredTimeAgo>
+  <OccurredTimeAgo>{0} öncə baş verdi</OccurredTimeAgo>
   
 </LanguageData>

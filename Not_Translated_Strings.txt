@@ -16,3 +16,7 @@ Keyed > Menu_Options.xml
 <Antialiasing>Anti-aliasing</Antialiasing>
 <LogVerbose>Verbose logging</LogVerbose>
 <PlantWindSway>Plant wind sway</PlantWindSway>
+
+-------------------------------------
+Keyed > Time.xml
+<Lasted>Lasted</Lasted>
