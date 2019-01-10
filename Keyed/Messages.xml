@@ -3,7 +3,7 @@
 
   <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
 
-  <MessageRaidersBeginningAssault>{0} from {1} are beginning their assault.</MessageRaidersBeginningAssault>
+  <MessageRaidersBeginningAssault>{1}-dan olan {0} hücuma başladılar.</MessageRaidersBeginningAssault>
   <MessageRaidersDetectedEarlyAssault>{0} from {1} have detected you and begun their assault early.</MessageRaidersDetectedEarlyAssault>
   <MessageRaidersKidnapping>{0} from {1} have decided to kidnap who they can and leave.</MessageRaidersKidnapping>
   <MessageRaidersStealing>{0} from {1} have decided to steal what they can and leave.</MessageRaidersStealing>
@@ -27,11 +27,11 @@
 	
 	<MessageNeedBeaconToTradeWithShip>You need an orbital trade beacon to trade with a ship.\n\nThe beacon needs to be powered.</MessageNeedBeaconToTradeWithShip>
 	
-  <MessageBillComplete>Bill complete: {0}.</MessageBillComplete>
+  <MessageBillComplete>Tapşırıq Tamamlandı: {0}.</MessageBillComplete>
   
-  <MessageFullyHealed>{0} is fully healed.</MessageFullyHealed>
+  <MessageFullyHealed>{0} tam sağaldı.</MessageFullyHealed>
 
-  <MessagePrisonerIsEscaping>Prisoner {0} is escaping.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>{0} qaçır.</MessagePrisonerIsEscaping>
 
   <MessageOutOfNearbyShellsFor>{0} found no nearby unreserved shells for {1}.</MessageOutOfNearbyShellsFor>
 
