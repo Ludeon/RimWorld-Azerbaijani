@@ -35,23 +35,23 @@
 |       Messages.xml
 |       Misc.xml
 |       Misc_Gameplay.xml
-|       PlayInterface.xml
+|       PlayInterface.xml-------------------------> 100%
 |       ScenParts.xml
 |       Skills.xml
-|       Time.xml----------------------------------> 99%
+|       Time.xml----------------------------------> 100%
 |       WITabs.xml
 |       WorkTags.xml
 |       
 \---Strings
     +---Names
-    |   |   Animal_Female.txt
+    |   |   Animal_Female.txt---------------------> 5%
     |   |   Animal_Male.txt
     |   |   Animal_Unisex.txt
     |   |   Business.txt
     |   |   Celestial.txt
     |   |   CelestialPrefix.txt
     |   |   CelestialSuffix.txt
-    |   |   ColonyNames.txt
+    |   |   ColonyNames.txt-----------------------> 100%
     |   |   
     |   \---WorldFeatures
     |           Archipelagos_America.txt

@@ -13,17 +13,17 @@
   <SeasonSummer>yay</SeasonSummer>
   <SeasonFall>payız</SeasonFall>
   <SeasonWinter>qış</SeasonWinter>
-  <SeasonPermanentSummer>daim yay</SeasonPermanentSummer>
-  <SeasonPermanentWinter>daim qış</SeasonPermanentWinter>
+  <SeasonPermanentSummer>daimi yay</SeasonPermanentSummer>
+  <SeasonPermanentWinter>daimi qış</SeasonPermanentWinter>
 
-  <QuadrumAprimay>Aprimay</QuadrumAprimay>
-  <QuadrumJugust>Jugust</QuadrumJugust>
-  <QuadrumSeptober>Septober</QuadrumSeptober>
-  <QuadrumDecembary>Decembary</QuadrumDecembary>
+  <QuadrumAprimay>Aprel</QuadrumAprimay>
+  <QuadrumJugust>Avqust</QuadrumJugust>
+  <QuadrumSeptober>Sentyabr</QuadrumSeptober>
+  <QuadrumDecembary>Dekabr</QuadrumDecembary>
   
   <Born>Anadan olub: {0}</Born>
   <AgeChronological>Xronoloji yaşı: {0} il, {1} quadrum, {2} gün</AgeChronological>
-  <AgeBiological>Biological age: {0} il, {1} quadrum, {2} gün</AgeBiological>
+  <AgeBiological>Bioloji yaşı: {0} il, {1} quadrum, {2} gün</AgeBiological>
 
   <!-- Date periods -->
 	<Period1Year>1 il</Period1Year>
@@ -37,7 +37,7 @@
 
   <!-- Misc -->
   <Started>Başladı</Started>
-  <Lasted>Lasted</Lasted>
+  <Lasted>Davam etdi</Lasted>
   <OccurredTimeAgo>{0} öncə baş verdi</OccurredTimeAgo>
   
 </LanguageData>
