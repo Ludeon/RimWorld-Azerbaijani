@@ -9,14 +9,14 @@
   <MessageRaidersStealing>{0} əllərinə keçəni oğurlayıb getməyə qərar verdilər.</MessageRaidersStealing>
 
   <MessageRaidersLeaving>{0} gedirlər.</MessageRaidersLeaving>
-	<MessageRaidersGivenUpLeaving>{0} from {1} have given up and are leaving.</MessageRaidersGivenUpLeaving>
+	<MessageRaidersGivenUpLeaving>{0} bezdilər və gedirlər.</MessageRaidersGivenUpLeaving>
   <MessageRaidersSatisfiedLeaving>{1} verdikləri zərər bəs etdi onlara gedirlər.</MessageRaidersSatisfiedLeaving>
 
   <MessageFightersFleeing>{1} qaçırlar.</MessageFightersFleeing>
-  <MessageFriendlyFightersLeaving>Dost {0} gedirlər.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>Sənin dostun {0} gedirlər.</MessageFriendlyFightersLeaving>
 
-  <MessageVisitorsTakingWounded>{0} from {1} are taking a wounded guest.</MessageVisitorsTakingWounded>
-  <MessageVisitorsTrappedLeaving>{0} from {1} have been trapped and are digging out to escape.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTakingWounded>{0} yaralanmış ziyarətçini aparırlar.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} tələyə düşdülər qaçmaq istəyirlər.</MessageVisitorsTrappedLeaving>
   <MessageVisitorsDangerousTemperature>{0} təhlükəli temperatura görə xəritəni tərk edirlər.</MessageVisitorsDangerousTemperature>
   
   <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
@@ -38,10 +38,10 @@
   <MessageAnimalsGoPsychoHunted>Xəbərdarlıq: {0} zərər versən hücüm edə bilər.</MessageAnimalsGoPsychoHunted>
   <MessageAnimalManhuntsOnTameFailed>Xəbərdarlıq: {0} əhilləşdirən zaman hücüm edə bilər ({1} şans).</MessageAnimalManhuntsOnTameFailed>
   
-  <LetterLabelMessageRecruitSuccess>Bizə Qoşuldu</LetterLabelMessageRecruitSuccess>
+  <LetterLabelMessageRecruitSuccess>Bizə Yeni Qoşulan Var!</LetterLabelMessageRecruitSuccess>
   <MessageRecruitSuccess>{1} {0} tərəfindən bizə qoşulmağa razı salındı ({2} şans).</MessageRecruitSuccess>
   <MessageTameSuccess>{1} {0} tərəfindən əhilləşdirildi. ({2} şans).</MessageTameSuccess>
-  <MessageTameAndNameSuccess>{1} {0} tərəfindən əhilləşdirildi. ({2} şans) və adını [PAWN_objective] {3} qoydu.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>{1} {0} tərəfindən əhilləşdirildi. ({2} şans) və [PAWN_objective] {3} adını qoydu.</MessageTameAndNameSuccess>
 
   <MessageColonyCannotAfford>Koloniya bu şərtləri qarşılaya bilməz.</MessageColonyCannotAfford>
   <MessageColonyNotEnoughSilver>Ticarət üçün yetəri qədər gümüş yoxdur.</MessageColonyNotEnoughSilver>
@@ -80,12 +80,12 @@
 	<MessageMedicalOperationFailureRidiculous>{0} has failed in a ridiculous way while operating on {1}.</MessageMedicalOperationFailureRidiculous>
 	<MessageMedicalOperationFailureFatal>{0} has committed a fatal errol while operating on {1} because of the special challenges of: {2}</MessageMedicalOperationFailureFatal>
 
-	<MessageMedicalOperationWillAngerFaction>This operation will anger {0}.</MessageMedicalOperationWillAngerFaction>
+	<MessageMedicalOperationWillAngerFaction>Bu onu əsəbləşdirə bilər {0}.</MessageMedicalOperationWillAngerFaction>
 
-  <MessagePawnExitMapRelationsGain>Because {0} exited the map healthy, relations with {1} have improved by {2}.</MessagePawnExitMapRelationsGain>
+  <MessagePawnExitMapRelationsGain>{0} xəritədən sağlam şəkildə çıxdığı üçün, {1} ilə olan əlaqələrimiz {2} qalxdı.</MessagePawnExitMapRelationsGain>
 
-  <MessageMiscarriedStarvation>{0} has miscarried due to starvation.</MessageMiscarriedStarvation>
-  <MessageMiscarriedPoorHealth>{0} has miscarried due to poor health.</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedStarvation>{0} aclıqdan balasın saldı.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} xəstləikdən balasın saldı.</MessageMiscarriedPoorHealth>
   <MessageGaveBirth>{0} doğdu.</MessageGaveBirth>
 
   <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
@@ -100,15 +100,15 @@
   <MessageTraderCaravanLeaving>{0} olan ticarət karvanı gedir.</MessageTraderCaravanLeaving>
   
   <MessageCantSelectDeadPawn>{0} öldü.</MessageCantSelectDeadPawn>
-  <MessageCantSelectOffMapPawn>{0} is off the map.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>{0} xəritədən kəndardadır.</MessageCantSelectOffMapPawn>
   
-  <MessageSocialFight>{0} started a social fight with {1}. Reason: {2}.</MessageSocialFight>
+  <MessageSocialFight>{0} və {1} bir-biri ilə {2} buna görə savaşdırlar.</MessageSocialFight>
   
-  <MessageNewMarriageCeremony>Colonists are gathering to celebrate {0} and {1}’s marriage.</MessageNewMarriageCeremony>
-  <MessageMarriageCeremonyStarts>{0} and {1} are beginning their marriage ceremony!</MessageMarriageCeremonyStarts>
-  <MessageMarriageCeremonyCalledOff>The marriage ceremony for {0} and {1} has been called off.</MessageMarriageCeremonyCalledOff>
-  <MessageNewlyMarried>{0} and {1} have married. Colonists are now celebrating the occasion.</MessageNewlyMarried>
-  <MessageMarriageCeremonyAfterPartyFinished>The marriage ceremony for {0} and {1} has finished.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageNewMarriageCeremony>Kolonistlər {0} və {1} evliliklərini qeyd etmək üçün toplanırlar.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} və {1} toy məclisinə başlayırlar!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>{0} və {1} toylarını təxirə saldılar.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} və {1} evləndilər. Kolonistlər bunu qeyd edirlər.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>{0} və {1} toyları məclisləri sona çatdı.</MessageMarriageCeremonyAfterPartyFinished>
   
   <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
   <MessageNewBondRelationNewName>{0} and {1} have formed a bond. {0} has named [PAWN_objective] {2}.</MessageNewBondRelationNewName>
@@ -121,16 +121,16 @@
   
   <MessageShipChunkDrop>A chunk of a spacecraft has fallen from space and landed nearby.</MessageShipChunkDrop>
   
-  <MessagePartyCalledOff>The party has been called off.</MessagePartyCalledOff>
+  <MessagePartyCalledOff>Parti təxirə salındı.</MessagePartyCalledOff>
   <MessagePartyFinished>Party sona çatdı.</MessagePartyFinished>
 
-  <MessageCannotSellItemsReason>Some items cannot be traded because of: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>Bəzi əşyalar alver üçün istifadə edilə bilməz, SƏBƏB: </MessageCannotSellItemsReason>
 
-  <MessageConstructionFailed>{1} failed while constructing {0}. Some resources have been wasted.</MessageConstructionFailed>
+  <MessageConstructionFailed>{1} {0} düzəldə bilmədi. Qaynaqlarımızı boş-boşuna heyif etdi.</MessageConstructionFailed>
 
-  <MessageScreenshotSavedAs>Screenshot saved as: {0}</MessageScreenshotSavedAs>
+  <MessageScreenshotSavedAs>Screenshot yaddaşa verildi: {0}</MessageScreenshotSavedAs>
   
-  <MessageNoLongerSocialFighting>{0} and {1} are no longer social fighting.</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>{0} və {1} bir-biri ilə artıq savaşmırlar.</MessageNoLongerSocialFighting>
   
   <MessageNoLongerBingingOnDrug>{0} is no longer binging on {1}.</MessageNoLongerBingingOnDrug>
 
@@ -205,8 +205,8 @@
   
   <MessageCantBanishLastColonist>You can't banish the last colonist.</MessageCantBanishLastColonist>
   
-  <MessageCantEquipIncapableOfViolence>Cannot equip: {0} is incapable of violence.</MessageCantEquipIncapableOfViolence>
-  <MessageCantEquipIncapableOfManipulation>Cannot equip: incapable.</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfViolence>Götürə bilməz: {0} şiddətə qarşıdır.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfManipulation>Götürə bilməz: bacarmır.</MessageCantEquipIncapableOfManipulation>
   
   <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {0} will make {1} unhappy.</MessageSlaughteringBondedAnimal>
   

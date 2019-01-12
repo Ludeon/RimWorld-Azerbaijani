@@ -3,44 +3,44 @@
 
   <!-- Various -->
 	<HitPointsBasic>hit points</HitPointsBasic>
-  <WorkLeft>Work left</WorkLeft>
-  <Contents>Contents</Contents>
-  <ContainedResources>Contained resources</ContainedResources>
-  <ForPrisonerUse>For prisoner use</ForPrisonerUse>
-  <ForColonistUse>For colonist use</ForColonistUse>
-  <MedicalBed>Medical</MedicalBed>
-  <Owner>Owner</Owner>
-  <Owners>Owners</Owners>
-  <AssignedColonist>Assigned colonist</AssignedColonist>
-  <Nobody>Nobody</Nobody>
-  <Unowned>Unowned</Unowned>
-  <DeadTime>Dead for {0}</DeadTime>
-  <WalkSpeed>walk speed {0}</WalkSpeed>
+  <WorkLeft>Qalan iş</WorkLeft>
+  <Contents>Məzmun</Contents>
+  <ContainedResources>Tərkibində olan qaynaqlar</ContainedResources>
+  <ForPrisonerUse>Dustaq istifadəsi üçün</ForPrisonerUse>
+  <ForColonistUse>Kolonist istifadəsi üçün</ForColonistUse>
+  <MedicalBed>Tibbi</MedicalBed>
+  <Owner>Sahibi</Owner>
+  <Owners>Sahibləri</Owners>
+  <AssignedColonist>Kolonist təyin et</AssignedColonist>
+  <Nobody>Heç kim</Nobody>
+  <Unowned>Heç kimə aid deyil</Unowned>
+  <DeadTime>{0} ölüb</DeadTime>
+  <WalkSpeed>Yerimə sürəti: {0}</WalkSpeed>
   <FertShort>fert.</FertShort>
   <DyingLower>dying</DyingLower>
   <FilthOnFeet>Filth on feet:</FilthOnFeet>
-  <NotEnoughStoredLower>not enough stored</NotEnoughStoredLower>
-  <NothingLower>nothing</NothingLower>
+  <NotEnoughStoredLower>Yetəri qədər yoxdur</NotEnoughStoredLower>
+  <NothingLower>heçnə</NothingLower>
   <Adapted>Adapted</Adapted>
-  <FreshMissingBodyPart>fresh</FreshMissingBodyPart>
-  <DevelopedImmunityLower>developed immunity</DevelopedImmunityLower>
-  <NeedsTendingNow>Needs tending now</NeedsTendingNow>
-  <NextTendIn>Will need tending in {0}</NextTendIn>
-  <MissingMedicalBillIngredient>no {0}</MissingMedicalBillIngredient>
-  <Immunity>Immunity</Immunity>
+  <FreshMissingBodyPart>təzə</FreshMissingBodyPart>
+  <DevelopedImmunityLower>immunitet qazandı</DevelopedImmunityLower>
+  <NeedsTendingNow>İndi müalicə almalıdır</NeedsTendingNow>
+  <NextTendIn>{0} ərzinə müalicə almalıdır.</NextTendIn>
+  <MissingMedicalBillIngredient>{0} yox</MissingMedicalBillIngredient>
+  <Immunity>İmmunitet</Immunity>
   <Race>Race</Race>
-  <Description>Description</Description>
+  <Description>Açıqlama</Description>
   <Equipment>Equipment</Equipment>
-  <Apparel>Apparel</Apparel>
-  <Inventory>Inventory</Inventory>
-  <ThingInfo>Information</ThingInfo>
-  <DropThing>Drop</DropThing>
-  <Rename>Rename</Rename>
-  <RenameColonist>Rename colonist</RenameColonist>
-  <UnknownLower>unknown</UnknownLower>
+  <Apparel>Paltar</Apparel>
+  <Inventory>İnventar</Inventory>
+  <ThingInfo>Məlumat</ThingInfo>
+  <DropThing>At</DropThing>
+  <Rename>Yenidən adlandır</Rename>
+  <RenameColonist>Kolonisti yenidən adlandır</RenameColonist>
+  <UnknownLower>bilinmir</UnknownLower>
   <On>On</On>
   <Off>Off</Off>
-  <PowerSwitch_Power>Power</PowerSwitch_Power>
+  <PowerSwitch_Power>Elektrik</PowerSwitch_Power>
   <JoyTolerances>Joy tolerances</JoyTolerances>
   <MilkFullness>Milk fullness</MilkFullness>
   <WoolGrowth>Wool growth</WoolGrowth>
@@ -48,41 +48,41 @@
   <Fertilized>Fertilized</Fertilized>
   <ProgressStoppedUntilFertilized>Progress stopped until fertilized</ProgressStoppedUntilFertilized>
   <SkillTooLow>need {0} level {2}, have {1}</SkillTooLow>
-	<Freezing>Freezing</Freezing>
-	<Overheating>Overheating</Overheating>
-	<RuinedByTemperature>Ruined by temperature.</RuinedByTemperature>
-	<CorpsePercentMissing>Missing body parts</CorpsePercentMissing>
+	<Freezing>Donur</Freezing>
+	<Overheating>Çox istidir</Overheating>
+	<RuinedByTemperature>Temperaturdan xarab oldu.</RuinedByTemperature>
+	<CorpsePercentMissing>Bədənin hissələri yoxdur.</CorpsePercentMissing>
 	<HiveReproducesIn>Reproduces in</HiveReproducesIn>
 	<DormantHiveNotReproducing>Dormant: Not reproducing.</DormantHiveNotReproducing>
 	<NextSpawnedItemIn>Next {0} in</NextSpawnedItemIn>
 	<BrokenDown>Broken down</BrokenDown>
 	<BondBrackets>(bond)</BondBrackets>
-	<Fuel>Fuel</Fuel>
-  <FuelLevelGizmoLabel>Fuel</FuelLevelGizmoLabel>
+	<Fuel>Yanacaq</Fuel>
+  <FuelLevelGizmoLabel>Yanacaq</FuelLevelGizmoLabel>
   <SetTargetFuelLevel>Set target fuel level to {0}</SetTargetFuelLevel>
   <SetPodLauncherTargetFuelLevel>Set target fuel level to {0}\nMax distance: {1} tiles</SetPodLauncherTargetFuelLevel>
   <ConfiguredTargetFuelLevel>Target fuel level: {0}</ConfiguredTargetFuelLevel>
-	<Enemies>enemies</Enemies>
-	<TimePassed>time passed</TimePassed>
-	<CurrentRadius>current radius</CurrentRadius>
-	<RadiusExpandsIn>radius expands in</RadiusExpandsIn>
-	<Permanent>permanent</Permanent>
-	<CaravanResting>Resting.</CaravanResting>
-  <CaravanEstimatedTimeToDestination>Est. time to destination: {0} days</CaravanEstimatedTimeToDestination>
-  <CaravanImmobilizedByMass>Immobilized: too much weight.</CaravanImmobilizedByMass>
-  <CaravanOutOfFood>Out of food.</CaravanOutOfFood>
-  <CaravanDaysOfFood>Days of food: {0}</CaravanDaysOfFood>
-  <CaravanDaysOfFoodRot>Days of food: {0}, rot in {1} days</CaravanDaysOfFoodRot>
-	<CaravanMemberMentalBreak>Stopped because: {0} has a mental break.</CaravanMemberMentalBreak>
-	<AllCaravanMembersDowned>Stopped because: everyone is downed.</AllCaravanMembersDowned>
-  <AllCaravanMembersMentalBreak>Stopped because: everyone has a mental break.</AllCaravanMembersMentalBreak>
-  <CaravanTraveling>Traveling.</CaravanTraveling>
-	<CaravanWaiting>Waiting.</CaravanWaiting>
-	<CaravanHoursPerTile>h/tile</CaravanHoursPerTile>
-	<CaravanBaseMovementTime>Base movement time</CaravanBaseMovementTime>
-	<CurrentTileMovementTime>Current tile movement time</CurrentTileMovementTime>
+	<Enemies>düşmənlər</Enemies>
+	<TimePassed>keçən vaxt</TimePassed>
+	<CurrentRadius>cari radius</CurrentRadius>
+	<RadiusExpandsIn>radius genişlənir</RadiusExpandsIn>
+	<Permanent>həmişəlik</Permanent>
+	<CaravanResting>Dincəlir.</CaravanResting>
+  <CaravanEstimatedTimeToDestination>Təx. Çatma vaxtı: {0} gün</CaravanEstimatedTimeToDestination>
+  <CaravanImmobilizedByMass>Hərəkətsiz: Çox ağır.</CaravanImmobilizedByMass>
+  <CaravanOutOfFood>Yemək qutardı.</CaravanOutOfFood>
+  <CaravanDaysOfFood>Yeməyin çatacağı gün: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFoodRot>Yeməyin çatacağı gün: {0}, {1} gün ərzində xarab olacaq</CaravanDaysOfFoodRot>
+	<CaravanMemberMentalBreak>Dayandı Çünki: {0} ruhən çöküb.</CaravanMemberMentalBreak>
+	<AllCaravanMembersDowned>Dayandı Çünki: heç kim yeriyə bilmir.</AllCaravanMembersDowned>
+  <AllCaravanMembersMentalBreak>Dayandı Çünki: hamı ruhən çökdü.</AllCaravanMembersMentalBreak>
+  <CaravanTraveling>Səyahətdədir.</CaravanTraveling>
+	<CaravanWaiting>Gözləyir.</CaravanWaiting>
+	<CaravanHoursPerTile>saat/kafel</CaravanHoursPerTile>
+	<CaravanBaseMovementTime>Əsas hərəkət zamanı</CaravanBaseMovementTime>
+	<CurrentTileMovementTime>Mövcud kafel hərəkət zamanı</CurrentTileMovementTime>
   <StealthFactor>Stealthiness</StealthFactor>
-	<Temperature>Temperature</Temperature>
+	<Temperature>Temperatur</Temperature>
 	<BadTemperature>bad temperature</BadTemperature>
 	<IdealFermentingTemperature>Ideal fermenting temperature</IdealFermentingTemperature>
 	<DrugEffectMultiplier>{0} effect multiplier: {1}</DrugEffectMultiplier>

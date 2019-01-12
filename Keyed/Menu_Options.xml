@@ -5,7 +5,7 @@
   <Audiovisuals>AudioVizual</Audiovisuals>
   <GameVolume>Oyun səsi</GameVolume>
   <MusicVolume>Musiqi səsi</MusicVolume>
-  <AmbientVolume>Ambient volume</AmbientVolume>
+  <AmbientVolume>Ətraf mühit sısi</AmbientVolume>
   <Antialiasing>Anti-aliasing</Antialiasing>
 
   <!-- Gameplay -->
@@ -22,13 +22,13 @@
   <RunInBackground>Arxafonda çalış</RunInBackground>
   <DevelopmentMode>Development modu</DevelopmentMode>
   <ResetModsConfigOnCrash>Qəza anında modların ayarlarını sıfırla</ResetModsConfigOnCrash>
-  <LogVerbose>Verbose logging</LogVerbose>
+  <LogVerbose>Verbose loqlaması</LogVerbose>
   <OpenSaveGameDataFolder>Yaddaş qovluğunu aç</OpenSaveGameDataFolder>
   <NamesYouWantToSee>Görmək istədiyin oyunçu-personaj adları:</NamesYouWantToSee>
   <AddName>Ad əlavə et</AddName>
   <TypeFirstNickOrLastName>Adını, ləqəbini və ya soyadını yaz.</TypeFirstNickOrLastName>
   <MessageAlreadyPreferredName>Bu ad siyahıda onsuzda var..</MessageAlreadyPreferredName>
-  <ChangeStoryteller>Choose storyteller</ChangeStoryteller>
+  <ChangeStoryteller>Hekayə danışanı seç</ChangeStoryteller>
   <AutosaveInterval>AvtoYaddaş aralığı</AutosaveInterval>
   <TemperatureMode>Temperatur rejimi</TemperatureMode>
   <ShowRealtimeClock>Real zamanı göstər</ShowRealtimeClock>
@@ -44,7 +44,7 @@
   <!-- Privacy -->
   <Privacy>Məxfilik</Privacy>
   <UserName>İstifadəçi adı</UserName>
-  <ChooseHistoryUploadPref>Oyu məlumatlarını paylaş</ChooseHistoryUploadPref>
+  <ChooseHistoryUploadPref>Oyun məlumatlarını paylaş</ChooseHistoryUploadPref>
   <AboutHistoryUpload>Sizin oyun məlumatlarınız developerlərə oyunu daha balansı etməyə yardım edir. Razı olarsanız hər {0} oyun günündən bir (bəzəndə oyun sonlarında) RimWorld serverinə göndəriləcək və analiz olunacaqlar. Göndərilənlər sadəcə statistika və oyunla bağlı  məlumatlarlardır. İstifadəç adından başqa sizin fərdi məlumatlarını göndərilməyəcək bu da tam məxfi deməkdir.</AboutHistoryUpload>
 
   <!-- Mods -->

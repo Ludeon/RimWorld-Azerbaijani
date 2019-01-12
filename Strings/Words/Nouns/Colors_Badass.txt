@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+qırmızı
+qara
+boz
+kül
 
-dark
-shadow
-night
+qaranlıq
+kölgə
+gecə

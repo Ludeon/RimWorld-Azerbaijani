@@ -1,14 +1,14 @@
 ﻿//Intended as small-scale objects, not major terrain formations
 //Includes animal, vegetable, and mineral
-rock
-stone
-boulder
-tree
-shrub
-bush
-pond
-pool
-lake
+qaya
+daş
+buzlaq daşı
+ağac
+kol
+kol
+gölməçə
+hovuz
+göl
 hill
 cave
 stump

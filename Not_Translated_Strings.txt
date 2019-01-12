@@ -18,5 +18,3 @@ Keyed > Menu_Options.xml
 <PlantWindSway>Plant wind sway</PlantWindSway>
 
 -------------------------------------
-Keyed > Time.xml
-<Lasted>Lasted</Lasted>

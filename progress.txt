@@ -84,7 +84,7 @@
         +---Adjectives
         |       Angsty.txt
         |       Badass.txt
-        |       CompassDirections.txt
+        |       CompassDirections.txt-------------> 100%
         |       Curious.txt
         |       Friendly.txt
         |       Large.txt
@@ -105,8 +105,8 @@
         |       Artworks.txt
         |       Bodyparts.txt
         |       BusinessTypes.txt
-        |       Colors.txt
-        |       Colors_Badass.txt
+        |       Colors.txt---------------------------> 100%
+        |       Colors_Badass.txt--------------------> 100%
         |       Communities.txt
         |       Concepts_Angsty.txt
         |       Concepts_Badass.txt
