@@ -71,7 +71,7 @@
   
   <PawnDiedBecauseOf>{1} buna görə {0} öldü.</PawnDiedBecauseOf>
 
-  <MessageNoLongerDowned>{0} artıq gəzə bilmir.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>{0} artıq gəzə bilir.</MessageNoLongerDowned>
 
   <MessageInvoluntarySleep>{0} has collapsed due to extreme exhaustion.</MessageInvoluntarySleep>
 
@@ -93,14 +93,14 @@
   <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
   
   <MessageEatenByPredator>{0} {1} tərəfindən yeyildi.</MessageEatenByPredator>
-  <MessageAttackedByPredator>{0} {1} tərəfindən hücuma məruz qaldı.!</MessageAttackedByPredator>
+  <MessageAttackedByPredator>{0} {1} tərəfindən hücuma məruz qaldı!</MessageAttackedByPredator>
   
   <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
   
   <MessageTraderCaravanLeaving>{0} olan ticarət karvanı gedir.</MessageTraderCaravanLeaving>
   
   <MessageCantSelectDeadPawn>{0} öldü.</MessageCantSelectDeadPawn>
-  <MessageCantSelectOffMapPawn>{0} xəritədən kəndardadır.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>{0} xəritədən kənardadır.</MessageCantSelectOffMapPawn>
   
   <MessageSocialFight>{0} və {1} bir-biri ilə {2} buna görə savaşdırlar.</MessageSocialFight>
   
