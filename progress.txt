@@ -18,7 +18,7 @@
 |       Credits.xml-------------------------------> 100%
 |       Dates.xml---------------------------------> 100%
 |       Designators.xml---------------------------> 100%
-|       Dialogs_Various.xml
+|       Dialogs_Various.xml-----------------------> 56 line
 |       Dialog_StatsReports.xml-------------------> 95%
 |       Dialog_Trees.xml--------------------------> 100%
 |       Enums.xml---------------------------------> 100%
@@ -44,7 +44,7 @@
 |       
 \---Strings
     +---Names
-    |   |   Animal_Female.txt---------------------> 5%
+    |   |   Animal_Female.txt---------------------> 100%
     |   |   Animal_Male.txt
     |   |   Animal_Unisex.txt
     |   |   Business.txt

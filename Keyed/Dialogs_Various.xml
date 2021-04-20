@@ -1,61 +1,61 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-  <Confirm>Confirm</Confirm>
-  <GoBack>Go back</GoBack>
+  <Confirm>Təsdiqlə</Confirm>
+  <GoBack>Geri dön</GoBack>
   <OK>OK</OK>
   
   <!-- Game updated to new version -->
-  <GameUpdatedToNewVersionInitial>RimWorld has been updated from version {0} to version {1}.</GameUpdatedToNewVersionInitial>
-  <GameUpdatedToNewVersionSavesIncompatible>This may cause saved games and mods from the old version to stop working.</GameUpdatedToNewVersionSavesIncompatible>
-  <GameUpdatedToNewVersionSavesCompatible>Saved games from the old version should be compatible, however some mods may stop working.</GameUpdatedToNewVersionSavesCompatible>
-  <GameUpdatedToNewVersionNonSteam>Since this is a DRM-free copy, you can install the game twice in two different folders, to be able to play both old and new versions.</GameUpdatedToNewVersionNonSteam>
-  <GameUpdatedToNewVersionSteam>If you wish to continue with the old version, you can opt in using Steam's "Betas" feature.\n\n  1. In the Steam library, right-click RimWorld.\n  2. Click Properties.\n  3. Click the Betas tab.\n  4. Select the version you want from the drop-down menu.\n\nOld versions will be likely removed from this list eventually - we just didn't want to cut off games in progress.\n\nNote that if mod authors update their mods for a new game version, they'll probably stop working on an old version. You may want to turn off automatic updates to prevent this.</GameUpdatedToNewVersionSteam>
+  <GameUpdatedToNewVersionInitial>RimWorld {0} versiyasından {1} versiyasına yüksəldildi.</GameUpdatedToNewVersionInitial>
+  <GameUpdatedToNewVersionSavesIncompatible>Bu köhnə versiyada olan oyunların və modların işləməməsinə səbəb ola bilər.</GameUpdatedToNewVersionSavesIncompatible>
+  <GameUpdatedToNewVersionSavesCompatible>Yaddaşa verilmiş oyunlara uyğun ola bilər, amma bəzi modlar işləməyə bilər.</GameUpdatedToNewVersionSavesCompatible>
+  <GameUpdatedToNewVersionNonSteam>DRM-free kopyasından sonra, oyunu iki fərqli yerə quraşdırıb, həm köhnə həm də yeni versiyalar ilə oyunu oynaya bilərsiniz.</GameUpdatedToNewVersionNonSteam>
+  <GameUpdatedToNewVersionSteam>Köhnə versiya ilə davam etmək istəsəniz, Steam "Betas" özəlliklərini istifadə edə bilərsiniz.\n\n  1. Steam kitabxanasında RimWorld-ə sağ klikləyin.\n  2. Özəlliklərə klikləyin.\n  3. Betalar panelinə klikləyin.\n  4. Açılan menudan versiyanı seçin.\n\nNəticədə köhnə versiyalar bu siyahıdan silinəcək - davam edən oyunları kəsmək istəmədik. \n \n Qeyd edək ki, mod müəllifləri modlarını yeni oyun versiyası üçün yeniləsələr, çox güman ki, köhnə versiya üzərində işləməyi dayandıracaqlar. Bunun qarşısını almaq üçün avtomatik yeniləmələri söndürmək istəyə bilərsiniz.</GameUpdatedToNewVersionSteam>
   
   <!-- Recovered from errors caused by mods -->
-  <RecoveredFromErrorsDialogTitle>Recovered from incompatible or corrupted mods errors</RecoveredFromErrorsDialogTitle>
-  <RecoveredFromErrorsText>It seems that some of the active mods were causing errors.\n\nThey were incompatible with each other, designed for a different version of RimWorld, or corrupted.\n\nAll mods have been disabled and can be activated again in the mods dialog.</RecoveredFromErrorsText>
+  <RecoveredFromErrorsDialogTitle>Uyğun olmayan və ya pozulmuş mod səhvlərindən qurtarıldı</RecoveredFromErrorsDialogTitle>
+  <RecoveredFromErrorsText>Görünən odur ki, aktiv modlardan hansısa biri xətaya səbəb olur.\n\nBir-biriləri ilə uyğun olmaya bilərlər, RimWorldün fərqli versiyaları üçün dizayn edilə bilərlər, və ya pozulmuşlar.\n\nBütün modlar söndürüldü, Modlar hissəsindən aktivləşdirilə bilər.</RecoveredFromErrorsText>
   
   <!-- Errors during loading -->
-  <ErrorWhileLoadingAssetsTitle>Error while loading assets</ErrorWhileLoadingAssetsTitle>
-  <ErrorWhileLoadingAssets>An error occurred while loading game assets. See error log for more information.</ErrorWhileLoadingAssets>
-  <ErrorWhileLoadingAssets_ModsInfo>The game is currently running with custom mods - they may or may not cause these problems.</ErrorWhileLoadingAssets_ModsInfo>
-  <ErrorWhileGeneratingMapTitle>Error while generating a map</ErrorWhileGeneratingMapTitle>
-  <ErrorWhileGeneratingMap>An error occurred while generating a new map. See error log for more information.</ErrorWhileGeneratingMap>
-  <ErrorWhileLoadingMapTitle>Error while loading a map</ErrorWhileLoadingMapTitle>
-  <ErrorWhileLoadingMap>An error occurred while loading a map. See error log for more information.</ErrorWhileLoadingMap>
+  <ErrorWhileLoadingAssetsTitle>Aktivlər yüklənərkən xəta baş verdi.</ErrorWhileLoadingAssetsTitle>
+  <ErrorWhileLoadingAssets>Aktivlər yüklənərkən xəta baş verdi. Əlavə məlumat üçün log-lara baxın.</ErrorWhileLoadingAssets>
+  <ErrorWhileLoadingAssets_ModsInfo>Oyun hal-hazırda xüsusi modlarla işləyir - bu problemə səbəb də ola bilər olmaya da bilər.</ErrorWhileLoadingAssets_ModsInfo>
+  <ErrorWhileGeneratingMapTitle>Xəritə yaradarkən xəta baş verdi</ErrorWhileGeneratingMapTitle>
+  <ErrorWhileGeneratingMap>Yeni Xəritə yaradarkən xəta baş verdi. Əlavə məlumat üçün log-lara baxın.</ErrorWhileGeneratingMap>
+  <ErrorWhileLoadingMapTitle>Xəritə yüklənərkən xəta baş verdi.</ErrorWhileLoadingMapTitle>
+  <ErrorWhileLoadingMap>Xəritə yüklənərkən xəta baş verdi. Əlavə məlumat üçün log-lara baxın.</ErrorWhileLoadingMap>
   
   <!-- Unloaded mod with an assembly -->
-  <ModsChanged>The mod list has changed. The game will now restart automatically.</ModsChanged>
-  <FailedToRestart>Something went wrong while restarting the game. The game can't fully unload modified code from deactivated mods, so code from deactivated mods may still be active.\n\nIt's recommended that you quit and restart the game now to load all mods cleanly.</FailedToRestart>
-  <Restarting>Restarting</Restarting>
+  <ModsChanged>Mod siyahısı dəyişdi. Oyun avtomatik restart olunacaq.</ModsChanged>
+  <FailedToRestart>Restart sırasında bir şeylər yanlış getdi. Oyun dəyişdirilmiş kodu söndürülmüş modlardan tamamilə çıxara bilməz, buna görə də söndürülmüş modlarda kod hələ də aktiv ola bilər.\n\nBütün modları yenidən düzgün bir şəkildə yükləmək üçün oyunu yenidən başlatmağı tövsiyyə edirik.ods cleanly.</FailedToRestart>
+  <Restarting>Yenidən başladılır.</Restarting>
   
   <!-- Missing Steam -->
-  <SteamClientMissing>Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available.</SteamClientMissing>
+  <SteamClientMissing>Steam API başladıla bilmədi. Mümkün səbəblər:\n\n-Steam işləmir.\n-steam_appid.txt yerində olmadan Steam xaricində başladıldı.\n-Steam client fərqli icazələr ilə çalışdırılıb (məs: "administrator olaraq").\n\nBir çox hallarda, kompüterə restart vermək problemi həll edir.\n\nSiz yenədə oynaya bilərsiniz, Steam statistikalrı və özəllikləri olmayacaq.</SteamClientMissing>
   
   <!-- Long events -->
-  <InitializingInterface>Initializing interface</InitializingInterface>
-  <UnloadingUnusedAssets>Unloading unused assets</UnloadingUnusedAssets>
-  <LoadingAllActiveMods>Loading all active mods</LoadingAllActiveMods>
-  <LoadingDefs>Loading defs</LoadingDefs>
-  <LoadingAssets>Loading assets</LoadingAssets>
-  <Initializing>Initializing</Initializing>
-  <LoadingWorld>Loading world</LoadingWorld>
-  <LoadingMap>Loading map</LoadingMap>
-  <InitializingGame>Initializing game</InitializingGame>
-  <SpawningAllThings>Spawning all things</SpawningAllThings>
-  <SpawningColonists>Spawning colonists</SpawningColonists>
+  <InitializingInterface>İnterfeys yüklənir</InitializingInterface>
+  <UnloadingUnusedAssets>İstifadə edilməyən aktivlər boşa alınır</UnloadingUnusedAssets>
+  <LoadingAllActiveMods>Bütün aktiv modlar yüklənir</LoadingAllActiveMods>
+  <LoadingDefs>Qaynaqlar yüklənir</LoadingDefs>
+  <LoadingAssets>Aktivlər yüklənir</LoadingAssets>
+  <Initializing>Hazırlanır</Initializing>
+  <LoadingWorld>Dünya yüklənir</LoadingWorld>
+  <LoadingMap>Xəritə yüklənir</LoadingMap>
+  <InitializingGame>Oyun hazırlanır</InitializingGame>
+  <SpawningAllThings>Obyektlər yerləşdirilir</SpawningAllThings>
+  <SpawningColonists>Kolonistlər yerləşdirilir</SpawningColonists>
   
   <!-- Save/load -->
-  <SaveGameButton>Save</SaveGameButton>
-  <LoadGameButton>Load</LoadGameButton>
-  <OverwriteButton>Overwrite</OverwriteButton>
-  <ConfirmDelete>Really delete {0}?</ConfirmDelete>
-  <DeleteThisSavegame>Delete this savegame.</DeleteThisSavegame>
-  <SavedAs>Saved as {0}.</SavedAs>
-  <NeedAName>Please enter a name.</NeedAName>
-  <LoadingLongEvent>Loading</LoadingLongEvent>
-  <SavingLongEvent>Saving</SavingLongEvent>
+  <SaveGameButton>Yaddaşa Ver</SaveGameButton>
+  <LoadGameButton>Yüklə</LoadGameButton>
+  <OverwriteButton>Üzərinə yaz</OverwriteButton>
+  <ConfirmDelete>Həqiqətən Silinsin {0}?</ConfirmDelete>
+  <DeleteThisSavegame>Yaddaşa verilmiş oyunu silin</DeleteThisSavegame>
+  <SavedAs>{0} olaraq yaddaşa verildi.</SavedAs>
+  <NeedAName>Zəhmət olmasa ad daxil edin.</NeedAName>
+  <LoadingLongEvent>Yüklənir</LoadingLongEvent>
+  <SavingLongEvent>Yaddaşa verilir</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
   <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
   <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
