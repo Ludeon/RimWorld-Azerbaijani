@@ -57,57 +57,57 @@
   <LoadingLongEvent>Yüklənir</LoadingLongEvent>
   <SavingLongEvent>Yaddaşa verilir</SavingLongEvent>
   <PermadeathModeSaveSuffix>(Permadeath)</PermadeathModeSaveSuffix>
-  <SaveIsFromDifferentGameVersion>We are running version {0} but the save data is from {1}, which is a different version entirely.\n\nTrying to load this data will probably not work.</SaveIsFromDifferentGameVersion>
-  <SaveIsFromDifferentGameBuild>We are running version {0} but the save data is from {1}, which is a different build.\n\nTrying to load this data should still work.</SaveIsFromDifferentGameBuild>
-  <SaveIsFromThisGameBuild>Save data was saved with our game version and should work without issue.</SaveIsFromThisGameBuild>
-  <SaveIsUnknownFormat>Save data is in an unknown format and almost certainly will not load properly.</SaveIsUnknownFormat>
-  <ProblemSavingFile>There was a problem saving the file {0}:\n\n{1}\n\nSee error log for more information.</ProblemSavingFile>
-  <LoadAnyway>Load anyway</LoadAnyway>
-  <ChangeLoadedMods>Load mod list from save</ChangeLoadedMods>
-  <MissingMods>Some mods are unavailable, and need to be installed</MissingMods>
+  <SaveIsFromDifferentGameVersion>Cari versiya: {0} ancaq yaddaşa verilmiş oyun {1} versiyasındandır, hansı ki, tamamilə fərqli versiyalardır.\n\nBu məlumatların yüklənməsi çox güman ki, işləməyəcək.</SaveIsFromDifferentGameVersion>
+  <SaveIsFromDifferentGameBuild>Cari versiya: {0} ancaq yaddaşa verilmiş oyun {1} versiyasındandır, hansı ki, tamamilə fərqli qurulmalardır.\n\nBu məlumatların yüklənməsi çox güman ki, işləyəcək.</SaveIsFromDifferentGameBuild>
+  <SaveIsFromThisGameBuild>Yaddaşa verilmiş məlumatlar oyun versiyası ilə üst-üstə düşür, problem olmayacaq.</SaveIsFromThisGameBuild>
+  <SaveIsUnknownFormat>Yaddaşa verilmiş məlumatlar bilinməyən formatdadır, çox güman ki, işləyəcək.</SaveIsUnknownFormat>
+  <ProblemSavingFile>Faylı yaddaşa verməkdə problem yaşandı {0}:\n\n{1}\n\nƏtraflı məlumat üçün loglara baxın.</ProblemSavingFile>
+  <LoadAnyway>Yenədə Yüklə</LoadAnyway>
+  <ChangeLoadedMods>Yaddaşdan mod siyahısını yüklə</ChangeLoadedMods>
+  <MissingMods>Bəzi modlar əlçatmazdır, yenidən quraşdırılması lazımdır.</MissingMods>
   
   <!-- Player faction naming -->
-  <NamePlayerFactionMessage>{0} thinks that you should give your faction a name. What should your faction be called?</NamePlayerFactionMessage>
-  <PlayerFactionGainsName>Your faction is now known as {0}.</PlayerFactionGainsName>
-  <PlayerFactionNameIsInvalid>That name isn't valid.</PlayerFactionNameIsInvalid>
+  <NamePlayerFactionMessage>{0} düşünür ki, fraksiyanıza ad verməlisiniz. Fraksiyanız necə adlansın?</NamePlayerFactionMessage>
+  <PlayerFactionGainsName>Fraksiyanız artıq {0}  adlanacaq.</PlayerFactionGainsName>
+  <PlayerFactionNameIsInvalid>Bu ad vermək mümkün deyil.</PlayerFactionNameIsInvalid>
 
   <!-- Player faction base naming -->
-  <NamePlayerFactionBaseMessage>Since it looks like you'll be here for a while, {0} thinks that you should give this community a name. What should the local community be called?</NamePlayerFactionBaseMessage>
-  <PlayerFactionBaseGainsName>This community is now known as {0}.</PlayerFactionBaseGainsName>
-  <PlayerFactionBaseNameIsInvalid>That name isn't valid.</PlayerFactionBaseNameIsInvalid>
+  <NamePlayerFactionBaseMessage>Görünənə görə çoxdandır burdasınız, {0} düşünür ki, bu yerli cəmiyyətə bir ad verməlisiniz. Yerli cəmiyyət necə adlansın?</NamePlayerFactionBaseMessage>
+  <PlayerFactionBaseGainsName>Bu cəmiyyət artıq {0} adlanacaq.</PlayerFactionBaseGainsName>
+  <PlayerFactionBaseNameIsInvalid>Bu ad vermək mümkün deyil.</PlayerFactionBaseNameIsInvalid>
   
   <!-- Player faction and faction base naming -->
-  <NamePlayerFactionBaseMessage_NameFactionContinuation>Since it looks like you'll be here for a while, {0} also thinks that you should give this community a name. What should this local community be called?</NamePlayerFactionBaseMessage_NameFactionContinuation>
-  <PlayerFactionAndBaseGainsName>Your faction is now known as {0}, and this community is now known as {1}.</PlayerFactionAndBaseGainsName>
+  <NamePlayerFactionBaseMessage_NameFactionContinuation>Görünənə görə çoxdandır burdasınız, {0} düşünür ki, bu cəmiyyətə bir ad verməlisiniz. Yerli cəmiyyət necə adlansın?</NamePlayerFactionBaseMessage_NameFactionContinuation>
+  <PlayerFactionAndBaseGainsName>Fraksiyanız artıq {0} və cəmiyyətiniz {1} adlanacaq..</PlayerFactionAndBaseGainsName>
   
   <!-- Renaming -->
-  <NameIsInvalid>Please enter a valid name.</NameIsInvalid>
-  <NameIsInUse>Name is already in use.</NameIsInUse>
-  <ZoneGainsName>The zone is now called {0}.</ZoneGainsName>
+  <NameIsInvalid>Zəhmət olmasa düzgün ad daxil edin.</NameIsInvalid>
+  <NameIsInUse>Ad artıq istifadə edilir.</NameIsInUse>
+  <ZoneGainsName>Zona artıq {0} adlanacaq.</ZoneGainsName>
   
   <!-- Pawn naming -->
-  <PawnGainsName>The colonist nick-name is now {0}.</PawnGainsName>
+  <PawnGainsName>Kolonistin ləqəbi {0} oldu artıq.</PawnGainsName>
 
   <!-- Save game incompatible warning -->
-  <VersionMismatch>Version mismatch</VersionMismatch>
-  <SaveGameIncompatibleWarningText>This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes.</SaveGameIncompatibleWarningText>
-  <WorldFileVersionMismatch>World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch.</WorldFileVersionMismatch>
-  <FileIncompatibleWarning>This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes.</FileIncompatibleWarning>
-  <ModsMismatchWarningTitle>Mods mismatch</ModsMismatchWarningTitle>
-  <ModsMismatchWarningText>This file was saved with a different set of mods active than those we are currently running. This may or may not cause problems, depending on exactly what these mods do.\n\nFile was saved with (in this order):\n\n{0}\n\nWe are running with (in this order):\n\n{1}</ModsMismatchWarningText>
+  <VersionMismatch>Versiyalar uyğun gəlmədi.</VersionMismatch>
+  <SaveGameIncompatibleWarningText>Oyun {0} versiyası ilə yaddaşa verilib\nBizdə hal-hazırda {1} versiyası işləyir\n\nBu yaddaşa verilmiş oyunu yükləmək xəta və problemlərə səbəb ola bilər.</SaveGameIncompatibleWarningText>
+  <WorldFileVersionMismatch>Dünya faylı {0} versiyası ilə yaddaşa verilib\nBizdə hal-hazırda {1} versiyası işləyir\n\nBu dünyanı yükləmək xəta və problemlərə səbəb ola bilər. Sıfırdan yeni dünyan yaratmaq ən yaxşısıdır.</WorldFileVersionMismatch>
+  <FileIncompatibleWarning>Fayl {0} versiyası ilə yaddaşa verilib\nBizdə hal-hazırda {1} versiyası işləyir\n\nBu faylı yükləmək xəta və problemlərə səbəb ola bilər.</FileIncompatibleWarning>
+  <ModsMismatchWarningTitle>Modlar uyğun gəlmədi.</ModsMismatchWarningTitle>
+  <ModsMismatchWarningText>Bu fayl indi aktiv olan başqa modlar dəsti ilə yaddaşa verilib. Bu modlarən nə iş gördüyündən asılı olaraq, problemə səbəb də ola bilər, olmaya da bilər.\n\nFayl bu sıra ilə yaddaşa verilib:\n\n{0}\n\nBiz amma bu sıra ilə çalışdırırıq:\n\n{1}</ModsMismatchWarningText>
 
   <!-- Resolution change dialog -->
-  <ConfirmResolutionChange>You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}...</ConfirmResolutionChange>
-  <ResolutionKeep>Keep</ResolutionKeep>
-  <ResolutionRevert>Revert</ResolutionRevert>
+  <ConfirmResolutionChange>Ekran parametrlərini dəyişdiniz. yeni format normal işləyirmi?\n\n{0} içərisinə avtomatik olaraq geri qaytarılacaq...</ConfirmResolutionChange>
+  <ResolutionKeep>Saxla</ResolutionKeep>
+  <ResolutionRevert>Geri qaytar</ResolutionRevert>
 
   <!-- Research -->
-  <Research>Research</Research>
-  <Researched>Researched</Researched>
-  <Unresearched>Unresearched</Unresearched>
-  <Finished>Finished</Finished>
-  <InProgress>In Progress</InProgress>
-  <Locked>Locked</Locked>
+  <Research>Araşdırma</Research>
+  <Researched>Araşdıdıldı</Researched>
+  <Unresearched>Araşdırılmayıb</Unresearched>
+  <Finished>Tamamlandı</Finished>
+  <InProgress>Davam edir</InProgress>
+  <Locked>Kilidli</Locked>
   <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
   <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
   <RequiredResearchBench>Required research bench</RequiredResearchBench>
