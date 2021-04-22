@@ -108,56 +108,56 @@
   <Finished>Tamamlandı</Finished>
   <InProgress>Davam edir</InProgress>
   <Locked>Kilidli</Locked>
-  <ResearchMenuWithoutBench>Until you build a RESEARCH BENCH, your colonists will not actually be able to do research.\n\nHowever, you can still look at research projects now.</ResearchMenuWithoutBench>
-  <ResearchPrerequisites>Research prerequisites</ResearchPrerequisites>
-  <RequiredResearchBench>Required research bench</RequiredResearchBench>
-  <RequiredResearchBenchFacilities>Required research bench facilities</RequiredResearchBenchFacilities>
+  <ResearchMenuWithoutBench>ARAŞDIRMA MASASI düzəltməyənə qədər, kolonistlərin araşdırma edə bilməyəcəklər.\n\nAmma yenədə Araşdırmalara baxa bilərsiniz.</ResearchMenuWithoutBench>
+  <ResearchPrerequisites>Araşdırmanın ilkin şərtləri</ResearchPrerequisites>
+  <RequiredResearchBench>Araşdırma masası lazımdır</RequiredResearchBench>
+  <RequiredResearchBenchFacilities>Araşdırma masası obyektləri lazımdır</RequiredResearchBenchFacilities>
   
   <!-- Advanced game start options -->
-  <MapTemperatureDangerWarning>Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season.</MapTemperatureDangerWarning>
-  <MapSizePerformanceWarning>Warning: Performance may degrade at larger map sizes. Ludeonicrous size is untested and will almost certainly not play well.</MapSizePerformanceWarning>
-  <MapSize>Map size</MapSize>
-  <MapSizeDesc>{0}x{0} ({1} cells)</MapSizeDesc>
-  <MapSizeSmall>Small</MapSizeSmall>
-  <MapSizeMedium>Medium</MapSizeMedium>
-  <MapSizeLarge>Large</MapSizeLarge>
-  <MapSizeExtreme>Ludeonicrous</MapSizeExtreme>
-  <MapStartSeason>Starting season:</MapStartSeason>
-  <MapStartSeasonDefault>Auto</MapStartSeasonDefault>
-  <PermadeathMode>Permadeath mode</PermadeathMode>
-  <PermadeathModeInfo>In permadeath mode, you get one save file and can only save when quitting the game. You cannot reload the game to fix mistakes, and when the colony dies, that's it.\n\nThis is the way RimWorld was meant to be played, with every dramatic turn - whether tragic or hopeful - played out to full impact.</PermadeathModeInfo>
+  <MapTemperatureDangerWarning>Diqqət: Donmuş mühitə enəcəksiniz. Burda həyatda qalmaq demək olar ki, mümkünsüzdür. Əgər ifrat dərəcədə problemlərlə qarşılaşmaq istəmirsinizsə, fərqli bölgə və ya sezon seçin.</MapTemperatureDangerWarning>
+  <MapSizePerformanceWarning>Diqqət: Böyük ölçülü xəritələrdə performans problemləri yaşana bilər. Böyükölçülü xəritələr test edilməyib və oynamaq üçün uyğun deyil.</MapSizePerformanceWarning>
+  <MapSize>Xəritə ölçüsü</MapSize>
+  <MapSizeDesc>{0}x{0} ({1} xanalar)</MapSizeDesc>
+  <MapSizeSmall>Balaca</MapSizeSmall>
+  <MapSizeMedium>Orta</MapSizeMedium>
+  <MapSizeLarge>Böyük</MapSizeLarge>
+  <MapSizeExtreme>Çox Böyük</MapSizeExtreme>
+  <MapStartSeason>Başlanğıc sezon:</MapStartSeason>
+  <MapStartSeasonDefault>Avtomatik</MapStartSeasonDefault>
+  <PermadeathMode>Permadeath modu</PermadeathMode>
+  <PermadeathModeInfo>Permadeth modunda bir dənə yaddaş faylı olur və oyunu yalnız çıxışda yaddaşa vermək olur. Səhvləri düzəltmək üçün oyunu yenidən yükləyə bilməyəcəksiniz, kolonist öldüsə, bu qədər!.\n\nƏsl Rimworld budur, hər dramatik dönüş ilə - faciəli və ya ümidli olsun - tam təsirini göstərir.</PermadeathModeInfo>
 
   <!-- Bill config -->
-  <Suspended>Suspended</Suspended>
-  <NotSuspended>Not suspended</NotSuspended>
-  <SuspendedAllCaps>SUSPENDED</SuspendedAllCaps>
-  <RepeatCount>Repeat: {0}</RepeatCount>
-  <Forever>Forever</Forever>
-	<Details>Details</Details>
-  <IngredientSearchRadius>Ingredient radius</IngredientSearchRadius>
-  <CurrentlyHave>Currently have</CurrentlyHave>
-  <CountingProducts>Counting</CountingProducts>
-  <Infinite>Infinite</Infinite>
-  <AllowedSkillRange>Allowed {0} skill:</AllowedSkillRange>
+  <Suspended>Dayandırıldı</Suspended>
+  <NotSuspended>Dayandırlmadı</NotSuspended>
+  <SuspendedAllCaps>DAYANDIRILDI</SuspendedAllCaps>
+  <RepeatCount>Təkrarla: {0}</RepeatCount>
+  <Forever>Sonsuza qədər</Forever>
+	<Details>Detallar</Details>
+  <IngredientSearchRadius>İnqrediyent radiusu</IngredientSearchRadius>
+  <CurrentlyHave>Hal-hazırda var</CurrentlyHave>
+  <CountingProducts>Sayır</CountingProducts>
+  <Infinite>Sonsuz</Infinite>
+  <AllowedSkillRange>İcazə verilə {0} bacarıq:</AllowedSkillRange>
   
-  <RecipeCannotHaveTargetCount>(This recipe cannot have a target count because it has multiple or unpredictable products.)</RecipeCannotHaveTargetCount>
-  <WorkAmount>Work amount</WorkAmount>
-  <MinimumSkills>Minimum skills:</MinimumSkills>
-  <BillRequires>Requires {0} {1}</BillRequires>
-  <BillRequiresNutrition>Requires {0} nutrition</BillRequiresNutrition>
-  <BillRequiresMayVary>Note: small-volume ingredients like gold require {0}x as much.</BillRequiresMayVary>
-  <ThisIsSmallVolume>This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual.</ThisIsSmallVolume>
-  <UsableIngredients>ingredients</UsableIngredients>
-  <BillRepeatTargetCountShort>To {0}</BillRepeatTargetCountShort>
+  <RecipeCannotHaveTargetCount>(Bu reseptdə hədəf nömrəsi ola bilməz, çünki çoxsaylı və ya gözlənilməz məhsullar var.)</RecipeCannotHaveTargetCount>
+  <WorkAmount>İş yükü</WorkAmount>
+  <MinimumSkills>Minimum bacarıqlar:</MinimumSkills>
+  <BillRequires>{0} {1} tələb olunur</BillRequires>
+  <BillRequiresNutrition>{0} qidalanma tələb edir</BillRequiresNutrition>
+  <BillRequiresMayVary>Qeyd: Qızıl kimi kiçik həcmli komponentlər üçün {0}x tələb olunur.</BillRequiresMayVary>
+  <ThisIsSmallVolume>Bu kiçik həcmli bir maddədir. Bu o deməkdir ki, hər "vahid" normal həcm komponenti qədər yalnız 1/{0} qədərdir. Bu səbəbdən eyni komponent tələbini ödəmək üçün hər zamankı kimi {0}x-ə ehtiyacınız olacaq.</ThisIsSmallVolume>
+  <UsableIngredients>İnqrediyentlər</UsableIngredients>
+  <BillRepeatTargetCountShort>{0}-dək</BillRepeatTargetCountShort>
 
-  <PauseWhenSatisfied>Pause when satisfied</PauseWhenSatisfied>
-  <UnpauseWhenYouHave>Unpause at</UnpauseWhenYouHave>
-  <Paused>Paused</Paused>
-  <Unpause>Unpause</Unpause>
+  <PauseWhenSatisfied>Məmnun qalanda pauza ver</PauseWhenSatisfied>
+  <UnpauseWhenYouHave>Pauzanı dayandır</UnpauseWhenYouHave>
+  <Paused>Fasilə verildi</Paused>
+  <Unpause>Davam et</Unpause>
   
   <!-- Info card -->
-  <Damage>Damage</Damage>
-  <Accuracy>Accuracy</Accuracy>
+  <Damage>Zərər</Damage>
+  <Accuracy>Dəqiqlik</Accuracy>
   <BurstShotCount>Burst shot count</BurstShotCount>
   <WarmupTime>Warmup</WarmupTime>
   <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
