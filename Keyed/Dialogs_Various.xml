@@ -158,97 +158,97 @@
   <!-- Info card -->
   <Damage>Zərər</Damage>
   <Accuracy>Dəqiqlik</Accuracy>
-  <BurstShotCount>Burst shot count</BurstShotCount>
-  <WarmupTime>Warmup</WarmupTime>
-  <MeleeWarmupTime>Melee warmup</MeleeWarmupTime>
-  <CooldownTime>Cooldown</CooldownTime>
-  <BurstShotFireRate>Fire rate</BurstShotFireRate>
-  <Range>Range</Range>
-  <GrowsWild>Grows wild</GrowsWild>
-  <Harvestable>Harvestable</Harvestable>
-  <LimitedLifespan>Limited lifespan</LimitedLifespan>
-  <GrowingTime>Growing time</GrowingTime>
-  <GrowingTimeDesc>Plants only grow for part of the day, and only when lit. This statistic measures the time the plant needs to spend actually growing to reach full size. The actual real growing time will generally be about twice as long. Low temperatures also slow plant growth.</GrowingTimeDesc>
-  <Days>days</Days>
-  <MinGrowingSkillToSow>Minimum growing skill to sow</MinGrowingSkillToSow>
-  <FertilityRequirement>Fertility requirement</FertilityRequirement>
-  <FertilitySensitivity>Fertility sensitivity</FertilitySensitivity>
-  <LightRequirement>Light requirement</LightRequirement>
-  <Attributes>Attributes</Attributes>
-  <LifeSpan>Lifespan</LifeSpan>
-  <Nutrition>Nutrition</Nutrition>
-  <Joy>Joy</Joy>
-  <FoodQuality>Food quality</FoodQuality>
-  <WalkSpeedProperty>Walk speed</WalkSpeedProperty>
-  <MinFoodQuality>Min. food quality</MinFoodQuality>
-  <Diet>Diet</Diet>
-	<BodySize>Body size</BodySize>
-  <RecruitDifficulty>Recruit difficulty</RecruitDifficulty>
-  <MarketValue>Base price</MarketValue>
-  <Covers>Covers</Covers>
-  <CoverEffectiveness>Cover effectiveness</CoverEffectiveness>
-  <CoverEffectivenessExplanation>How effective this is when used as cover in a gunfight. Higher percentages will block more shots.</CoverEffectivenessExplanation>
-  <MedicineXpGainFactor>Experience gain factor</MedicineXpGainFactor>
-  <MoodChange>Mood change</MoodChange>
-  <Wildness>Wildness</Wildness>
-  <WildnessExplanation>Wilder creatures are naturally more difficult to tame, train, and handle.</WildnessExplanation>
-  <AnimalFilthRate>Animal filth rate</AnimalFilthRate>
-  <AnimalFilthRateExplanation>Animals produce filth when moving around on constructed floors. This is the average amount of such filth produced per {0} cells walked by this creature.\n\nLarger or less pet-like animals produce more filth.</AnimalFilthRateExplanation>
-  <TimeRecordsCategory>Time</TimeRecordsCategory>
+  <BurstShotCount>Ardəcəl atış sayı</BurstShotCount>
+  <WarmupTime>İsinmə</WarmupTime>
+  <MeleeWarmupTime>Yaxın döyüş isinməsi</MeleeWarmupTime>
+  <CooldownTime>Vaxt</CooldownTime>
+  <BurstShotFireRate>Atış tezliyi</BurstShotFireRate>
+  <Range>Məsafə</Range>
+  <GrowsWild>Yabanı bitki</GrowsWild>
+  <Harvestable>Biçiləbilən</Harvestable>
+  <LimitedLifespan>Məhdud ömür</LimitedLifespan>
+  <GrowingTime>Böyümə vaxtı</GrowingTime>
+  <GrowingTimeDesc>Bitkilər yalnız işıqda və günün müəyyən vaxtlarında böyüyür. Bu statistika, bitkinin tam böyüməsi üçün həqiqətən böyüməyə sərf etməli olduğu vaxtı ölçür. Həqiqi böyümə müddəti ümumiyyətlə təxminən iki dəfə çox olacaqdır. Aşağı temperatur da bitki böyüməsini yavaşladır.</GrowingTimeDesc>
+  <Days>günlər</Days>
+  <MinGrowingSkillToSow>Əkmək üçün minimum tələb olunan bacarıq</MinGrowingSkillToSow>
+  <FertilityRequirement>Məhsuldarlıq tələbi</FertilityRequirement>
+  <FertilitySensitivity>Məhsuldarlıq həssaslığı</FertilitySensitivity>
+  <LightRequirement>İşıq tələbatı</LightRequirement>
+  <Attributes>Xüsusiyyətlər</Attributes>
+  <LifeSpan>Ömür</LifeSpan>
+  <Nutrition>Qidalanma</Nutrition>
+  <Joy>Əyləncə</Joy>
+  <FoodQuality>Yeməyin keyfiyyəti</FoodQuality>
+  <WalkSpeedProperty>Yerimə sürəti</WalkSpeedProperty>
+  <MinFoodQuality>Min. qida keyfiyyəti</MinFoodQuality>
+  <Diet>Pəhriz</Diet>
+	<BodySize>Bədən ölçüsü</BodySize>
+  <RecruitDifficulty>Koloniyaya qəbul çətinliyi</RecruitDifficulty>
+  <MarketValue>Əsas qiymət</MarketValue>
+  <Covers>Müdafiələr</Covers>
+  <CoverEffectiveness>Müdafiə effektivliyi</CoverEffectiveness>
+  <CoverEffectivenessExplanation>Silah atışında müdafiə kimi istifadə edildiyi zaman bunun nə qədər təsirli olduğunu. Daha yüksək faizlər daha çox zərbənin qarşısını alacaq.</CoverEffectivenessExplanation>
+  <MedicineXpGainFactor>Təcrübə qazanma faktoru</MedicineXpGainFactor>
+  <MoodChange>Əhval dəyişikliyi</MoodChange>
+  <Wildness>Vəhşilik</Wildness>
+  <WildnessExplanation>Vəhşi canlıları təbii olaraq əhliləşdirmək, öyrətmək və idarə etmək daha çətindir.</WildnessExplanation>
+  <AnimalFilthRate>Heyvan çirkliliyi dərəcəsi</AnimalFilthRate>
+  <AnimalFilthRateExplanation>Heyvanlar inşa edilmiş döşəmələrdə hərəkət etdikcə çirklilik yaradırlar. Bu hər {0} xanada gəzən canlının yaratdığı çirklilikdir.\n\nBöyük və ev heyvanı olmayanlar daha çox batırırlar.</AnimalFilthRateExplanation>
+  <TimeRecordsCategory>Vaxt</TimeRecordsCategory>
   <MiscRecordsCategory>Misc</MiscRecordsCategory>
-  <Addictiveness>Addictiveness</Addictiveness>
-	<PackAnimal>Pack animal</PackAnimal>
-	<PackAnimalExplanation>Whether this animal is appropriate to use to carry items in a caravan over long distances.</PackAnimalExplanation>
-  <Skill>Skill</Skill>
-  <SurgerySuccessChanceFactor>Success rate multiplier</SurgerySuccessChanceFactor>
-  <SurgeryRequireBed>Requires bed</SurgeryRequireBed>
-  <WorkSpeedStat>Work speed governed by</WorkSpeedStat>
-  <EfficiencyStat>Output quantity governed by</EfficiencyStat>
-  <ConstructionSkillRequired>Construction skill required</ConstructionSkillRequired>
-  <ConstructionSkillRequiredExplanation>Requires this level of Construction in order to build.</ConstructionSkillRequiredExplanation>
+  <Addictiveness>Asılılıq</Addictiveness>
+	<PackAnimal>Yük heyvanı</PackAnimal>
+	<PackAnimalExplanation>Bu heyvanın uzaq məsafələrdə karvanda yük daşımağa uyğun olub-olmadığı.</PackAnimalExplanation>
+  <Skill>Bacarıq</Skill>
+  <SurgerySuccessChanceFactor>Uğur dərəcə vuruğu</SurgerySuccessChanceFactor>
+  <SurgeryRequireBed>Yataq tələb olunur</SurgeryRequireBed>
+  <WorkSpeedStat>İş sürəti tənzimlənir</WorkSpeedStat>
+  <EfficiencyStat>Çıxış miqdarı tənzimlənir</EfficiencyStat>
+  <ConstructionSkillRequired>İnşaat bacarığı tələb olunur</ConstructionSkillRequired>
+  <ConstructionSkillRequiredExplanation>İnşa etmək üçün bu inşaat səviyyəsini tələb edir.</ConstructionSkillRequiredExplanation>
 
   <!-- Trade -->
-  <PositiveBuysNegativeSells>Positive numbers buy.\nNegative numbers sell.</PositiveBuysNegativeSells>
-  <BuyPriceDesc>Price you pay to buy this.</BuyPriceDesc>
-  <SellPriceDesc>Price you receive for selling this.</SellPriceDesc>
-  <PriceTypeDesc>For this item, this price is {0}.</PriceTypeDesc>
-  <ColonyCount>How many of this item the colony has ready to trade.\n\nYou can only sell items to orbital traders if they are outdoors and near an orbital trade beacon.</ColonyCount>
-  <TraderCount>How many of this item the trader has to trade.</TraderCount>
-  <AcceptButton>Accept</AcceptButton>
-  <ResetButton>Reset</ResetButton>
-  <CancelButton>Cancel</CancelButton>
-  <CloseButton>Close</CloseButton>
-  <YourTradeableSilver>Your tradeable silver: {0}</YourTradeableSilver>
-	<YourTradeableSilverTip>You can only trade with silver that is near an orbital trade beacon and not under a roof.</YourTradeableSilverTip>
-  <TraderHasNoMore>Trader has no more.</TraderHasNoMore>
-  <ColonyHasNoMore>No more to sell.</ColonyHasNoMore>
-  <TraderWillNotTrade>Trader is not willing to trade this.</TraderWillNotTrade>
-  <Negotiator>Negotiator</Negotiator>
-  <NegotiatorTalkingImpaired>Your negotiator {0} cannot talk properly because of poor health.</NegotiatorTalkingImpaired>
-  <NegotiatorHearingImpaired>Your negotiator {0} cannot hear properly because of poor health.</NegotiatorHearingImpaired>
-  <NegotiatorCapacityImpaired>This will affect trade prices.\n\nConsider using a healthier negotiator.</NegotiatorCapacityImpaired>
-  <ConfirmTraderShortFunds>Trader has insufficient silver to fully cover this transaction.  Proceed anyways?</ConfirmTraderShortFunds>
-  <SortBy>Sort by</SortBy>
-	<TraderTypePrice>trader type</TraderTypePrice>
-	<Selling>selling</Selling>
-	<Buying>buying</Buying>
-	<ItemSellPriceFactor>item sell price multiplier</ItemSellPriceFactor>
-	<DifficultyLevel>difficulty level</DifficultyLevel>
-	<PostCurve>global post-process curve</PostCurve>
-	<YourNegotiatorBonus>Your negotiator bonus</YourNegotiatorBonus>
-	<TradeWithFactionBaseBonus>Trading with faction base bonus</TradeWithFactionBaseBonus>
+  <PositiveBuysNegativeSells>Müsbət rəqəmlər almaq.\nMənfi rəqəmlər satmağı bildirir.</PositiveBuysNegativeSells>
+  <BuyPriceDesc>Bunu almaq üçün ödəyəcəyiniz məbləğ.</BuyPriceDesc>
+  <SellPriceDesc>Bunu sataraq qazanacağınız məbləğ.</SellPriceDesc>
+  <PriceTypeDesc>Bu məhsul üçün olan qiymət {0}.</PriceTypeDesc>
+  <ColonyCount>Bundan nə qədərini koloniya alqı-satmaya hazırdır.\n\nOrbital alverçilərə əşyalar yalnız açıq havada və orbital ticarət mayakının yaxınlığında olduqda sata bilərsiniz.</ColonyCount>
+  <TraderCount>Alverçi bu maddənin neçə hissəsini ticarət etməlidir.</TraderCount>
+  <AcceptButton>Təsdiqlə</AcceptButton>
+  <ResetButton>Sıfırla</ResetButton>
+  <CancelButton>Ləğv et</CancelButton>
+  <CloseButton>Bağla</CloseButton>
+  <YourTradeableSilver>Alqı-satqı üçün istifadə edilə bilən gümüş: {0}</YourTradeableSilver>
+	<YourTradeableSilverTip>Orbital ticarət mayakı əhatəsində və açıq havada olan gümüşlərlə alver edə bilərsiniz.</YourTradeableSilverTip>
+  <TraderHasNoMore>Alverçidə daha yoxdur.</TraderHasNoMore>
+  <ColonyHasNoMore>Satmağa daha yoxdur.</ColonyHasNoMore>
+  <TraderWillNotTrade>Alverçi bunu almaq istəmir.</TraderWillNotTrade>
+  <Negotiator>Vasitəçi</Negotiator>
+  <NegotiatorTalkingImpaired>{0} Sizin vasitəçi səhhətinə görə yaxşı danışa bilməyəcək.</NegotiatorTalkingImpaired>
+  <NegotiatorHearingImpaired>{0} Sizin vasitəçi səhhətinə görə yaxşı eşidə bilməyəcək.</NegotiatorHearingImpaired>
+  <NegotiatorCapacityImpaired>Bu alqı-satqı qiymətlərinə təsir edəcək.\n\nDaha sağlam vasitəçi seçməyiniz məsləhətdir.</NegotiatorCapacityImpaired>
+  <ConfirmTraderShortFunds>Alverçinin bunu qarşılamağa gümüşü yoxdur.  Davam edilsin?</ConfirmTraderShortFunds>
+  <SortBy>Sırala</SortBy>
+	<TraderTypePrice>alverçi tipi</TraderTypePrice>
+	<Selling>satış</Selling>
+	<Buying>alış</Buying>
+	<ItemSellPriceFactor>Əşya satış qiymət vuruğu</ItemSellPriceFactor>
+	<DifficultyLevel>Çətinlik səviyyəsi</DifficultyLevel>
+	<PostCurve>Qlobal post-proses əyrisi</PostCurve>
+	<YourNegotiatorBonus>Vasitəçinin bonusu</YourNegotiatorBonus>
+	<TradeWithFactionBaseBonus>Fraksiya baza bonusu ilə ticarət</TradeWithFactionBaseBonus>
 	<minimum>minimum</minimum>
-	<FinalPrice>Final price</FinalPrice>
-  <TradeMassUsageTooltip>The resulting mass usage and mass capacity.</TradeMassUsageTooltip>
+	<FinalPrice>Son qiymət</FinalPrice>
+  <TradeMassUsageTooltip>Nəticədə kütləvi istifadə və kütlə tutum.</TradeMassUsageTooltip>
   
   <!-- Form caravan -->
-  <FormCaravan>Form caravan</FormCaravan>
-  <FormCaravanColonyThingCountTip>How many of this item the colony has ready to give to the caravan.</FormCaravanColonyThingCountTip>
-  <PawnsTab>People and animals</PawnsTab>
-  <ItemsTab>Items</ItemsTab>
-  <CaravanConfigTab>Config</CaravanConfigTab>
-  <CaravanMustHaveAtLeastOneColonist>You must assign at least one non-downed colonist.</CaravanMustHaveAtLeastOneColonist>
-  <CaravanCouldNotFindExitSpot>The chosen exit location ({0}) is inaccessible.</CaravanCouldNotFindExitSpot>
+  <FormCaravan>Karvan hazırla</FormCaravan>
+  <FormCaravanColonyThingCountTip>Koloniya bundan nə qədər karvana verə bilər.</FormCaravanColonyThingCountTip>
+  <PawnsTab>İnsanlar və Heyvanlar</PawnsTab>
+  <ItemsTab>Əşyalar</ItemsTab>
+  <CaravanConfigTab>Konfiqurasiya</CaravanConfigTab>
+  <CaravanMustHaveAtLeastOneColonist>Ən azından normal yeriyə bilən bir nəfər təyin etməlisiniz.</CaravanMustHaveAtLeastOneColonist>
+  <CaravanCouldNotFindExitSpot>Təyin edilən son nöqtə ({0}) getmək mümkün deyil.</CaravanCouldNotFindExitSpot>
   <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
   <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
   <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
