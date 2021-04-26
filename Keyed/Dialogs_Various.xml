@@ -239,7 +239,7 @@
 	<TradeWithFactionBaseBonus>Fraksiya baza bonusu ilə ticarət</TradeWithFactionBaseBonus>
 	<minimum>minimum</minimum>
 	<FinalPrice>Son qiymət</FinalPrice>
-  <TradeMassUsageTooltip>Nəticədə kütləvi istifadə və kütlə tutum.</TradeMassUsageTooltip>
+  <TradeMassUsageTooltip>Nəticədə kütləvi istifadə və yük tutum.</TradeMassUsageTooltip>
   
   <!-- Form caravan -->
   <FormCaravan>Karvan hazırla</FormCaravan>
@@ -249,67 +249,67 @@
   <CaravanConfigTab>Konfiqurasiya</CaravanConfigTab>
   <CaravanMustHaveAtLeastOneColonist>Ən azından normal yeriyə bilən bir nəfər təyin etməlisiniz.</CaravanMustHaveAtLeastOneColonist>
   <CaravanCouldNotFindExitSpot>Təyin edilən son nöqtə ({0}) getmək mümkün deyil.</CaravanCouldNotFindExitSpot>
-  <CaravanCouldNotFindPackingSpot>Could not find any valid packing spot. Make sure that the chosen exit location ({0}) is accessible.</CaravanCouldNotFindPackingSpot>
-  <CaravanCouldNotFindReachableExitSpot>Warning: some of the assigned colonists are unable to reach the exit location ({0}).</CaravanCouldNotFindReachableExitSpot>
-  <CaravanPawnIsUnreachable>{0} is unreachable by any of the assigned colonists.</CaravanPawnIsUnreachable>
-  <CaravanItemIsUnreachableSingle>None of the assigned colonists are able to reach the {0}.</CaravanItemIsUnreachableSingle>
-  <CaravanItemIsUnreachableMulti>None of the assigned colonists are able to reach {0}x {1}.</CaravanItemIsUnreachableMulti>
-  <TooBigCaravanMassUsage>The caravan is not able to carry that much.</TooBigCaravanMassUsage>
-  <CaravanMassUsageTooltip>Current mass usage and mass capacity.\n\nMass usage includes the assigned caravan supplies as well as the colonists' current equipment.\n\nYou will not be able to send the caravan if the mass usage exceedes capacity.</CaravanMassUsageTooltip>
+  <CaravanCouldNotFindPackingSpot>Etibarlı bir karvan hazırlanma yeri tapa bilmədi. Seçilmiş çıxış məkanının ({0}) əlçatan olduğundan əmin olun.</CaravanCouldNotFindPackingSpot>
+  <CaravanCouldNotFindReachableExitSpot>Diqqət: Bəzi seçilmiş kolonistlər çıxış nöqtəsinə gedə bilmirlər ({0}).</CaravanCouldNotFindReachableExitSpot>
+  <CaravanPawnIsUnreachable>{0}-a təyin edilmiş kolonistlər gedə bilmirlər.</CaravanPawnIsUnreachable>
+  <CaravanItemIsUnreachableSingle>Təyin olunmuş kolonistlərdən heç biri {0}-ə gedə bilmir.</CaravanItemIsUnreachableSingle>
+  <CaravanItemIsUnreachableMulti>Təyin olunmuş kolonistlərdən heç biri {0}x {1}-ə gedə bilmir.</CaravanItemIsUnreachableMulti>
+  <TooBigCaravanMassUsage>Karvan bu qədər yükü daşıya bilməz.</TooBigCaravanMassUsage>
+  <CaravanMassUsageTooltip>Cari yük istifadəsi və yük tutumu.\n\nKütləvi istifadəyə, təyin olunmuş karvan ehtiyatları və kolonistlərin hazırkı təchizatı daxildir.\n\nKütləvi istifadə tutumu aşarsa karvanı göndərə bilməyəcəksiniz.</CaravanMassUsageTooltip>
   <MassUsageInfo>{0} / {1} kg</MassUsageInfo>
-  <DaysWorthOfFoodInfo>{0} days worth of food</DaysWorthOfFoodInfo>
-  <DaysWorthOfFoodInfoRot>{0} days worth of food, rot in {1} days</DaysWorthOfFoodInfoRot>
-  <InfiniteDaysWorthOfFoodInfo>Will never run out of food</InfiniteDaysWorthOfFoodInfo>
-  <DaysWorthOfFoodTooltip>An approximate number of days before the caravan runs out of food.\n\nThis takes into account both human and animal food, and shows the worst case scenario. This means that after this many days, at least one person or animal will be out of food.</DaysWorthOfFoodTooltip>
-  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it WILL be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
-  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Based on the current season, temperature, and surroundings we assume that it will NOT be possible for herbivore animals to eat local plants. This however can change at any time.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
-  <DaysWorthOfFoodWarningDialog>Your caravan only has {0} days worth of food and will become hungry very quickly.</DaysWorthOfFoodWarningDialog>
-  <DaysWorthOfFoodWarningDialog_NoFood>Your caravan has no food and will become hungry very quickly.</DaysWorthOfFoodWarningDialog_NoFood>
-  <CaravanFoodWillRotSoonWarningDialog>A large part of the assigned food will rot soon.</CaravanFoodWillRotSoonWarningDialog>
-  <CaravanIncapableOfSocial>You have no caravan members capable of diplomacy or trading.</CaravanIncapableOfSocial>
-  <CaravanAreYouSure>Are you sure you want to form this caravan?</CaravanAreYouSure>
-  <NoExitDirectionForCaravanChosen>You must choose an exit direction for the caravan.</NoExitDirectionForCaravanChosen>
-  <NoCaravanExitDirectionAvailable>(no exit direction available)</NoCaravanExitDirectionAvailable>
-  <ExitDirection>Exit direction</ExitDirection>
+  <DaysWorthOfFoodInfo>{0} gün dəyərində yemək </DaysWorthOfFoodInfo>
+  <DaysWorthOfFoodInfoRot>{0} gün dəyərində yemək, {1} günə xarab olacaq</DaysWorthOfFoodInfoRot>
+  <InfiniteDaysWorthOfFoodInfo>Bizim ərzağımız heç vaxt bitməyəcək</InfiniteDaysWorthOfFoodInfo>
+  <DaysWorthOfFoodTooltip>Karvanın yeməyi tükənmədən təqribən gün əvvəl.\n\nBu, həm insan, həm də heyvan qidasını nəzərə alır və ən pis ssenarini göstərir. Bu o deməkdir ki, bir neçə gündən sonra ən azı bir nəfər və ya heyvan ac qalacaq.</DaysWorthOfFoodTooltip>
+  <DaysWorthOfFoodTooltip_CanEatLocalPlants>Mövsümə, istiliyə və ətraf mühitə əsaslanaraq, otyeyən heyvanların yerli bitkiləri yeməsinin mümkün olacağını düşünürük. Nəzərə alın ki, bu hər zaman dəyişə bilər.</DaysWorthOfFoodTooltip_CanEatLocalPlants>
+  <DaysWorthOfFoodTooltip_CantEatLocalPlants>Mövsümə, istiliyə və ətraf mühitə əsaslanaraq, otyeyən heyvanların yerli bitkiləri yeməsinin mümkün olmayacağını düşünürük. Nəzərə alın ki, bu hər zaman dəyişə bilər.</DaysWorthOfFoodTooltip_CantEatLocalPlants>
+  <DaysWorthOfFoodWarningDialog>Karvanın {0} günlük ərzağı qaldı onlar tezliklər acmağa başlayacaqlar.</DaysWorthOfFoodWarningDialog>
+  <DaysWorthOfFoodWarningDialog_NoFood>Karvanın ərzağı yoxdur. Acmağa başlayacaqlar.</DaysWorthOfFoodWarningDialog_NoFood>
+  <CaravanFoodWillRotSoonWarningDialog>Təyin edilmiş ərzaqların böyük bir hissəsi xarab olacaq.</CaravanFoodWillRotSoonWarningDialog>
+  <CaravanIncapableOfSocial>Karvanda ticarət edə biləcək kolonist yoxdur.</CaravanIncapableOfSocial>
+  <CaravanAreYouSure>Karvanı yaratmağa əminsiniz?</CaravanAreYouSure>
+  <NoExitDirectionForCaravanChosen>Karvan üçün çıxış nöqtəsi seçməlisiniz.</NoExitDirectionForCaravanChosen>
+  <NoCaravanExitDirectionAvailable>(çıxış nöqtəsi uyğun deyil)</NoCaravanExitDirectionAvailable>
+  <ExitDirection>Çıxış Nöqtəsi</ExitDirection>
   <ExitDirectionRadioButtonLabel>{0} ({1} {2})</ExitDirectionRadioButtonLabel>
-  <ItemWeightTip>Weight of this item.</ItemWeightTip>
-  <MarketValueTip>Market value</MarketValueTip>
-  <DaysUntilRotTip>The number of days until this item starts to rot based on the average temperature in this area.</DaysUntilRotTip>
-  <MassCapacity>Mass capacity</MassCapacity>
-  <Mass>Mass</Mass>
-  <EquipmentAndApparelMass>Equipment and apparel mass</EquipmentAndApparelMass>
-  <InventoryMass>Inventory mass</InventoryMass>
-  <CaravanFormationProcessStarted>Your colonists will now take the assigned items and leave the area as soon as possible.</CaravanFormationProcessStarted>
-  <ReformCaravan>Reform caravan</ReformCaravan>
-  <ColonistsSection>Colonists</ColonistsSection>
-  <PrisonersSection>Prisoners</PrisonersSection>
-  <AnimalsSection>Animals</AnimalsSection>
-  <EstimatedTimeToDestinationButton>Est. time to destination</EstimatedTimeToDestinationButton>
-  <AbandonButton>Abandon</AbandonButton>
+  <ItemWeightTip>Bu əşyanın ağırlığı.</ItemWeightTip>
+  <MarketValueTip>Bazar dəyəri</MarketValueTip>
+  <DaysUntilRotTip>Ərazidəki ortalama temperatura uyğun olaraq ərzaqın xarab olmağa başlayacağı gün.</DaysUntilRotTip>
+  <MassCapacity>Kütlə tutumu</MassCapacity>
+  <Mass>Kütləsi</Mass>
+  <EquipmentAndApparelMass>Alət və geyim kütləsi</EquipmentAndApparelMass>
+  <InventoryMass>Envanter kütləsi</InventoryMass>
+  <CaravanFormationProcessStarted>Kolonistlər təyin edilmiş əşyaları toplayıb, ən qısa müddətdə ərazini tərk edəcəklər.</CaravanFormationProcessStarted>
+  <ReformCaravan>Karvanı yenidən yaradın</ReformCaravan>
+  <ColonistsSection>Kolonistlər</ColonistsSection>
+  <PrisonersSection>Məhbuslar</PrisonersSection>
+  <AnimalsSection>Heyvanlar</AnimalsSection>
+  <EstimatedTimeToDestinationButton>Təx. Çatma vaxtı</EstimatedTimeToDestinationButton>
+  <AbandonButton>Dağıt</AbandonButton>
   
   <!-- Split caravan -->
-  <SplitCaravan>Split caravan</SplitCaravan>
-  <SourceCaravanMustHaveAtLeastOneColonist>You must leave at least one non-downed colonist.</SourceCaravanMustHaveAtLeastOneColonist>
-  <CaravanSplitSourceLabel>Current</CaravanSplitSourceLabel>
-  <CaravanSplitDestLabel>New</CaravanSplitDestLabel>
-  <SplitCaravanThingCountTip>How many of this item the caravan has ready to give to the new caravan.</SplitCaravanThingCountTip>
-  <SplitCaravanMassUsageTooltip>Current mass usage and mass capacity.</SplitCaravanMassUsageTooltip>
+  <SplitCaravan>Karvanı ayır</SplitCaravan>
+  <SourceCaravanMustHaveAtLeastOneColonist>Ən azından normal yeriyə bilən bir nəfər təyin etməlisiniz.</SourceCaravanMustHaveAtLeastOneColonist>
+  <CaravanSplitSourceLabel>Cari</CaravanSplitSourceLabel>
+  <CaravanSplitDestLabel>Yeni</CaravanSplitDestLabel>
+  <SplitCaravanThingCountTip>Bundan nə qədərini yeni karvana verə bilərsiniz</SplitCaravanThingCountTip>
+  <SplitCaravanMassUsageTooltip>Cari yük istifadəsi və yük tutum.</SplitCaravanMassUsageTooltip>
   
   <!-- Load transporters -->
-  <LoadTransporters>Load {0}</LoadTransporters>
-  <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport pods.</TooBigTransportersMassUsage>
-  <CantSendEmptyTransportPods>You can't send empty transport pods.</CantSendEmptyTransportPods>
-  <PawnCantReachTransporters>{0} can't reach the transport pods.</PawnCantReachTransporters>
+  <LoadTransporters>Yüklə {0}</LoadTransporters>
+  <TooBigTransportersMassUsage>Təyin edilmiş insanlar və əşyalar çox ağırdır.</TooBigTransportersMassUsage>
+  <CantSendEmptyTransportPods>Boş göndərə bilməzsiniz.</CantSendEmptyTransportPods>
+  <PawnCantReachTransporters>{0} çata bilmir.</PawnCantReachTransporters>
   <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
   <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
   <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
   
   <!-- Comms -->
-  <SocialSkillIs>Social skill: {0}</SocialSkillIs>
+  <SocialSkillIs>Sosial bacarıq: {0}</SocialSkillIs>
   
   <!--Research-->
-  <ResearchFinished>Research finished: {0}</ResearchFinished>
-  <ResearchScreen>Research Screen</ResearchScreen>
+  <ResearchFinished>Araşdırma bitdi: {0}</ResearchFinished>
+  <ResearchScreen>Araşdırma Ekranı</ResearchScreen>
   
   <!--HistoryUpload-->
   <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
