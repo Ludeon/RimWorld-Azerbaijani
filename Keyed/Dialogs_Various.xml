@@ -293,16 +293,16 @@
   <CaravanSplitSourceLabel>Cari</CaravanSplitSourceLabel>
   <CaravanSplitDestLabel>Yeni</CaravanSplitDestLabel>
   <SplitCaravanThingCountTip>Bundan nə qədərini yeni karvana verə bilərsiniz</SplitCaravanThingCountTip>
-  <SplitCaravanMassUsageTooltip>Cari yük istifadəsi və yük tutum.</SplitCaravanMassUsageTooltip>
+  <SplitCaravanMassUsageTooltip>Cari yük istifadəsi və yük tutumu.</SplitCaravanMassUsageTooltip>
   
   <!-- Load transporters -->
   <LoadTransporters>Yüklə {0}</LoadTransporters>
   <TooBigTransportersMassUsage>Təyin edilmiş insanlar və əşyalar çox ağırdır.</TooBigTransportersMassUsage>
   <CantSendEmptyTransportPods>Boş göndərə bilməzsiniz.</CantSendEmptyTransportPods>
   <PawnCantReachTransporters>{0} çata bilmir.</PawnCantReachTransporters>
-  <TransporterItemIsUnreachableSingle>There is no path between the transport pods and the {0}.</TransporterItemIsUnreachableSingle>
-  <TransporterItemIsUnreachableMulti>There is no path between the transport pods and {0}x {1}.</TransporterItemIsUnreachableMulti>
-  <TransportersMassUsageTooltip>Current mass usage and mass capacity.\n\nYou will not be able to send the transport pods if the mass usage exceedes capacity.</TransportersMassUsageTooltip>
+  <TransporterItemIsUnreachableSingle>Nəqliyyat konteynerləri və {0} arasında yol yoxdur.</TransporterItemIsUnreachableSingle>
+  <TransporterItemIsUnreachableMulti>Nəqliyyat konteynerləri və {0}x {1} arasında yol yoxdur.</TransporterItemIsUnreachableMulti>
+  <TransportersMassUsageTooltip>Cari yük istifadəsi və yük tutumu.\n\nAğırlıq yük həcmini keçdiyi üçün nəqliyyat konteynerini yollaya bilməyəcəksiniz.</TransportersMassUsageTooltip>
   
   <!-- Comms -->
   <SocialSkillIs>Sosial bacarıq: {0}</SocialSkillIs>
@@ -312,37 +312,37 @@
   <ResearchScreen>Araşdırma Ekranı</ResearchScreen>
   
   <!--HistoryUpload-->
-  <HistoryUploadMessage>Do you want to upload your gameplay data records to RimWorld server in order to help developers balance the game? If you agree, your data will be uploaded every {0} days (and in some other rare cases like the end of the game). Privacy preferences can be changed later in the options menu.</HistoryUploadMessage>
-  <HistoryUploadMessagePlayerName>Even though history is sent anonymously, you can attach your name.</HistoryUploadMessagePlayerName>
-  <HistoryUploadYes>Allow uploading gameplay data</HistoryUploadYes>
-  <HistoryUploadNo>Do not allow uploading gameplay data</HistoryUploadNo>
-  <HistoryUploadYesOnce>Upload only this time</HistoryUploadYesOnce>
-  <HistoryUploadNoOnce>Do not upload this time, ask me later</HistoryUploadNoOnce>
+  <HistoryUploadMessage>Proqramçıların oyunu daha yaxşı etmələri üçün oyununuzu RimWorld serverinə yollamaq istəyirsinizmi? Əgər razı olsanız {0} gündən bir oyun məlumatlarınız göndəriləcək (və bəzi nadir hallarda məs oyun bitən zaman). Menyudan gizlilik ayarları təyin edilə bilər.</HistoryUploadMessage>
+  <HistoryUploadMessagePlayerName>Tarix anonim şəkildə göndərilsə də, adınızı əlavə edə bilərsiniz.</HistoryUploadMessagePlayerName>
+  <HistoryUploadYes>Oyun məlumatlarının yüklənməsinə icazə verin</HistoryUploadYes>
+  <HistoryUploadNo>Oyun məlumatlarının yüklənməsinə icazə verməyin</HistoryUploadNo>
+  <HistoryUploadYesOnce>Yalnız bu dəfə yükləyin</HistoryUploadYesOnce>
+  <HistoryUploadNoOnce>Bu dəfə yükləməyin, sonra soruşun</HistoryUploadNoOnce>
 	
   <!-- Outfit management -->
-  <Outfit>Outfit</Outfit>
-  <SelectOutfit>Select outfit...</SelectOutfit>
-  <NewOutfit>New outfit</NewOutfit>
-  <DeleteOutfit>Delete outfit...</DeleteOutfit>
-  <OutfitInUse>Outfit is in use by {0}.</OutfitInUse>
-  <NoOutfitSelected>No outfit selected</NoOutfitSelected>
+  <Outfit>Paltar</Outfit>
+  <SelectOutfit>Paltar Seçin...</SelectOutfit>
+  <NewOutfit>Yeni Paltar</NewOutfit>
+  <DeleteOutfit>Paltarı Silin...</DeleteOutfit>
+  <OutfitInUse>Paltar {0} tərəfindən istifadə edilir.</OutfitInUse>
+  <NoOutfitSelected>Paltar seçilməyib</NoOutfitSelected>
   
   <!-- Drug policy management -->
-  <DrugPolicy>Drug policy</DrugPolicy>
-  <SelectDrugPolicy>Select policy...</SelectDrugPolicy>
-  <NewDrugPolicy>New policy</NewDrugPolicy>
-  <DeleteDrugPolicy>Delete policy...</DeleteDrugPolicy>
-  <DrugPolicyInUse>Drugs policy is in use by {0}.</DrugPolicyInUse>
-  <SocialDrugs>Social drugs</SocialDrugs>
-  <NoDrugs>No drugs</NoDrugs>
-  <OneDrinkPerDay>One drink per day</OneDrinkPerDay>
-  <Unrestricted>Unrestricted</Unrestricted>
-  <NoDrugPolicySelected>No drug policy selected</NoDrugPolicySelected>
-  <AddDrug>Add drug...</AddDrug>
-  <DrugColumnLabel>Drug</DrugColumnLabel>
-  <DrugUsageColumnLabel>Usage</DrugUsageColumnLabel>
-  <FrequencyColumnLabel>Frequency</FrequencyColumnLabel>
-  <MoodThresholdColumnLabel>Only if mood below</MoodThresholdColumnLabel>
+  <DrugPolicy>Narkotik siyasəti</DrugPolicy>
+  <SelectDrugPolicy>Siyasət seçin...</SelectDrugPolicy>
+  <NewDrugPolicy>Yeni siyasət</NewDrugPolicy>
+  <DeleteDrugPolicy>Siyasət silin...</DeleteDrugPolicy>
+  <DrugPolicyInUse>Narkotik siyasəti {0} tərəfindən istifadə edilir.</DrugPolicyInUse>
+  <SocialDrugs>Sosial narkotiklər</SocialDrugs>
+  <NoDrugs>Narkotik yoxdur</NoDrugs>
+  <OneDrinkPerDay>Gündə bir dəfə içsinlər</OneDrinkPerDay>
+  <Unrestricted>Məhdudiyyətsiz</Unrestricted>
+  <NoDrugPolicySelected>Narkotik siyasəti seçilməyib</NoDrugPolicySelected>
+  <AddDrug>Əlavə edin...</AddDrug>
+  <DrugColumnLabel>Narkotik</DrugColumnLabel>
+  <DrugUsageColumnLabel>İstifadə</DrugUsageColumnLabel>
+  <FrequencyColumnLabel>aralıq</FrequencyColumnLabel>
+  <MoodThresholdColumnLabel>Yalnız kefləri olmayanda</MoodThresholdColumnLabel>
   <JoyThresholdColumnLabel>Only if joy below</JoyThresholdColumnLabel>
   <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
   <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
