@@ -343,52 +343,52 @@
   <DrugUsageColumnLabel>İstifadə</DrugUsageColumnLabel>
   <FrequencyColumnLabel>aralıq</FrequencyColumnLabel>
   <MoodThresholdColumnLabel>Yalnız kefləri olmayanda</MoodThresholdColumnLabel>
-  <JoyThresholdColumnLabel>Only if joy below</JoyThresholdColumnLabel>
-  <TakeToInventoryColumnLabel>Take to inventory</TakeToInventoryColumnLabel>
-  <NoDrugsBrackets>(no drugs)</NoDrugsBrackets>
-  <EveryDay>Every day</EveryDay>
-  <TimesPerDay>{0} times per day</TimesPerDay>
-  <EveryDays>Every {0} days</EveryDays>
-  <NoDrugUseRequirement>Any</NoDrugUseRequirement>
-  <DeleteDrugTooltip>Delete this drug.</DeleteDrugTooltip>
-  <DrugNameColumnDesc>The name of a drug.</DrugNameColumnDesc>
-  <DrugUsageColumnDesc>How the drug is allowed to be used.</DrugUsageColumnDesc>
-  <FrequencyColumnDesc>How often the colonists should try to take this drug.</FrequencyColumnDesc>
-  <MoodThresholdColumnDesc>The colonists will take this drug only if their mood level is below this threshold.</MoodThresholdColumnDesc>
-  <JoyThresholdColumnDesc>The colonists will take this drug only if their joy level is below this threshold.</JoyThresholdColumnDesc>
-  <TakeToInventoryColumnDesc>An amount of the drug to pick up extra when gathering it for consumption, in order to avoid having to visit the drug stockpile every time.</TakeToInventoryColumnDesc>
-	<DrugUsageTipForAddiction>For addictions\n\nUse this drug to feed already-established addiction needs.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForAddiction>
-	<DrugUsageTipForJoy>For joy\n\nUse this drug for joy and social purposes.\n\nEven if disabled, some characters with specific traits, or on mental breaks, may use the drug anyway.</DrugUsageTipForJoy>
-  <DrugUsageTipScheduled>Scheduled\n\nUse this drug on a defined schedule, when specific conditions are met.</DrugUsageTipScheduled>
+  <JoyThresholdColumnLabel>Yalnız sevincləri aşağı olanda</JoyThresholdColumnLabel>
+  <TakeToInventoryColumnLabel>İnventara apar</TakeToInventoryColumnLabel>
+  <NoDrugsBrackets>(narkotiklər yox)</NoDrugsBrackets>
+  <EveryDay>Hər gün</EveryDay>
+  <TimesPerDay>Gündə {0} dəfə</TimesPerDay>
+  <EveryDays>Hər {0} gün</EveryDays>
+  <NoDrugUseRequirement>Hər hansı</NoDrugUseRequirement>
+  <DeleteDrugTooltip>Narkotiki silin.</DeleteDrugTooltip>
+  <DrugNameColumnDesc>Narkotikin adı.</DrugNameColumnDesc>
+  <DrugUsageColumnDesc>Narkotiklərin necə istifadə ediləcəyi.</DrugUsageColumnDesc>
+  <FrequencyColumnDesc>Kolonistlər bu narkotiki hansı aralıqlarla istifadə etsinlər.</FrequencyColumnDesc>
+  <MoodThresholdColumnDesc>Kolonistlər bu narkotiki yalnız əhval səviyyəsi bu həddən aşağı olduqda qəbul edəcəklər.</MoodThresholdColumnDesc>
+  <JoyThresholdColumnDesc>Kolonistlər bu narkotiki yalnız sevincləri bu həddən aşağı olduqda alacaqlar.</JoyThresholdColumnDesc>
+  <TakeToInventoryColumnDesc>Hər dəfə anbarı ziyarət etmək məcburiyyətində qalmamaq üçün istifadə üçün götürərkən əlavə bir narkotik də alacaqsınız..</TakeToInventoryColumnDesc>
+	<DrugUsageTipForAddiction>Asılılıqlar üçün\n\nBu narkotiki onsuz da yaranmış asılılıq ehtiyaclarını ödəmək üçün istifadə edin.\n\nİcazə verilməsə belə, Bəzi özünəməxsus xarakterləri olanlar, və ya psixoloji problemləri olanlar, yenədə bu narkotiki istifadə edə bilərlər.</DrugUsageTipForAddiction>
+	<DrugUsageTipForJoy>Sevinc üçün\n\nbu narkotiki sevinc və ya sosial məqsədlər üçün istifadə edin.\n\nİcazə verilməsə belə, Bəzi özünəməxsus xarakterləri olanlar, və ya psixoloji problemləri olanlar, yenədə bu narkotiki istifadə edə bilərlər.</DrugUsageTipForJoy>
+  <DrugUsageTipScheduled>Planlaşdırılıb\n\nBu narkotik qeyd edilimiş planlarla istifadə olunsun, hansı ki, xüsusi bir şərt ödəndikdə.</DrugUsageTipScheduled>
 
   <!-- Medical settings -->
-  <MedGroupDefaults>Defaults</MedGroupDefaults>
-  <MedGroupColonist>Colonist</MedGroupColonist>
-  <MedGroupImprisonedColonist>Imprisoned colonist</MedGroupImprisonedColonist>
-  <MedGroupColonyAnimal>Colony animal</MedGroupColonyAnimal>
-  <MedGroupNeutralAnimal>Neutral animal</MedGroupNeutralAnimal>
-  <MedGroupNeutralFaction>Neutral faction</MedGroupNeutralFaction>
-  <MedGroupHostileFaction>Hostile faction</MedGroupHostileFaction>
+  <MedGroupDefaults>Susmaya görə</MedGroupDefaults>
+  <MedGroupColonist>Kolonist</MedGroupColonist>
+  <MedGroupImprisonedColonist>Dustaq Kolonist</MedGroupImprisonedColonist>
+  <MedGroupColonyAnimal>Koloniya Heyvanı</MedGroupColonyAnimal>
+  <MedGroupNeutralAnimal>Neytral heyvan</MedGroupNeutralAnimal>
+  <MedGroupNeutralFaction>Neytral fraksiya</MedGroupNeutralFaction>
+  <MedGroupHostileFaction>Düşmən fraksiya</MedGroupHostileFaction>
   
   <!-- Growing -->
-  <NoGrowerCanPlant>{0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>{0} əkmək üçün {1} ehtiyac duyur.\n\nNormal vəziyyətdə olan heç bir kolonistdə bu bacarıq yoxdur, buna görə də bu bitki əkilməyəcəkdir.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
-  <ConfirmAbandonHomeWithColonyPawns>Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
-  <ConfirmAbandonHomeNegativeThoughts>Abandoning {0} will cause the following people to get the following thoughts:</ConfirmAbandonHomeNegativeThoughts>
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Everyone:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeWithColonyPawns>Kolonistlərinizdən və ya heyvanlarınızdan bəziləri bu bölgədədir. Bunu tərk etmək istədiyinizə əminsiniz?\n\n nAşağıdakı insanlar və heyvanlar geridə qalacaq:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeNegativeThoughts>{0}-dən imtina aşağıdakı şəxslərin aşağıdakı düşüncələrini almasına səbəb olacaqdır:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Hərkəs:</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
   <!-- Move caravan and leave prisoners and animals behind -->
-  <ConfirmLeavePrisonersOrAnimalsBehind>There are still some prisoners or animals left in this area and this is the only caravan they can join at the moment.\n\nIf you move your caravan, they won't be able to leave the area until you are back. The prisoners will start escaping, while the animals will keep waiting for you.\n\nIf you decide to wait, they will try to join your caravan as soon as possible.\n\nAre you sure you want to move your caravan?</ConfirmLeavePrisonersOrAnimalsBehind>
+  <ConfirmLeavePrisonersOrAnimalsBehind>Bu ərazidə hələ də bəzi məhbuslar və ya heyvanlar var və bu anda qoşula biləcəkləri yeganə karvan budur.\n\nKarvanınızı hərəkətə gətirsəniz, qayıdana qədər ərazini tərk edə bilməyəcəklər. Məhbuslar qaçmağa başlayacaq, heyvanlar da sizi gözləyəcək.\n\nGözləmək qərarına gəlsəniz, ən qısa müddətdə karvanınıza qoşulmağa çalışacaqlar.\n\nKarvanınızı hərəkət etdirmək istədiyinizə əminsiniz?</ConfirmLeavePrisonersOrAnimalsBehind>
   
   <!-- Abandon pawn -->
-  <ConfirmBanishPawnDialog>Do you really want to banish {0}?</ConfirmBanishPawnDialog>
-  <ConfirmBanishPawnDialog_LeftToDie>{0} will most likely die.</ConfirmBanishPawnDialog_LeftToDie>
-  <ConfirmBanishPawnDialog_Items>{0} will take the following items with [PAWN_objective]:</ConfirmBanishPawnDialog_Items>
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>All colonists will get the following thoughts:</ConfirmBanishPawnDialog_AllColonistsThoughts>
-  <ConfirmBanishPawnDialog_IndividualThoughts>Banishing {0} will cause the following people to get the following thoughts:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog>Doğrudan da {0} qovmaq istəyirsiniz?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog_LeftToDie>{0} böyük ehtimalla öləcək.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_Items>{0} aşağıdakı elementləri götürəcək [PAWN_objective]:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Bütün kolonistlər aşağıdakı düşüncələri alacaqlar:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>{0} qovma aşağıdakı şəxslərin aşağıdakı düşüncələrini almasına səbəb olacaq:</ConfirmBanishPawnDialog_IndividualThoughts>
   
   <!-- Send transport pods which are not completely loaded -->
-  <ConfirmSendNotCompletelyLoadedPods>Pod group isn't completely loaded. {0} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Pod qrupu tam olaraq yığılmayıb. {0} yoxdur. Yenə də çalışdırılsın?</ConfirmSendNotCompletelyLoadedPods>
   
 </LanguageData>
