@@ -154,103 +154,103 @@
   <CommandSelectPlantToGrowDesc>Burada hansı bitkinin əkilməli olduğunu müəyyənləşdirin.</CommandSelectPlantToGrowDesc>
   
   <!-- Build copy -->
-  <CommandBuildCopy>Build copy</CommandBuildCopy>
-  <CommandBuildCopyDesc>Build a copy of this building.</CommandBuildCopyDesc>
+  <CommandBuildCopy>Kopyala</CommandBuildCopy>
+  <CommandBuildCopyDesc>Bunun kopyasını yarat.</CommandBuildCopyDesc>
   
   <!-- Form caravan -->
-  <CommandFormCaravan>Form caravan</CommandFormCaravan>
-  <CommandFormCaravanDesc>Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders.</CommandFormCaravanDesc>
+  <CommandFormCaravan>Karvan yarat</CommandFormCaravan>
+  <CommandFormCaravanDesc>Yeni ərazilərə səyahət edə bilən kolonist qrupu yaradın. Kolonistlərlər, təyin olunmuş bütün materialları və müşayiət edən heyvanları toplayacaq, mövcud ərazilərindən ayrılacaq və növbəti əmrləri gözləyəcəklər.</CommandFormCaravanDesc>
   
   <!-- Reform caravan -->
-  <CommandReformCaravan>Reform caravan</CommandReformCaravan>
-  <CommandReformCaravanDesc>Reform a group of colonists. The colonists will leave their current area and await further orders.</CommandReformCaravanDesc>
-  <CommandReformCaravanFailHostilePawns>There are still some enemies in this area.</CommandReformCaravanFailHostilePawns>
+  <CommandReformCaravan>Karvanı yenidən yarat</CommandReformCaravan>
+  <CommandReformCaravanDesc>Yenidən yaradılan Karvan. Kolonistlər indiki ərazilərini tərk edəcək və gələcək əmrləri gözləyəcəklər.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>Ərazidə hələdə bəzi düşmənlər var.</CommandReformCaravanFailHostilePawns>
   
   <!-- Split caravan -->
-  <CommandSplitCaravan>Split</CommandSplitCaravan>
-  <CommandSplitCaravanDesc>Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other.</CommandSplitCaravanDesc>
+  <CommandSplitCaravan>Ayır</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>Bu karvanı iki yerə ayır. Daha sonra karvanlar bir-birinə yaxın olduqlarında yenidən birləşdirlə biləcəksiniz.</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
-  <CommandMergeCaravans>Merge</CommandMergeCaravans>
-  <CommandMergeCaravansDesc>Merge selected caravans.</CommandMergeCaravansDesc>
-  <CommandMergeCaravansFailCaravansNotSelected>Select all caravans which should be merged. The caravans must be close to each other.</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravans>Birləşdir</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>Seçilmiş karvanları birləşdir.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>Birləşdirilməli olan bütün karvanları seçin. Karvanlar bir-birinə yaxın olmalıdır.</CommandMergeCaravansFailCaravansNotSelected>
   
   <!-- Settle -->
-  <CommandSettle>Settle</CommandSettle>
-  <CommandSettleDesc>Settle in this area. Your colonists will enter this area and you will be able to start building a new home.</CommandSettleDesc>
-  <CommandSettleFailAlreadyHaveBase>Your faction can only have one base.</CommandSettleFailAlreadyHaveBase>
-  <CommandSettleFailReachedMaximumNumberOfBases>Reached maximum number of colonies.</CommandSettleFailReachedMaximumNumberOfBases>
-  <CommandSettleFailNoColonists>There isn't anybody there to claim the area.</CommandSettleFailNoColonists>
-  <CommandSettleFailEnemies>There are enemies in this area.</CommandSettleFailEnemies>
+  <CommandSettle>Məskunlaş</CommandSettle>
+  <CommandSettleDesc>Bu ərazidə məskunlaşın. Kolonistləriniz bu əraziyə girəcək və yeni bir ev tikməyə başlaya biləcəksiniz.</CommandSettleDesc>
+  <CommandSettleFailAlreadyHaveBase>Fraksiyanızın yalnız bir dənə bazası ola bilər.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>Maksimum koloniya sayına çatdınız.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>Orada əraziyə iddia edəcək kimsə yoxdur.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>Bu ərazidə düşmənlər var.</CommandSettleFailEnemies>
   
   <!-- Abandon home -->
-  <CommandAbandonHome>Abandon</CommandAbandonHome>
-  <CommandAbandonHomeDesc>Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area.</CommandAbandonHomeDesc>
-  <CommandAbandonHomeFailAllColonistsThere>All of your colonists are there.</CommandAbandonHomeFailAllColonistsThere>
+  <CommandAbandonHome>Tərk edin</CommandAbandonHome>
+  <CommandAbandonHomeDesc>Bu ərazidən imtina edin. Bölgə əlçatmaz olacaq və bir daha buraya qayıda bilməyəcəksiniz. Evinizi tərk etdikdən sonra karvanlarınızdan birinə yeni bir ərazidə yerləşməyi sifariş edə biləcəksiniz.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>Bütün kolonistləriniz oradadır.</CommandAbandonHomeFailAllColonistsThere>
   
   <!-- Cancel forming caravan -->
-  <CommandCancelFormingCaravan>Cancel forming caravan</CommandCancelFormingCaravan>
-  <CommandCancelFormingCaravanDesc>Terminate the caravan formation process.</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravan>Karvan yaratmağı ləğv edin</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>Karvanın yaranma prosesini ləğv edin.</CommandCancelFormingCaravanDesc>
   
   <!-- Show map -->
-  <CommandShowMap>Zoom in</CommandShowMap>
-  <CommandShowMapDesc>Zoom in on this area.</CommandShowMapDesc>
+  <CommandShowMap>Yaxınlaşdır</CommandShowMap>
+  <CommandShowMapDesc>Bu ərazini yaxınlaşdırın.</CommandShowMapDesc>
   
   <!-- Trade -->
-  <CommandTrade>Trade</CommandTrade>
-  <CommandTradeDesc>Trade with this faction.</CommandTradeDesc>
-  <CommandTradeFailNoNegotiator>There isn't any conscious and capable negotiator.</CommandTradeFailNoNegotiator>
+  <CommandTrade>Ticarət</CommandTrade>
+  <CommandTradeDesc>Bu fraksiya ilə ticarət edin.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>Şüurlu və bacarıqlı bir vasitəçi yoxdur.</CommandTradeFailNoNegotiator>
 
   <!-- Fulfill request -->
-  <CommandFulfillTradeOffer>Fulfill trade offer</CommandFulfillTradeOffer>
-  <CommandFulfillTradeOfferDesc>Fulfill the settlement's request for goods and claim your reward.</CommandFulfillTradeOfferDesc>
-  <CommandFulfillTradeOfferFailInsufficient>Your caravan must have {0} to fulfill this trade offer.</CommandFulfillTradeOfferFailInsufficient>
-  <CommandFulfillTradeOfferConfirm>Offer {0} for {1}?</CommandFulfillTradeOfferConfirm>
+  <CommandFulfillTradeOffer>Ticarət təklifini yerinə yetirin</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Anlaşmanın tələblərini yerinə yetirin və mükafatınızı tələb edin</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Karvanınızda {0} ədəd olmalıdır ki, istəyi təmin edə biləsiniz.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>{0} {1} qiymətə təklif edin?</CommandFulfillTradeOfferConfirm>
   
   <!-- Take off -->
-  <CommandTakeOff>Take off</CommandTakeOff>
-  <CommandTakeOffDesc>Get on board the ship and escape the planet.</CommandTakeOffDesc>
-  <CommandTakeOffConfirmation>Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind.</CommandTakeOffConfirmation>
+  <CommandTakeOff>Çıxar</CommandTakeOff>
+  <CommandTakeOffDesc>Gəmiyə minin və planeti tərk edin.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>Gəmini işə salmaq istəyirsinizmi?\n\nBurdakı hərkəs tərk edəcək. Qalan hərkəs arxada qalacaq.</CommandTakeOffConfirmation>
   
   <!-- Set target fuel level -->
-  <CommandSetTargetFuelLevel>Set target fuel level</CommandSetTargetFuelLevel>
-  <CommandSetTargetFuelLevelDesc>Set the target fuel level. Colonists will attempt to fill this up to the target fuel level.</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevel>Hədəf yanacaq səviyyəsini təyin edin</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>Hədəf yanacaq səviyyəsini təyin edin. Kolonistlər bunu hədəf yanacaq səviyyəsinə doldurmağa çalışacaqlar.</CommandSetTargetFuelLevelDesc>
   
   <!-- Cancel load -->
-  <CommandCancelLoad>Cancel load</CommandCancelLoad>
-  <CommandCancelLoadDesc>Cancel loading this with people or items and eject everything already loaded.</CommandCancelLoadDesc>
+  <CommandCancelLoad>Yükləməni ləğv edin</CommandCancelLoad>
+  <CommandCancelLoadDesc>İnsanları və əşyalarlı yükləməyi ləğv edin və artıq yüklənmiş hər şeyi çıxarın.</CommandCancelLoadDesc>
   
   <!-- Launch group -->
-  <CommandLaunchGroup>Launch group</CommandLaunchGroup>
-  <CommandLaunchGroupDesc>Initiates the targeting process for launching a group of transport pods. The next step is choosing a target. The pods will fly and land together.</CommandLaunchGroupDesc>
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>Some transport pods in this loading group are not connected to a fueling port.</CommandLaunchGroupFailNotConnectedToFuelingPort>
-  <CommandLaunchGroupFailNoFuel>Some pod launchers in this group have no fuel.</CommandLaunchGroupFailNoFuel>
-  <CommandLaunchGroupFailUnderRoof>Some pod launchers are under a roof.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroup>Qrupu çalışdır</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>Bir qrup nəqliyyat konteynerinin işə salınma hədəflənməsini başladır. Növbəti addım hədəf seçməkdir. Konteynerlər birlikdə uçacaq və enəcək.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Burdakı nəqliyyat konteynerinin bəziləri yanacaq doldurma nöqtəsinə bağlı deyil.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>Bu qrupdakı bəzi konteynerlərin yanacağı yoxdur.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>Bəziləri çardağın altında.</CommandLaunchGroupFailUnderRoof>
   
   <!-- Load transporter -->
-  <CommandLoadTransporter>Load launch group of {0}</CommandLoadTransporter>
-  <CommandLoadTransporterDesc>Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside.</CommandLoadTransporterDesc>
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>The transport pod is not connected to a fueling port.</CommandLoadTransporterFailNotConnectedToFuelingPort>
-  <CommandLoadTransporterFailNoFuel>The pod launcher has no fuel.</CommandLoadTransporterFailNoFuel>
+  <CommandLoadTransporter>{0} işə salma qrupunu yükləyin</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>Seçilmiş daşıyıcıları bir başlanğıc qrupu olaraq təyin edir. İçəridə kimin və nəyin yüklənəcəyinə qərar vermək üçün yükləmə dialoqunu açır.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Nəqliyyat konteyneri yanacaq limanına qoşulmayıb.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>Konteyner başladıcısının yanacağı yoxdur.</CommandLoadTransporterFailNoFuel>
   
   <!-- Select previous transporter -->
-  <CommandSelectPreviousTransporter>Select previous in launch group</CommandSelectPreviousTransporter>
-  <CommandSelectPreviousTransporterDesc>Select previous transport pod in this launch group.</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporter>Başlatma qrupunda öncəkini seç</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>Başlatma qrupunda öncəki nəqliyyat konteynerini seçin.</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
-  <CommandSelectAllTransporters>Select launch group</CommandSelectAllTransporters>
-  <CommandSelectAllTransportersDesc>Select all transport pods in this launch group.</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransporters>Başlatma qrupunu seçin</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>Bu başlatma qrupundakı bütün nəqliyyat konteynerlərini seçin.</CommandSelectAllTransportersDesc>
   
   <!-- Select next transporter -->
-  <CommandSelectNextTransporter>Select next in launch group</CommandSelectNextTransporter>
-  <CommandSelectNextTransporterDesc>Select next transport pod in this launch group.</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporter>Başlatma qrupunda növbətini seçin</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Başlatma qrupunda növbəti nəqliyyat konteynerini seçin.</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
-  <CommandDesignateOpenCloseVentLabel>Designate open/close</CommandDesignateOpenCloseVentLabel>
-  <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A colonist will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentLabel>Açma/Bağlama Əmri</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Bu açılmalı və ya bağlanılmalıdır. Tapşırığı yerinə yetirmək üçün bir kolonist tezliklə gələcək.</CommandDesignateOpenCloseVentDesc>
   
   <!-- Remove waypoint -->
-  <CommandRemoveWaypointLabel>Remove</CommandRemoveWaypointLabel>
-  <CommandRemoveWaypointDesc>Remove this waypoint.</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointLabel>Çıxar</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Bu yolu çıxarın.</CommandRemoveWaypointDesc>
   
 </LanguageData>
