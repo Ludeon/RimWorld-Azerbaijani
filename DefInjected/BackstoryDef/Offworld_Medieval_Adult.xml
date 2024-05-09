@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.baseDesc>Orta əsrlər dünyasında bir dəmirçi olaraq [PAWN_nameDef], yüksək keyfiyyətli işilə ünlü idi. Döydüyü qılıncları istifadə etməkdə də pis deyil idi.</Blacksmith72.baseDesc>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.title>dəmirçi</Blacksmith72.title>
+  <!-- EN: blacksmith -->
+  <Blacksmith72.titleShort>dəmirçi</Blacksmith72.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.baseDesc>{PAWN_nameDef}, bir kəndin yaxınlığındakı ormanda yaşayırdı. Kəndlilərin çoxu ondan qorxurdu, ancaq xəstə kəndlilər, bağçasında yetişdirdiyi otlardan hazırlanmış sıyıqlar və məlhəmlər üçün ona gəlirdilər. {PAWN_pronoun}, onlara kömək etməkdən məmnun idi. Təbii ki, bir qiymət qarşılığında.</Herbalist54.baseDesc>
+  <!-- EN: herbalist -->
+  <Herbalist54.title>nəbatatçı</Herbalist54.title>
+  <!-- EN: herbalist -->
+  <Herbalist54.titleShort>nəbatatçı</Herbalist54.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.baseDesc>{PAWN_nameDef}, bir orta əsrlər planetində həkim işləyirdi. Xəstəliklərin çoxunun bir az qan axıtma ilə müalicə oluna biləcəyinə inanır.\n\n{PAWN_nameDef} həm də usta anestezioloq idi və başa vurulan, ağır zərbəli xüsusi üsul yaradıb.</MedievalDoctor40.baseDesc>
+  <!-- EN: medieval doctor -->
+  <MedievalDoctor40.title>orta əsrlər həkimi</MedievalDoctor40.title>
+  <!-- EN: quack -->
+  <MedievalDoctor40.titleShort>türkəçarəçi</MedievalDoctor40.titleShort>
+  
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities. -->
+  <MedievalFarmOaf58.baseDesc>Torpaq becərmək, kənd təsərrüfatı, öküz arabalarını istiqamətləndirmək, əl arabalarını itələmək. Xəndək qazmaq, toxum əkmək, yığımı təxmin etmək.\n\nOrta əsrlər səviyyəsindəki fermerlər sözün adi mənasında təhsilli deyillər, ancaq texnologiya olmadan bitki yetişdirmək haqqında çox şey bilirlər. Bununla belə, belə yaşam, insanı intellektual, texnologiyaya əsaslanan fəallıqlara qatılmaqdan məhrum edir.</MedievalFarmOaf58.baseDesc>
+  <!-- EN: medieval farm oaf -->
+  <MedievalFarmOaf58.title>orta əsr kənd təsərrüfatçısı</MedievalFarmOaf58.title>
+  <!-- EN: oaf -->
+  <MedievalFarmOaf58.titleShort>kənd təsərrüfatçısı</MedievalFarmOaf58.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.baseDesc>{PAWN_nameDef}, sənaye öncəsi bir planetdə lord idi. {PAWN_pronoun}, şənliklərə gedirdi, tabeçiliyində olanları idarə edirdi və hətta bir az qılıncdan istifadə etməyi öyrəndi.\n\nBütün bu zaman, yumşaq əlləri heç bir aləti tutmadı. Ağır işləri, tabeçiliyində olanların vəzifəsi kimi gördü.</MedievalLord57.baseDesc>
+  <!-- EN: medieval lord -->
+  <MedievalLord57.title>orta əsrlər lordu</MedievalLord57.title>
+  <MedievalLord57.titleFemale>orta əsrlər ledisi</MedievalLord57.titleFemale>
+  <!-- EN: noble -->
+  <MedievalLord57.titleShort>zadəgan</MedievalLord57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done. -->
+  <MedievalMinstrel95.baseDesc>{PAWN_nameDef}, orta əsrlər dünyasında gəzici bir sənətkar idi.\n\nHər zaman hekayələr danışır, mahnı oxuyurdu və yoldakı təhlükələrdən qaçınmaqda usta idi. Ancaq {PAWN_pronoun}, ağır iş görülməli olduqda hər zaman diqqət çəkən bir şəkildə görünməzdi.</MedievalMinstrel95.baseDesc>
+  <!-- EN: medieval minstrel -->
+  <MedievalMinstrel95.title>orta əsrlər ozanı</MedievalMinstrel95.title>
+  <!-- EN: minstrel -->
+  <MedievalMinstrel95.titleShort>ozan</MedievalMinstrel95.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
+  <MedievalSailor97.baseDesc>{PAWN_nameDef}, taxta bir gəmidə okeanları araşdırdı, ekzotik yerlərdən bitki və heyvan örnəkləri axtardı və zaman-zaman dəniz quldurlarından qorundu. [PAWN_pronoun], dənizi o qədər sevirdi ki, topladığı xəzinələri satmaqdan başqa quruda hər hansı bir iş görməkdən belə imtina edirdi.</MedievalSailor97.baseDesc>
+  <!-- EN: medieval sailor -->
+  <MedievalSailor97.title>orta əsrlər dənizçisi</MedievalSailor97.title>
+  <!-- EN: sailor -->
+  <MedievalSailor97.titleShort>dənizçi</MedievalSailor97.titleShort>
+  
+  <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
+  <MessageCarrier77.baseDesc>Orta əsrlər dünyasında mesaj göndərməyin ən sürətli yolu, onu at üstündəki birinə vermək və səyahətdən sağ çıxmasını ümid etməkdir. {PAWN_nameDef}, həmin o biri idi.</MessageCarrier77.baseDesc>
+  <!-- EN: message carrier -->
+  <MessageCarrier77.title>mesaj daşıyıcısı</MessageCarrier77.title>
+  <!-- EN: messenger -->
+  <MessageCarrier77.titleShort>elçi</MessageCarrier77.titleShort>
+  
+  <!-- EN: As the taster for a medieval king, any dish served at the royal table had to be sampled first by [PAWN_nameDef]. [PAWN_pronoun] lived a decadent lifestyle at court, getting fat and doing very little work. -->
+  <Taster16.baseDesc>Bir orta əsrlər kralının dequstatoru olduğu üçün kral süfrəsində verilən bütün yeməklərin öncə {PAWN_nameDef} tərəfindən yoxlanılması lazım idi. [PAWN_pronoun], sarayda çökmüş bir həyat tərzi sürdü və çox az iş gördü.</Taster16.baseDesc>
+  <!-- EN: taster -->
+  <Taster16.title>dequstator</Taster16.title>
+  <!-- EN: taster -->
+  <Taster16.titleShort>dequstator</Taster16.titleShort>
+  
+</LanguageData>
