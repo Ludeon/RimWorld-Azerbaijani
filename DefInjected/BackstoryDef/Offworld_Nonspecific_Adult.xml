@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] travelled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
-  <Actor72.baseDesc>{PAWN_nameDef}, bir aktyor qrupuyla səyahət edib həy yerdə dolu teatrlarda sevgi dolu tamaşaçılar önündə çıxış etdi.</Actor72.baseDesc>
+  <Actor72.baseDesc>[PAWN_nameDef], bir aktyor qrupuyla səyahət edib həy yerdə dolu teatrlarda sevgi dolu tamaşaçılar önündə çıxış etmişdir.</Actor72.baseDesc>
   <!-- EN: actor -->
   <Actor72.title>aktyor</Actor72.title>
   <Actor72.titleFemale>aktrisa</Actor72.titleFemale>
@@ -27,35 +27,35 @@
   <AsceticPriest84.titleShortFemale>rahibə</AsceticPriest84.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
-  <Bartender62.baseDesc>{PAWN_nameDef}, köhnə bir yerdə barmen işləyirdi. İşin bir qismi içki qarışdırmaq, bir qismi diplomatiya və bir qismi də başları partlatmaq idi.</Bartender62.baseDesc>
+  <Bartender62.baseDesc>[PAWN_nameDef], köhnə bir yerdə barmen işləyirdi. İşin bir qismi içki qarışdırmaq, bir qismi diplomatiya və bir qismi də başları partlatmaq idi.</Bartender62.baseDesc>
   <!-- EN: bartender -->
   <Bartender62.title>barmen</Bartender62.title>
   <!-- EN: barkeep -->
   <Bartender62.titleShort>barmen</Bartender62.titleShort>
   
   <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
-  <Bodyguard58.baseDesc>[PAWN_nameDef], ona pül ödəyən hər kəsi qorudu. Bir çox döyüş növündə ustalaşdı və özü ilə qarşılaşanlara qarşı olan amansızlığı ilə tanındı.</Bodyguard58.baseDesc>
+  <Bodyguard58.baseDesc>[PAWN_nameDef], ona pül ödəyən hər kəsi qorudu. Bir çox döyüş növündə ustalaşdı və amansızlığı ilə tanındı.</Bodyguard58.baseDesc>
   <!-- EN: bodyguard -->
   <Bodyguard58.title>mühafizəçi</Bodyguard58.title>
   <!-- EN: bodyguard -->
   <Bodyguard58.titleShort>mühafizəçi</Bodyguard58.titleShort>
   
   <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
-  <CaveExplorer45.baseDesc>{PAWN_nameDef}, dəyərli minerallar axtarışında qaranlıq tunellərin və əlçatmaz yarıqların xəritəsini çıxararaq dolanırdı. İş təhlükəli, ancaq yaxşı maaşlı idi.</CaveExplorer45.baseDesc>
+  <CaveExplorer45.baseDesc>[PAWN_nameDef], dəyərli minerallar axtarışında qaranlıq tunellərin və əlçatmaz yarıqların xəritəsini çıxararaq dolanırdı. İş təhlükəli, ancaq yaxşı maaşlı idi.</CaveExplorer45.baseDesc>
   <!-- EN: cave explorer -->
   <CaveExplorer45.title>mağara tədqiqatçısı</CaveExplorer45.title>
   <!-- EN: cave explorer -->
   <CaveExplorer45.titleShort>mağara tədqiqatçısı</CaveExplorer45.titleShort>
   
   <!-- EN: [PAWN_nameDef] ran a high-class restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among kitchen workers for [PAWN_possessive] casual disdain for grunt work. -->
-  <Chef52.baseDesc>{PAWN_nameDef}, yüksək səviyyəli restoran idarə edib.</Chef52.baseDesc>
+  <Chef52.baseDesc>[PAWN_nameDef], yüksək səviyyəli restoran idarə edib.</Chef52.baseDesc>
   <!-- EN: chef -->
   <Chef52.title>şef</Chef52.title>
   <!-- EN: chef -->
   <Chef52.titleShort>şef</Chef52.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
-  <CivilServant2.baseDesc>{PAWN_nameDef}, ölməkdə olan dövlət bürokratiyasında aşağı rütbəli bir idarəçi işləyib. {PAWN_pronoun}, evində mürəkkəb sənədləri doldurarkən və ofis siyasətlərilə oynayarkən rahatdır.</CivilServant2.baseDesc>
+  <CivilServant2.baseDesc>[PAWN_nameDef], ölməkdə olan dövlət bürokratiyasında aşağı rütbəli bir idarəçi işləyib. [PAWN_pronoun], evində mürəkkəb sənədləri doldurarkən və ofis siyasətlərilə oynayarkən rahatdır.</CivilServant2.baseDesc>
   <!-- EN: civil servant -->
   <CivilServant2.title>məmur</CivilServant2.title>
   <!-- EN: bureaucrat -->
@@ -76,287 +76,263 @@
   <ConceptualArtist39.titleShort>rəssam</ConceptualArtist39.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which built everything from office blocks to cathedrals.\n\n[PAWN_possessive] busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never cooked for [PAWN_objective]self. -->
-  <ConstructionEngineer32.baseDesc>{PAWN_nameDef}, inşaat işçisi idi. [PAWN_pronoun], ofis binalarından kafedrallara qədər hər şeyi inşa edən bir komandaya liderlik edib.\n\n.</ConstructionEngineer32.baseDesc>
+  <ConstructionEngineer32.baseDesc>[PAWN_nameDef], inşaat işçisi idi. [PAWN_pronoun], ofis binalarından kafedrallara qədər hər şeyi inşa edən bir komandaya liderlik edib.</ConstructionEngineer32.baseDesc>
   <!-- EN: construction engineer -->
   <ConstructionEngineer32.title>inşaat mühəndisi</ConstructionEngineer32.title>
   <!-- EN: builder -->
   <ConstructionEngineer32.titleShort>inşaatçı</ConstructionEngineer32.titleShort>
   
   <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
-  <ContractMiner86.baseDesc>{PAWN_nameDef}, bir işdən başqasına keçərək tunellərdə və mədənlərdə minerallar və köhnə dəyərli əşyalar çıxardı. İş çətin və kirli idi, ancaq o, bunun faydalı olduğunu düşünürdü.</ContractMiner86.baseDesc>
+  <ContractMiner86.baseDesc>[PAWN_nameDef], bir işdən başqasına keçərək tunellərdə və mədənlərdə minerallar və köhnə dəyərli əşyalar çıxarıb. İş çətin və kirli idi, ancaq o, bunun faydalı olduğunu düşünürdü.</ContractMiner86.baseDesc>
   <!-- EN: contract miner -->
   <ContractMiner86.title>müqaviləli mədənçi</ContractMiner86.title>
   <!-- EN: contract miner -->
   <ContractMiner86.titleShort>müqaviləli mədənçi</ContractMiner86.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
-  <CorporateManager76.baseDesc>[PAWN_nameDef], böyük, açıq planlı ofisdə işləyib və özünə tapşırılan komandanın çox vaxt vəzifədə qalmasını təmin edib.\n\nBu iş çox siyasi idi. [PAWN_nameDef] irəli getmək üçün işləri necə təşkil edəcəyini öyrəndi, beləcə haradasa hamı tərəfindən görülən işlərdən özünə pay çıxara biləcək idi.</CorporateManager76.baseDesc>
+  <CorporateManager76.baseDesc>[PAWN_nameDef], böyük, açıq planlı ofisdə işləyib və özünə tapşırılan komandanın çox vaxt vəzifədə qalmasını təmin etmişdir.\n\nBu iş çox siyasi idi. [PAWN_nameDef] irəli getmək üçün işləri necə təşkil edəcəyini öyrəndi, beləcə haradasa hamının gördüyü işlərdən özünə pay çıxara biləcək idi.</CorporateManager76.baseDesc>
   <!-- EN: corporate manager -->
   <CorporateManager76.title>korporativ menecer</CorporateManager76.title>
   <!-- EN: manager -->
   <CorporateManager76.titleShort>menecer</CorporateManager76.titleShort>
   
   <!-- EN: A terrifying trauma when [PAWN_nameDef] was a young adult caused [PAWN_objective] to develop a serious eating disorder. With counseling [PAWN_pronoun] learned to have a healthier relationship with food, and decided to put [PAWN_possessive] new skills to use helping others overcome their emotional problems. -->
-  <Counselor26.baseDesc>В молодом возрасте {PAWN_nameDef} {PAWN_gender ? получил : получила} ужасную психологическую травму, которая привела к расстройству пищевого поведения. Консультации у психолога помогли {PAWN_objective} восстановить нормальный режим питания, и {PAWN_pronoun} {PAWN_gender ? решил : решила} использовать полученные знания для того, чтобы помогать другим людям в преодолении их эмоциональных проблем.</Counselor26.baseDesc>
+  <Counselor26.baseDesc>[PAWN_nameDef] gənc ikən, aldığı qorxunc travma, ciddi yemək yeməmək problemi yaratdı. Məsləhətləşmə yolu ilə o, yeməklərlə daha sağlam münasibət qurmağı öyrəndi və yeni bacarıqlarını başqalarının emosional problemlərinin öhdəsindən gəlməsinə kömək etmək üçün işlətməyə qərar verdi.</Counselor26.baseDesc>
   <!-- EN: counselor -->
-  <Counselor26.title>психолог</Counselor26.title>
+  <Counselor26.title>məsləhətçi</Counselor26.title>
   <!-- EN: counselor -->
-  <Counselor26.titleShort>психолог</Counselor26.titleShort>
+  <Counselor26.titleShort>məsləhətçi</Counselor26.titleShort>
   
   <!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
-  <CropFarmer17.baseDesc>{PAWN_nameDef}, əkinçilik təsərrüfatı idarə edirdi. {PAWN_pronoun}, böyük əkin sahələrinin əkin və yığımını optimallaşdırmaq üçün torpağı, kənd təsərrüfatı təchizatını, hava şəraitini və qiymət meyllərini təhlil edirdi.</CropFarmer17.baseDesc>
+  <CropFarmer17.baseDesc>[PAWN_nameDef], əkinçilik təsərrüfatı idarə edirdi. [PAWN_pronoun], böyük əkin sahələrinin əkin və yığımını optimallaşdırmaq üçün torpağı, kənd təsərrüfatı təchizatını, hava şəraitini və qiymət meyllərini təhlil edirdi.</CropFarmer17.baseDesc>
   <!-- EN: crop farmer -->
   <CropFarmer17.title>əkinçi</CropFarmer17.title>
   <!-- EN: farmer -->
   <CropFarmer17.titleShort>əkinçi</CropFarmer17.titleShort>
   
   <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent out after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run, treating [PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The ordeal made [PAWN_objective] bitter and untrusting. -->
-  <Defector78.baseDesc>В молодом возрасте {PAWN_nameDef} . Это бегство власти посчитали государственной изменой и отправили по {PAWN_possessive} следу агентов.\n\nВсе годы, что {PAWN_nameDef} {PAWN_gender ? провёл : провела} в бегах, {PAWN_pronoun} {PAWN_gender ? лечил : лечила} свои раны самостоятельно, чтобы ни один врач не мог {PAWN_possessive} выдать. Множество тягот такой жизни озлобили {PAWN_possessive} и отучили доверять людям.</Defector78.baseDesc>
+  <Defector78.baseDesc>Öz yetkinliyinin əvvəlində [PAWN_nameDef], yaşadığı repressiv diktaturadan ayrılma qərarına gəldi. Qaçması yaxşı qarşılanmadı və ardınca agentlər göndərildi.\n\nHeç bir doktorun, ona xəyanət etməməsi üçün illərcə qaçaraq yaşadı və öz yaralarını müalicə etdi. Bu çilə, onu sərtləşdirdi və heç kimə güvənməz etdi.</Defector78.baseDesc>
   <!-- EN: defector -->
-  <Defector78.title>перебежчик</Defector78.title>
-  <Defector78.titleFemale>перебежчица</Defector78.titleFemale>
+  <Defector78.title>qaçqın</Defector78.title>
   <!-- EN: defector -->
-  <Defector78.titleShort>беглец</Defector78.titleShort>
-  <Defector78.titleShortFemale>беглянка</Defector78.titleShortFemale>
+  <Defector78.titleShort>qaçqın</Defector78.titleShort>
   
   <!-- EN: [PAWN_nameDef] never figured out what to do with [PAWN_possessive] life. [PAWN_pronoun] travelled often, taking up casual work wherever [PAWN_pronoun] found it.\n\n[PAWN_pronoun] also occasionally worked on a novel that [PAWN_pronoun] knew would be a bestseller - just as soon as [PAWN_pronoun] could find a publisher who was interested. -->
-  <Drifter67.description>Не имея особых планов на жизнь, {PAWN_nameDef} часто {PAWN_gender ? путешествовал : путешествовала}, перебиваясь случайными заработками, если их удавалось найти.\n\nКроме того, {PAWN_pronoun} время от времени {PAWN_gender ? работал : работала} над романом, который точно должен был стать бестселлером — {PAWN_nameDef} всего-то {PAWN_gender ? должен был : должна была} найти заинтересованного издателя.</Drifter67.description>
+  <Drifter67.baseDesc>.[PAWN_nameDef], həyatı ilə nə edəcəyini heç anlamadı. [PAWN_pronoun], tez-tez səyahət edir, harada tapırsa gündəlik işlər alırdı.\n\n[PAWN_pronoun] həm də zaman-zaman, çok satılacağının bildiyi bir roman üzərində işləyirdi - maraqlanan bir naşir tapan kimi.</Drifter67.baseDesc>
   <!-- EN: drifter -->
-  <Drifter67.title>скиталец</Drifter67.title>
-  <Drifter67.titleFemale>скиталица</Drifter67.titleFemale>
+  <Drifter67.title>avara</Drifter67.title>
   <!-- EN: drifter -->
-  <Drifter67.titleShort>скиталец</Drifter67.titleShort>
-  <Drifter67.titleShortFemale>скиталица</Drifter67.titleShortFemale>
+  <Drifter67.titleShort>avara</Drifter67.titleShort>
   
   <!-- EN: [PAWN_nameDef] denies involvement in the crimes that brought about [PAWN_possessive] incarceration in a brutal penal colony. [PAWN_pronoun] escaped by tunneling beneath the perimeter using modified cutlery. -->
-  <EscapedConvict90.description>{PAWN_nameDef} {PAWN_gender ? отрицал : отрицала} своё участие в тех преступлениях, что привели к {PAWN_possessive} заключению в жестокой исправительной колонии. {PAWN_pronoun} {PAWN_gender ? сбежал : сбежала} оттуда, прорыв туннель под стенами при помощи переделанного столового прибора.</EscapedConvict90.description>
+  <EscapedConvict90.baseDesc>[PAWN_nameDef], qəddar cəzaçəkmə müəssisəsində həbs olunmasına səbəb olan cinayətlərdə iştirakını inkar edir. [PAWN_pronoun], modifikasiya edilmiş bıçaqdan istifadə edərək perimetrin altından tunel açıb qaçmışdır.</EscapedConvict90.baseDesc>
   <!-- EN: escaped convict -->
-  <EscapedConvict90.title>беглый каторжник</EscapedConvict90.title>
-  <EscapedConvict90.titleFemale>беглая каторжница</EscapedConvict90.titleFemale>
+  <EscapedConvict90.title>qaçan məhkum</EscapedConvict90.title>
   <!-- EN: escapee -->
-  <EscapedConvict90.titleShort>беглец</EscapedConvict90.titleShort>
-  <EscapedConvict90.titleShortFemale>беглянка</EscapedConvict90.titleShortFemale>
+  <EscapedConvict90.titleShort>qaçaq</EscapedConvict90.titleShort>
   
   <!-- EN: As a youth, [PAWN_nameDef] experienced a religious awakening. [PAWN_pronoun] decided to spend the rest of [PAWN_possessive] life spreading the word of [PAWN_possessive] deity, the beauty of its culture, and its unusual medical tradition. -->
-  <Evangelist39.description>В юности {PAWN_nameDef} {PAWN_gender ? испытал : испытала} религиозное пробуждение. {PAWN_pronoun} {PAWN_gender ? решил : решила} посвятить остаток жизни распространению откровений своего божества, красоты его культуры, а также необычных методов лечения.</Evangelist39.description>
+  <Evangelist39.baseDesc>[PAWN_nameDef], gəncliyində dini bir oyanış yaşadı. [PAWN_pronoun], ömrünün qalan hissəsini tanrısının sözünü, mədəniyyətinin gözəlliyini və qeyri-adi tibb ənənələrini yayaraq keçirməyə qərar verdi.</Evangelist39.baseDesc>
   <!-- EN: evangelist -->
-  <Evangelist39.title>евангелист</Evangelist39.title>
+  <Evangelist39.title>yevangelist</Evangelist39.title>
   <!-- EN: evangelist -->
-  <Evangelist39.titleShort>евангелист</Evangelist39.titleShort>
+  <Evangelist39.titleShort>yevangelist</Evangelist39.titleShort>
   
   <!-- EN: [PAWN_nameDef] was an explosive engineer employed in mines. [PAWN_pronoun] took [PAWN_possessive] job very seriously and was well-versed in the technicalities - so much so that [PAWN_pronoun] refused to demean [PAWN_objective]self by helping with the clean-up once [PAWN_possessive] carefully-calculated explosion was complete. -->
-  <ExplosivesExpert26.description>{PAWN_nameDef} {PAWN_gender ? работал : работала} взрывотехником в шахтах. {PAWN_pronoun} очень серьёзно {PAWN_gender ? относился : относилась} к своей работе и хорошо {PAWN_gender ? разбирался : разбиралась} в технической стороне дела. Настолько, что {PAWN_gender ? отказывался : отказывалась} «унижаться», помогая разбирать завалы породы после каждого точно рассчитанного взрыва.</ExplosivesExpert26.description>
+  <ExplosivesExpert26.baseDesc>[PAWN_nameDef], mədənlərdə işləyən partlayış mühəndisi idi.</ExplosivesExpert26.baseDesc>
   <!-- EN: explosives expert -->
-  <ExplosivesExpert26.title>инженер-взрывотехник</ExplosivesExpert26.title>
+  <ExplosivesExpert26.title>partlayıcı maddələr üzrə mütəxəssis</ExplosivesExpert26.title>
   <!-- EN: blaster -->
-  <ExplosivesExpert26.titleShort>подрывник</ExplosivesExpert26.titleShort>
+  <ExplosivesExpert26.titleShort>partlayış mühəndisi</ExplosivesExpert26.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew and harvested forests. [PAWN_pronoun] understood both the practical challenges of soil types, wind, and rain, as well as the long-term planning of forest growth. -->
-  <Forester96.description>{PAWN_nameDef} {PAWN_gender ? растил : растила} и {PAWN_gender ? вырубал : вырубала} леса. {PAWN_pronoun} хорошо {PAWN_gender ? разбирался : разбиралась} как в практических проблемах, касающихся типов почвы, ветра и дождя, так и в долгосрочном планировании выращивания леса.</Forester96.description>
+  <Forester96.baseDesc>[PAWN_nameDef], ormanları böyüdüb biçib. [PAWN_pronoun], həm torpaq növləri, külək və yağışın praktiki çətinliklərini, həm də orman böyüməsinin uzunmüddətli planlaşdırılmasını anlamağa başladı.</Forester96.baseDesc>
   <!-- EN: forester -->
-  <Forester96.title>лесник</Forester96.title>
+  <Forester96.title>orman gözətçisi</Forester96.title>
   <!-- EN: forester -->
-  <Forester96.titleShort>лесник</Forester96.titleShort>
+  <Forester96.titleShort>orman gözətçisi</Forester96.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up near forests. [PAWN_pronoun] spent [PAWN_possessive] time building beautiful furniture for wealthy glitterworld clients. -->
-  <FurnitureBuilder83.description>{PAWN_nameDef} {PAWN_gender ? вырос : выросла} возле леса. {PAWN_pronoun} {PAWN_gender ? проводил : проводила} своё время, создавая красивую мебель для богатых клиентов из мира-утопии.</FurnitureBuilder83.description>
+  <FurnitureBuilder83.baseDesc>[PAWN_nameDef], ormanların yaxınlığında böyümüşdür. [PAWN_pronoun], zamanını varlı glitterworld müştəriləri üçün mebel inşa edərək keçirib.</FurnitureBuilder83.baseDesc>
   <!-- EN: furniture builder -->
-  <FurnitureBuilder83.title>сборщик мебели</FurnitureBuilder83.title>
+  <FurnitureBuilder83.title>mebel istehsalçısı</FurnitureBuilder83.title>
   <!-- EN: builder -->
-  <FurnitureBuilder83.titleShort>мебельщик</FurnitureBuilder83.titleShort>
+  <FurnitureBuilder83.titleShort>istehsalçı</FurnitureBuilder83.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked at the mansion of a powerful family, tending the lavish gardens as part of a team of servants. -->
-  <Gardener99.description>{PAWN_nameDef} {PAWN_gender ? работал : работала} в особняке одной могущественной семьи, ухаживая за их роскошными садами вместе с остальной прислугой.</Gardener99.description>
+  <Gardener99.baseDesc>[PAWN_nameDef], güclü bir ailənin malikanəsində işləmiş, xidmətçilər qrupunun bir hissəsi olaraq lüks bağlara baxmışdır.</Gardener99.baseDesc>
   <!-- EN: gardener -->
-  <Gardener99.title>садовник</Gardener99.title>
-  <Gardener99.titleFemale>садовница</Gardener99.titleFemale>
+  <Gardener99.title>bağban</Gardener99.title>
   <!-- EN: gardener -->
-  <Gardener99.titleShort>садовник</Gardener99.titleShort>
-  <Gardener99.titleShortFemale>садовница</Gardener99.titleShortFemale>
+  <Gardener99.titleShort>bağban</Gardener99.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked with miners and cave-diggers, identifying rock types and natural formations.\n\nDuring [PAWN_possessive] years underground [PAWN_pronoun] also gained experience repairing drilling machines and other technical equipment. -->
-  <Geologist66.description>На протяжении нескольких лет {PAWN_nameDef} {PAWN_gender ? работал : работала} совместно с шахтёрами и спелеологами, определяя типы горных пород и минералов.\n\nЗа это время {PAWN_pronoun} {PAWN_gender ? научился : научилась} ремонтировать буровое оборудование и прочую технику.</Geologist66.description>
+  <Geologist66.baseDesc>[PAWN_nameDef], mədənçilər və mağara qazıcılarıyla birgə işləyərək qaya növlərini və təbii formasiyaları müəyyən etmişdir.\n\nYeraltında keçirdiyi illər boyunca qazma qurğularının və başqa texniki təchizatların təmir olunmasında da təcrübə qazanmışdır.</Geologist66.baseDesc>
   <!-- EN: geologist -->
-  <Geologist66.title>геолог</Geologist66.title>
+  <Geologist66.title>geoloq</Geologist66.title>
   <!-- EN: geologist -->
-  <Geologist66.titleShort>геолог</Geologist66.titleShort>
+  <Geologist66.titleShort>geoloq</Geologist66.titleShort>
   
   <!-- EN: As an adult, [PAWN_nameDef] kept house and cared for children while [PAWN_possessive] spouse worked. -->
-  <Housemate8.description>Во взрослом возрасте {PAWN_nameDef} {PAWN_gender ? вёл : вела} домашнее хозяйство и {PAWN_gender ? заботился : заботилась} о детях, пока {PAWN_possessive} вторая половинка была на работе.</Housemate8.description>
+  <Housemate8.baseDesc>[PAWN_nameDef], həyat yoldaşı işləyərkən ev işlərilə məşğul olur və uşaqlara baxırdı.</Housemate8.baseDesc>
   <!-- EN: housemate -->
-  <Housemate8.title>домохозяин</Housemate8.title>
+  <Housemate8.title>evdar kişi</Housemate8.title>
   <!-- EN: housewife -->
-  <Housemate8.titleFemale>домохозяйка</Housemate8.titleFemale>
+  <Housemate8.titleFemale>evdar qadın</Housemate8.titleFemale>
   <!-- EN: housemate -->
-  <Housemate8.titleShort>хозяин</Housemate8.titleShort>
+  <Housemate8.titleShort>evdar kişi</Housemate8.titleShort>
   <!-- EN: housewife -->
-  <Housemate8.titleShortFemale>домохозяйка</Housemate8.titleShortFemale>
+  <Housemate8.titleShortFemale>evdar qadın</Housemate8.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] was a domestic servant to wealthy homeowners.\n\n[PAWN_pronoun] got to know the kitchens and basements of [PAWN_possessive] master's mansion well, but never did any work outside. -->
-  <HouseServant63.description>После того как в молодости {PAWN_possessive} похитили и продали богатым аристократам, {PAWN_nameDef} {PAWN_gender ? работал : работала} в качестве домашней прислуги.\n\nТам, в особняке своего господина, {PAWN_nameDef} {PAWN_gender ? изучил : изучила} все кухни и подвалы, но при этом не {PAWN_gender ? имел : имела} возможности выходить наружу.</HouseServant63.description>
+  <HouseServant63.baseDesc>[PAWN_nameDef], varlı ev sahiblərinin qulluqçusu idi.\n\n[PAWN_pronoun], əfəndisinin malikanəsinin mətbəxini və zirzəmilərini yaxşı tanıyırdı, ancaq çöldə heç vaxt işləməmişdir.</HouseServant63.baseDesc>
   <!-- EN: house servant -->
-  <HouseServant63.title>домашняя прислуга</HouseServant63.title>
+  <HouseServant63.title>ev qulluqçusu</HouseServant63.title>
   <!-- EN: servant -->
-  <HouseServant63.titleShort>слуга</HouseServant63.titleShort>
-  <HouseServant63.titleShortFemale>служанка</HouseServant63.titleShortFemale>
+  <HouseServant63.titleShort>qulluqçu</HouseServant63.titleShort>
   
   <!-- EN: [PAWN_nameDef] hunted wild animals to help feed [PAWN_possessive] community. When times became tough, others looked to [PAWN_objective] as the one to help people through a tough season. -->
-  <Hunter89.description>{PAWN_nameDef} {PAWN_gender ? охотился : охотилась} на диких животных, чтобы помочь прокормить свою общину. Когда наступали трудные времена, другие смотрели на н{PAWN_possessive} как на того, кто сможет помочь людям пережить тяжёлый сезон.</Hunter89.description>
+  <Hunter89.baseDesc>[PAWN_nameDef], cəmiyyətini bəsləmək üçün vəhşi heyvanları ovlayırdı.</Hunter89.baseDesc>
   <!-- EN: hunter -->
-  <Hunter89.title>охотник</Hunter89.title>
+  <Hunter89.title>ovçu</Hunter89.title>
   <!-- EN: hunter -->
-  <Hunter89.titleShort>охотник</Hunter89.titleShort>
+  <Hunter89.titleShort>ovçu</Hunter89.titleShort>
   
   <!-- EN: On [PAWN_possessive] homeworld, [PAWN_nameDef] worked as a moderately successful inventor. [PAWN_pronoun] developed several minor technologies. -->
-  <Inventor6.description>В своём мире {PAWN_nameDef} {PAWN_gender ? был : была} изобретателем. {PAWN_objective} удалось достичь некоторых успехов, разработав несколько технологий, пусть и не самой высокой степени важности.</Inventor6.description>
+  <Inventor6.baseDesc>Doğma dünyasında [PAWN_nameDef], orta dərəcədə uğurlu ixtiraçı idi. [PAWN_pronoun], bir neçə kiçik texnologiya inkişaf etdirdi.</Inventor6.baseDesc>
   <!-- EN: inventor -->
-  <Inventor6.title>изобретатель</Inventor6.title>
-  <Inventor6.titleFemale>изобретательница</Inventor6.titleFemale>
+  <Inventor6.title>ixtiraçı</Inventor6.title>
   <!-- EN: inventor -->
-  <Inventor6.titleShort>изобретатель</Inventor6.titleShort>
-  <Inventor6.titleShortFemale>изобретательница</Inventor6.titleShortFemale>
+  <Inventor6.titleShort>ixtiraçı</Inventor6.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] life in prisons, where [PAWN_pronoun] was put to work in the kitchens. [PAWN_pronoun] had a habit of getting into fights, and developed an aggressive way of speaking. -->
-  <Jailbird40.description>{PAWN_nameDef} {PAWN_gender ? провёл : провёл} большую часть своей жизни в разных тюрьмах, где {PAWN_possessive} часто назначали работать на кухне. {PAWN_pronoun} нередко {PAWN_gender ? ввязывался : ввязывалась} в драки и {PAWN_gender ? выработал : выработала} агрессивный стиль общения.</Jailbird40.description>
+  <Jailbird40.baseDesc>[PAWN_nameDef], ömrünün çox hissəsini mətbəxlərdə işlədildiyi həbsxanalarda keçirdi. Dalaşmaya alışmışdı və aqressiv bir danışıq üslubu var idi.</Jailbird40.baseDesc>
   <!-- EN: jailbird -->
-  <Jailbird40.title>арестант</Jailbird40.title>
-  <Jailbird40.titleFemale>арестантка</Jailbird40.titleFemale>
+  <Jailbird40.title>həbsxana quşu</Jailbird40.title>
   <!-- EN: jailbird -->
-  <Jailbird40.titleShort>арестант</Jailbird40.titleShort>
-  <Jailbird40.titleShortFemale>арестантка</Jailbird40.titleShortFemale>
+  <Jailbird40.titleShort>həbsxana quşu</Jailbird40.titleShort>
   
   <!-- EN: [PAWN_nameDef] ran a livestock farm. [PAWN_pronoun] analyzed animal genetics, feed types, birth and slaughter methods, and price trends to optimize the raising of huge animal herds. -->
-  <LivestockFarmer8.description>{PAWN_nameDef} {PAWN_gender ? владел : владела} ранчо. {PAWN_pronoun} {PAWN_gender ? изучал : изучала} генетику животных, типы кормов, методики разведения и убоя, а также рыночные цены, чтобы оптимизировать содержание огромных стад животных.</LivestockFarmer8.description>
+  <LivestockFarmer8.baseDesc>[PAWN_nameDef], heyvandarlıq ferması işlədirdi. [PAWN_pronoun], böyük heyvan sürülərinin artırılmasını optimallaşdırmaq üçün heyvan genetikasını, yem növlərini, doğum və kəsim üsullarını və qiymət meyllərini təhlil etdi.</LivestockFarmer8.baseDesc>
   <!-- EN: livestock farmer -->
-  <LivestockFarmer8.title>хозяин ранчо</LivestockFarmer8.title>
-  <LivestockFarmer8.titleFemale>хозяйка ранчо</LivestockFarmer8.titleFemale>
+  <LivestockFarmer8.title>maldar</LivestockFarmer8.title>
   <!-- EN: farmer -->
-  <LivestockFarmer8.titleShort>хозяин ранчо</LivestockFarmer8.titleShort>
-  <LivestockFarmer8.titleShortFemale>хозяйка ранчо</LivestockFarmer8.titleShortFemale>
+  <LivestockFarmer8.titleShort>maldar</LivestockFarmer8.titleShort>
   
   <!-- EN: [PAWN_nameDef] took down trees and collected wood in hilly passes and ravines. [PAWN_pronoun] learned both how to fell the trees safely, and how to manage the forest to keep it healthy. -->
-  <Logger95.description>{PAWN_nameDef} {PAWN_gender ? валил : валила} деревья и собирал древесину на холмистых перевалах и в оврагах. {PAWN_pronoun} {PAWN_gender ? научился : научилась} безопасно валить деревья и управлять лесом, чтобы поддерживать его в хорошем состоянии.</Logger95.description>
+  <Logger95.baseDesc>[PAWN_nameDef], dağlıq keçidlərdə və dərələrdə ağacları kəsmiş və odun toplamışdır. [PAWN_pronoun], həm ağacların necə güvənli şəkildə yıxılacağını, həm də ormanı sağlam saxlamaq üçün necə idarə olunacağını öyrəndi.</Logger95.baseDesc>
   <!-- EN: logger -->
-  <Logger95.title>древотёс</Logger95.title>
+  <Logger95.title>odunçu</Logger95.title>
   <!-- EN: logger -->
-  <Logger95.titleShort>древотёс</Logger95.titleShort>
+  <Logger95.titleShort>odunçu</Logger95.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked a variety of casual jobs to support [PAWN_possessive] family, gaining a set of basic hands-on skills. -->
-  <LowWageWorker7.description>Стремясь прокормить семью, {PAWN_nameDef} {PAWN_gender ? перебивался : перебивалась} случайными заработками, работая на самых разных работах. {PAWN_pronoun} {PAWN_gender ? получил : получила} базовые навыки ручного труда.</LowWageWorker7.description>
+  <LowWageWorker7.baseDesc>[PAWN_nameDef], ailəsinə dəstək olmaq üçün təsadüfi işlərdə çalışaraq bir sıra əsas praktiki bacarıqlar əldə edib.</LowWageWorker7.baseDesc>
   <!-- EN: low-wage worker -->
-  <LowWageWorker7.title>низкоопл. рабочий</LowWageWorker7.title>
+  <LowWageWorker7.title>az maaşlı işçi</LowWageWorker7.title>
   <!-- EN: grunt -->
-  <LowWageWorker7.titleShort>подёнщик</LowWageWorker7.titleShort>
-  <LowWageWorker7.titleShortFemale>подёнщица</LowWageWorker7.titleShortFemale>
+  <LowWageWorker7.titleShort>günəmuzdçu</LowWageWorker7.titleShort>
   
   <!-- EN: [PAWN_nameDef] was obsessed with old machines and arcane pieces of technology. [PAWN_pronoun] obtained them wherever [PAWN_pronoun] could, and loved taking them apart to see how they worked.\n\n[PAWN_pronoun] had a habit of talking about [PAWN_possessive] collection long after people around [PAWN_objective] had stopped listening. -->
-  <MachineCollector55.description>{PAWN_nameDef} без ума от старых машин и загадочных технологий. {PAWN_pronoun} {PAWN_gender ? любил : любила} доставать такие механизмы любыми способами и разбирать их, чтобы узнать, как они работают.\n\nУ н{PAWN_possessive} появилась привычка продолжать говорить о своей коллекции, даже когда окружающие уже {PAWN_possessive} не слушают.</MachineCollector55.description>
+  <MachineCollector55.baseDesc>[PAWN_nameDef], köhnə maşınlar və sirli texnologiya parçaları ilə çox maraqlanır. [PAWN_pronoun], onları tapa bildiyi hər yerdən əldə edir və necə işlədiklərini görmək üçün parçalara ayırmağı sevir.</MachineCollector55.baseDesc>
   <!-- EN: machine collector -->
-  <MachineCollector55.title>коллекционер машин</MachineCollector55.title>
+  <MachineCollector55.title>maşın kolleksiyaçısı</MachineCollector55.title>
   <!-- EN: collector -->
-  <MachineCollector55.titleShort>коллекционер</MachineCollector55.titleShort>
-  <MachineCollector55.titleShortFemale>коллекционерша</MachineCollector55.titleShortFemale>
+  <MachineCollector55.titleShort>kolleksiyaçı</MachineCollector55.titleShort>
   
   <!-- EN: [PAWN_nameDef] did mathematical research at a university.\n\n[PAWN_pronoun] spent much of [PAWN_possessive] spare time immersed in shooting simulations, though [PAWN_pronoun] was frequently ridiculed by other players for [PAWN_possessive] terrible aim. -->
-  <Mathematician6.description>Работая в университете, {PAWN_nameDef} {PAWN_gender ? проводил : проводила} исследование в области математики.\n\nБольшую часть своего свободного времени {PAWN_pronoun} {PAWN_gender ? тратил : тратила} на сетевые шутеры. {PAWN_objective} часто доставались насмешки от других игроков из-за {PAWN_possessive} неумения попадать в цель.</Mathematician6.description>
+  <Mathematician6.baseDesc>[PAWN_nameDef], bir universitetdə riyazi araşdırmalar ilə məşğul idi.\n\n[PAWN_pronoun], boş vaxtının çoxunu atıcı simulyatorlarına sərf edərək keçirib, ancaq pis dəqiqliyinə görə başqa oyunçular, onu sıx-sıx lağa qoyurdular.</Mathematician6.baseDesc>
   <!-- EN: mathematician -->
-  <Mathematician6.title>профессор математики</Mathematician6.title>
+  <Mathematician6.title>riyaziyyatçı</Mathematician6.title>
   <!-- EN: math prof -->
-  <Mathematician6.titleShort>математик</Mathematician6.titleShort>
+  <Mathematician6.titleShort>riyaziyyatçı</Mathematician6.titleShort>
   
   <!-- EN: [PAWN_nameDef] modelled clothes and jewellery for advertisers, and was also used as a physical blueprint for characters in virtual reality simulations. -->
-  <Model99.description>{PAWN_nameDef} {PAWN_gender ? был : была} моделью в рекламе одежды и украшений. Кроме того, {PAWN_possessive} использовали как образец для моделирования персонажей виртуальной реальности.</Model99.description>
+  <Model99.baseDesc>[PAWN_nameDef], reklamçılar üçün geyim və zinət əşyaları modelləşdirdi və həmçinin virtual reallıq simulyasiyalarındakı personajlar üçün fiziki prototip kimi istifadə edilib.</Model99.baseDesc>
   <!-- EN: model -->
-  <Model99.title>модель</Model99.title>
+  <Model99.title>model</Model99.title>
   <!-- EN: model -->
-  <Model99.titleShort>модель</Model99.titleShort>
+  <Model99.titleShort>model</Model99.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked in a hospital, doing routine work such as changing bandages and taking temperatures.\n\nIt was a busy job, but [PAWN_pronoun] could always find time for a chat with a patient. -->
-  <Nurse61.description>{PAWN_nameDef} {PAWN_gender ? работал : работала} в больнице и {PAWN_gender ? занимался : занималась} такой рутинной работой, как перевязывание ран и измерение температуры.\n\nНесмотря на напряжённую работу, у н{PAWN_possessive} всегда находилось время на беседу с пациентом.</Nurse61.description>
+  <Nurse61.baseDesc>[PAWN_nameDef], bir xəstəxanada işləmiş, sarğı dəyişdirmək və temperatur ölçmək kimi işlər görmüşdür.\n\n[PAWN_pronoun], bir xəstələ söhbət etmək üçün hər zaman vaxt tapa bilirdi.</Nurse61.baseDesc>
   <!-- EN: nurse -->
-  <Nurse61.title>медбрат</Nurse61.title>
-  <Nurse61.titleFemale>медсестра</Nurse61.titleFemale>
+  <Nurse61.title>sanitar</Nurse61.title>
+  <Nurse61.titleFemale>tibb bacısı</Nurse61.titleFemale>
   <!-- EN: nurse -->
-  <Nurse61.titleShort>медбрат</Nurse61.titleShort>
-  <Nurse61.titleShortFemale>медсестра</Nurse61.titleShortFemale>
+  <Nurse61.titleShort>sanitar</Nurse61.titleShort>
+  <Nurse61.titleShortFemale>tibb bacısı</Nurse61.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef]'s job was to respond rapidly to medical emergencies. [PAWN_pronoun] is used to dealing with severe injuries with only limited medical supplies.\n\n[PAWN_pronoun] treated so many gunshot wounds over the years that even seeing a gun made [PAWN_objective] uncomfortable. -->
-  <Paramedic45.description>{PAWN_nameDef} {PAWN_gender ? занимался : занималась} оказанием экстренной медицинской помощи. {PAWN_objective} часто приходилось иметь дело с серьёзными ранениями, имея при себе только ограниченный запас медикаментов.\n\nЗа все эти годы {PAWN_nameDef} {PAWN_gender ? обработал : обработала} столько пулевых ранений, что теперь не может даже смотреть в сторону огнестрельного оружия.</Paramedic45.description>
+  <Paramedic45.baseDesc>İşi, tibbi təcili yardımlara tez müdaxilə etmək idi. [PAWN_pronoun], yalnız məhdud sayda tibbi ləvazimatla ağır yaralanmaların öhdəsindən gəlməyə alışıb.\n\n[PAWN_pronoun], illər boyunca o qədər çox güllə yarası müalicə edib ki, bir silah görmək belə onu rahatsız edir.</Paramedic45.baseDesc>
   <!-- EN: paramedic -->
-  <Paramedic45.title>парамедик</Paramedic45.title>
+  <Paramedic45.title>feldşer</Paramedic45.title>
   <!-- EN: paramedic -->
-  <Paramedic45.titleShort>парамедик</Paramedic45.titleShort>
+  <Paramedic45.titleShort>feldşer</Paramedic45.titleShort>
   
   <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal police force.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
-  <Policeman45.description>{PAWN_nameDef} {PAWN_gender ? поддерживал : поддерживала} порядок на улицах города как обычный сотрудник полиции.\n\n{PAWN_pronoun} {PAWN_gender ? был обучен : была обучена} разрешению конфликтных ситуаций, силовому контролю, стрельбе и другим важным для полицейских навыкам.</Policeman45.description>
+  <Policeman45.baseDesc>[PAWN_nameDef], bələdiyyə polisində vəzifəli bir məmur olaraq asayişi qorumuşdur.\n\n[PAWN_pronoun], gərginliyi azaltma, fiziki nəzarət, atışma və başqa polis bacarıqları üzrə təlim keçib.</Policeman45.baseDesc>
   <!-- EN: policeman -->
-  <Policeman45.title>офицер полиции</Policeman45.title>
-  <!-- EN: policewoman -->
-  <Policeman45.titleFemale>офицер полиции</Policeman45.titleFemale>
+  <Policeman45.title>polis</Policeman45.title>
   <!-- EN: policeman -->
-  <Policeman45.titleShort>офицер полиции</Policeman45.titleShort>
-  <!-- EN: policewoman -->
-  <Policeman45.titleShortFemale>офицер полиции</Policeman45.titleShortFemale>
-  
+  <Policeman45.titleShort>polis</Policeman45.titleShort>
+
   <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
-  <QuarryWorker29.description>{PAWN_nameDef} {PAWN_gender ? работал : работала} в каменоломне, помогая добывать ценный камень на склоне холма. {PAWN_pronoun} {PAWN_gender ? научился : научилась} чувствовать в горной породе перспективы и опасности при помощи одних лишь взгляда, прикосновения и интуиции.</QuarryWorker29.description>
+  <QuarryWorker29.baseDesc>[PAWN_nameDef], bir daş karxanasında işləyərək yamacdan qiymətli daşların çıxarılmasına kömək edirdi. [PAWN_pronoun], daşda gizlənən fürsətləri və təhlükələri görərək, toxunaraq və intuisiyaları ilə hiss etməyi öyrəndi.</QuarryWorker29.baseDesc>
   <!-- EN: quarry worker -->
-  <QuarryWorker29.title>работник карьера</QuarryWorker29.title>
+  <QuarryWorker29.title>karxana işçisi</QuarryWorker29.title>
   <!-- EN: quarry worker -->
-  <QuarryWorker29.titleShort>горнорабочий</QuarryWorker29.titleShort>
+  <QuarryWorker29.titleShort>karxana işçisi</QuarryWorker29.titleShort>
   
   <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
-  <Rancher43.description>Владение ранчо, где животных выращивают ради шерсти и мяса, приносило {PAWN_objective} неплохие доходы.\n\n{PAWN_nameDef} не {PAWN_gender ? занимался : занималась} грязной работой, предпочитая платить, чтобы всё сделали за н{PAWN_possessive}.</Rancher43.description>
+  <Rancher43.baseDesc>.[PAWN_nameDef], ət və yun üçün heyvan yetişdirdiyi uğurlu bir rançonun sahibi və idarəçisi idi.\n\n[PAWN_pronoun], başqalarına pul verərək etdirəcəyi axmaq işləri etməkdən imtina etmişdir.</Rancher43.baseDesc>
   <!-- EN: rancher -->
-  <Rancher43.title>хозяин ранчо</Rancher43.title>
-  <Rancher43.titleFemale>хозяйка ранчо</Rancher43.titleFemale>
+  <Rancher43.title>ranço sahibi</Rancher43.title>
   <!-- EN: rancher -->
-  <Rancher43.titleShort>скотовод</Rancher43.titleShort>
+  <Rancher43.titleShort>ranço sahibi</Rancher43.titleShort>
   
   <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
-  <Ranger96.description>{PAWN_nameDef} {PAWN_gender ? выслеживал : выслеживала} животных и людей для самых разнообразных клиентов. {PAWN_pronoun} {PAWN_gender ? приобрёл : приобрела} навыки чтения следов, поиска пищи в дикой природе и преследования добычи.</Ranger96.description>
+  <Ranger96.baseDesc>[PAWN_nameDef], müxtəlif müştərilər üçün heyvanları və insanları izləmişdir.</Ranger96.baseDesc>
   <!-- EN: ranger -->
-  <Ranger96.title>егерь</Ranger96.title>
+  <Ranger96.title>yeger</Ranger96.title>
   <!-- EN: ranger -->
-  <Ranger96.titleShort>егерь</Ranger96.titleShort>
+  <Ranger96.titleShort>yeger</Ranger96.titleShort>
   
   <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] travelled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
-  <Recruiter14.description>{PAWN_nameDef} — бывший член уважаемого ордена мастеров боевых искусств, печально известных как своими боевыми навыками, так и отказом от лечения собственных раненых.\n\nВ {PAWN_possessive} обязанности входило путешествовать по родному миру, отбирая молодых людей для обучения и тренировок в ордене.</Recruiter14.description>
+  <Recruiter14.baseDesc>Həm savaşdakı bacarıqları, həm də yaralılarını müalicə etməkdən imtina etməsilə ünlü, sayğı duyulan döyüş sənətləri təriqətinin üzvü idi.\n\n[PAWN_pronoun], doğma dünyasını dolaşır, tanışdığı gəncləri təlimə uyğun olub-olmadıqlarını bəlirtmək üçün qiymətləndirirdi.</Recruiter14.baseDesc>
   <!-- EN: recruiter -->
-  <Recruiter14.title>вербовщик</Recruiter14.title>
-  <Recruiter14.titleFemale>вербовщица</Recruiter14.titleFemale>
+  <Recruiter14.title>rekrutyor</Recruiter14.title>
   <!-- EN: recruiter -->
-  <Recruiter14.titleShort>вербовщик</Recruiter14.titleShort>
-  <Recruiter14.titleShortFemale>вербовщица</Recruiter14.titleShortFemale>
+  <Recruiter14.titleShort>rekrutyor</Recruiter14.titleShort>
   
   <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
-  <Slaughterer58.description>{PAWN_nameDef} {PAWN_gender ? зарабатывал : зарабатывала} на жизнь забоем животных. Другие смотрели на эту работу свысока, считая её грязной, но навыки, необходимые для эффективного и чистого забоя большого количества животных, никогда не были простыми.</Slaughterer58.description>
+  <Slaughterer58.baseDesc>[PAWN_nameDef], dolanmaq üçün heyvan kəsirdi. Başqaları, bu işi çirkin sayırdı, ancaq çox sayda heyvanı idarə etmək və təmiz bir şəkildə kəsmək üçün gərəkən bacarıqlar əsla bəsit deyil idi.</Slaughterer58.baseDesc>
   <!-- EN: slaughterer -->
-  <Slaughterer58.title>забойщик</Slaughterer58.title>
+  <Slaughterer58.title>qəssab</Slaughterer58.title>
   <!-- EN: slaughterer -->
-  <Slaughterer58.titleShort>забойщик</Slaughterer58.titleShort>
+  <Slaughterer58.titleShort>qəssab</Slaughterer58.titleShort>
   
   <!-- EN: [PAWN_nameDef] was educated in the liberal arts and taught at a public school. [PAWN_pronoun] was widely knowledgeable and well-liked by [PAWN_possessive] students. -->
-  <Teacher20.description>{PAWN_nameDef} {PAWN_gender ? получил : получила} гуманитарное образование и {PAWN_gender ? работал : работала} учителем в общеобразовательной школе. {PAWN_pronoun} {PAWN_gender ? обладала : обладала} обширным запасом знаний, а ученики {PAWN_possessive} любили и уважали.</Teacher20.description>
+  <Teacher20.baseDesc>[PAWN_nameDef], liberal sənətlər üzrə təhsil almış və dövlət məktəbində dərs demişdir. [PAWN_pronoun], çox bilikli idi və tələbələri tərəfindən çox sevilirdi.</Teacher20.baseDesc>
   <!-- EN: teacher -->
-  <Teacher20.title>учитель</Teacher20.title>
-  <Teacher20.titleFemale>учительница</Teacher20.titleFemale>
+  <Teacher20.title>müəllim</Teacher20.title>
+  <Teacher20.titleFemale>müəllimə</Teacher20.titleFemale>
   <!-- EN: teacher -->
-  <Teacher20.titleShort>учитель</Teacher20.titleShort>
-  <Teacher20.titleShortFemale>учительница</Teacher20.titleShortFemale>
+  <Teacher20.titleShort>müəllim</Teacher20.titleShort>
+  <Teacher20.titleShortFemale>müəllimə</Teacher20.titleShortFemale>
   
   <!-- EN: Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into their nightmares. -->
-  <Torturer37.description>Работая при средневековом монархе-тиране, {PAWN_nameDef} {PAWN_gender ? приобрёл : приобрела} репутацию эксперта в области «убеждения». У заключённых, попадающих к н{PAWN_objective} в темницу, не оставалось никаких секретов, зато {PAWN_possessive} улыбка до конца жизни преследовала их в кошмарах .</Torturer37.description>
+  <Torturer37.baseDesc>Zalım bir diktator üçün işləyən [PAWN_nameDef], "inandırma" ustası olaraq tanınırdı. Zindanlara enən heç bir məhbus, oradan sirr saxlamadan ayrılırdı.</Torturer37.baseDesc>
   <!-- EN: torturer -->
-  <Torturer37.title>палач</Torturer37.title>
+  <Torturer37.title>işgəncəci</Torturer37.title>
   <!-- EN: torturer -->
-  <Torturer37.titleShort>палач</Torturer37.titleShort>
+  <Torturer37.titleShort>işgəncəci</Torturer37.titleShort>
   
   <!-- EN: [PAWN_nameDef] treated sick and injured animals for a living. Seeing their suffering affected [PAWN_possessive] stance on the practice of eating meat, and for many years [PAWN_pronoun] lived as a vegetarian. -->
-  <Veterinarian99.description>Повзрослев, {PAWN_nameDef} {PAWN_gender ? зарабатывал : зарабатывала} на жизнь, исцеляя больных и раненых животных. Вид их страданий повлиял на {PAWN_possessive} отношение к мясным блюдам: на многие годы {PAWN_pronoun} {PAWN_gender ? стал вегетарианцем : стала вегетарианкой}, отвергнув «мясоедство».</Veterinarian99.description>
+  <Veterinarian99.baseDesc>[PAWN_nameDef], dolanışığı üçün xəstə və yaralı heyvanları müalicə edirdi. Onların çəkdiyi acıları görmək, ət yeməsi ilə bağlı mövqeyinə təsir etmişdir və o, uzun illər vegetarian olaraq yaşadı.</Veterinarian99.baseDesc>
   <!-- EN: veterinarian -->
-  <Veterinarian99.title>ветеринар</Veterinarian99.title>
+  <Veterinarian99.title>baytar</Veterinarian99.title>
   <!-- EN: vet -->
-  <Veterinarian99.titleShort>ветеринар</Veterinarian99.titleShort>
+  <Veterinarian99.titleShort>baytar</Veterinarian99.titleShort>
   
 </LanguageData>
