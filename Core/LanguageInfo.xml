@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageInfo>
+  <friendlyNameNative>Azərbaycan türkcəsi</friendlyNameNative>
+  <friendlyNameEnglish>Azerbaijani Turkic</friendlyNameEnglish>
+  <canBeTiny>true</canBeTiny>
+  <credits>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>GdrUluturk</creditee>
+     </li>
+	<li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>sevdimali</creditee>
+     </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>fazeh</creditee>
+     </li>
+    <li Class="CreditRecord_Role">
+      <roleKey>Credit_Translator</roleKey>
+      <creditee>rudy</creditee>
+     </li>
+  </credits>
+</LanguageInfo>
