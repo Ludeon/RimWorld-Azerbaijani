@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <Tutorial>Dərsliklər</Tutorial>
+  <NewColony>Yeni Koloniya</NewColony>
+  <BackToGame>Oyuna geri dön</BackToGame>
+  <ReviewScenario>Senarini incələ</ReviewScenario>
+  <Save>Yaddaşa ver</Save>
+  <LoadGame>Yüklə</LoadGame>
+  <Options>Seçimlər</Options>
+  <Mods>Modlar</Mods>
+  <Credits>Təşəkkürlər</Credits>
+  <QuitToMainMenu>Menuya qayıt</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Yaddaşa ver və menuya qayıt</SaveAndQuitToMainMenu>
+  <QuitToOS>ƏS-nə qayıt</QuitToOS>
+  <SaveAndQuitToOS>Yaddaşa ver və ƏS-nə qayıt</SaveAndQuitToOS>
+  <FictionPrimer>Əl Kitabı</FictionPrimer>
+  <LudeonBlog>Ludeon bloq</LudeonBlog>
+  <Forums>Forumlar</Forums>
+  <OfficialWiki>Rəsmi wiki</OfficialWiki>
+  <TynansTwitter>Tynan-ın twitteri</TynansTwitter>
+  <TynansDesignBook>Tynan-nın dizayn kitabı</TynansDesignBook>
+  <HelpTranslate>RimWorld-ü tərcümə etməyə yardım et</HelpTranslate>
+  <BuySoundtrack>Trekləri satın al</BuySoundtrack>
+  <CreateWorld>Dünya yarat</CreateWorld>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Dünyaya baxış</ReviewWorld>
+  <WorldGenerate>Yarat</WorldGenerate>
+  <WorldSaveAndFinish>Yaddaşa ver və bitir</WorldSaveAndFinish>
+  <Reset>Sıfırla</Reset>
+  <PlanetCoverage>Planet örtüyü</PlanetCoverage>
+  <PlanetRainfall>Orta illik yağış</PlanetRainfall>
+  <PlanetTemperature>Orta illik temperatur</PlanetTemperature>
+  <PlanetRainfall_Low>Aşağı</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Yüksək</PlanetRainfall_High>
+  <PlanetTemperature_Low>Aşağı</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Yüksək</PlanetTemperature_High>
+  <WorldSeed>Planet Adı</WorldSeed>
+  <RandomizeSeed>Rastgələ seç</RandomizeSeed>
+  <PlanetCoverageTip>Planet hər zaman eyni diametrdədir, amma lazım olandan çox böyük olduğundan biz bütün ərazini yaratmırıq çünki bu çox vaxt alır. Bu yaratmaq istədiyiniz ərazinin faizlə ölçüsüdür.</PlanetCoverageTip>
+  <WorldFactionsTab>Klanlar</WorldFactionsTab>
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Dünya Seç</SelectWorld>
+  <WorldChooseButton>Seç</WorldChooseButton>
+  <NoWorldsFilesFound>Heç bir dünya faylı tapılmadı. Öncə bir dünya yarat.</NoWorldsFilesFound>
+  
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>{0} versiyası artıq mövcuddur. Əlavə məlumat üçün ludeon.com ziyarət edin.</BuildNowAvailable>
+	<BuildUpToDate>Bu ən son versiyadır.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Versiya məlumatını alarkən xəta baş verdi: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Versiya məlumatları yüklənir...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Dünya yarat</GenerateWorld>
+
+  <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Steam Workshop-u aç</OpenSteamWorkshop>
+  <GetModsFromForum>Formlardan mod-ları əldə et</GetModsFromForum>
+  <OpenModsDataFolder>Mods məlumat qovluğunu aç</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>core mod-u deaktiv etməyə əminsiniz?Core mod əvəz edən bir modunuz olmadığı müddətcə oyun açılmayacaq.\n\nNəzərə alın ki, digər modlar core moddakı defs-lərin üzərinə yazmaqla işləyirlər.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>{0} üçün bütün tərkib hissələrini silmək istədiyinizdən əminsinizmi?</ConfirmDeleteMod>
+  <Unsubscribe>Abunə olma</Unsubscribe>
+  <ConfirmUnsubscribe>{0}-dan abunəliyinizi dayandırmaq istəyirsinizmi?</ConfirmUnsubscribe>
+  <Author>Müəllif</Author>
+  <WorkshopPage>Workshop səhifəsi</WorkshopPage>
+  <UploadToSteamWorkshop>Steam Workshop-a yüklə</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Steam Workshop-da yenilə</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Yükləmə davam edir.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop təqdimatı uğursuz oldu.\n\nSəbəb: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Uğurla Yükləndi {0}.</WorkshopUploadSucceeded>
+  <Downloading>Endirilir</Downloading>
+  <Source>Mənbə</Source>
+  <ModTargetVersion>{0} versiyası üçün</ModTargetVersion>
+  <ModNotMadeForThisVersion>Bu mod RimWorld-ün bu versiyası üçün uyğun deyil və düzgün çalışmaya bilər.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod-da About.xml içərisində yaxşı tərtib olunmuş hədəf versiyası olmalıdır. Məsələn: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Sıralamq üçün sürükləyib buraxın</DragToReorder>
+  
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Senari seçin</ChooseScenario>
+  <ScenariosCustom>Fərdi</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>Senari redaktoru</ScenarioEditor>
+  <Delete>Silin</Delete>
+  
+  <!--============ Scenario editor ===============-->
+  <Seed>Planet Adı</Seed>
+  <Load>Yüklə</Load>
+  <EditMode>modu redaktə et</EditMode>
+  <Summary>Nəticə</Summary>
+  <AddPart>Hissə əlavə et</AddPart>
+  <TextFieldsMustBeFilled>Bütün yerlər doldurulmalıdır.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Bunu Steam Workshop-a yükləmək istədiyinizdən əminsinizmi?\n\nSteam Workshop xidmət şərtlərini qəbul etməlisiniz. Bütün şərtləri burdan əldə edə bilərsiniz:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Yalnız öz hazırladığın məzmunu yükləyə bilərsiniz.\n\nBunu siz hazırlamısız?</ConfirmContentAuthor>
+  <Incompatible>Uyğun deyil</Incompatible>
+  <TooMany>Çoxlu (maks {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Müəllif olduqdan sonra, Workshop-da yeniləyə bilərsiniz.</CanBeUpdatedOnWorkshop>
+  
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Hekayəni danışacaq Süni Zəkanı seçin</ChooseAIStoryteller>
+  <HowStorytellersWork>Süni Zəka pirat basqınları, qaynaqların düşməsi və ya heyvan hücumları kimi hadisələri yaradır. Bütün bunlar Koloniyanın hekayəsini formalaşdırır.</HowStorytellersWork>
+  <MustChooseDifficulty>Çətinlik ayarlarını seçin.</MustChooseDifficulty>
+  <Difficulty>Çətinlik</Difficulty>
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Eniş nöqtəsini seçin</SelectLandingSite>
+  <SelectRandomSite>Rastgələ bir nöqtə</SelectRandomSite>
+  <SelectSite>Yer seçin</SelectSite>
+  <MustSelectLandingSite>Eniş nöqtəsi seçməlisiniz.</MustSelectLandingSite>
+  <CannotLandBiome>Bu bioma enə bilməzsiniz: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Bu biom əlavə edilmədi</BiomeNotImplemented>
+  <CannotLandImpassableMountains>Keçilməz dağlara enə bilməzsiniz.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>Burda artıq {0} baza qurublar.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Burda artıq bazan var.</YourBaseAlreadyThere>
+  <TileOccupied>Bu nöqtə artıq tutulub.</TileOccupied>
+  <FactionBaseAdjacent>Yaşayış məntəqələri bir-birinə bitişik ola bilməz.</FactionBaseAdjacent>
+  <Biome>İqlim</Biome>
+  <Terrain>Relyef</Terrain>
+  <Road>Yol</Road>
+  <River>Çay</River>
+  <Elevation>Yüksəklik</Elevation>
+  <Fertility>Məhsuldarlıq</Fertility>
+  <AvgTemp>Ortalama Temperatur</AvgTemp>
+  <AvgSummerTemp>Yay Temperaturu</AvgSummerTemp>
+	<AvgWinterTemp>Qış Temperaturu</AvgWinterTemp>
+	<Rainfall>Yağıntı səviyyəsi</Rainfall>
+  <SpecialFeatures>Xüsusi özəlliklər</SpecialFeatures>
+  <HasCoast0>şimal sahili</HasCoast0>
+  <HasCoast1>şərq sahili</HasCoast1>
+  <HasCoast2>cənub sahili</HasCoast2>
+  <HasCoast3>qərb sahili</HasCoast3>
+  <HasCaves>mağaralar</HasCaves>
+  <FactionBase>Klan bazası</FactionBase>
+  <StoneTypesHere>Daş tipləri</StoneTypesHere>
+  <TimeZone>Saat qurşağı</TimeZone>
+	<MovementTimeNow>Cari hərəkət vaxtı</MovementTimeNow>
+	<MovementTimeSummer>Yay hərəkət vaxtı</MovementTimeSummer>
+	<MovementTimeWinter>Qış hərəkət vaxtı</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Heyvanlar indi otlaya bilər</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Orta xəstəlik sıxlığı</AverageDiseaseFrequency>
+  <PerYear>ildə</PerYear>
+
+
+	<!--=========== Character chooser ==========-->
+  <CreateCharacters>Personaj yarat</CreateCharacters>
+  <FirstNameDesc>Adı.\n\nBu ancaq bəzi menularda görsənəcək.</FirstNameDesc>
+  <ShortIdentifierDesc>Təxəllüs.\n\nBu hər zaman görsənəcək. Adı, Soyadı və ya tamamilə başqa bir şey ola bilər.</ShortIdentifierDesc>
+  <LastNameDesc>Soyadı.\n\nBu ancaq bəzi menularda görsənəcək.</LastNameDesc>
+  <Randomize>Rastgələ</Randomize>
+  <AgeIndicator>yaş {0}</AgeIndicator>
+  <Backstory>Keçmişi</Backstory>
+  <IncapableOf>Edə bilmir</IncapableOf>
+  <Traits>Xasiyyətləri</Traits>
+  <PermanentMoodEffect>Daimi əhval effekti</PermanentMoodEffect>
+  <Skills>Bacarıqları</Skills>
+  <NoneLower>heç biri</NoneLower>
+  <Adulthood>Yetkinlik çağı</Adulthood>
+  <Childhood>Uşaqlıq çağı</Childhood>
+  <Male>kişi</Male>
+  <Female>qadın</Female>
+  <Pain>Ağrı</Pain>
+  <Health>Sağlıq</Health>
+  <Relations>Münasibətlər</Relations>
+  <TeamSkills>Komanda bacarıqları</TeamSkills>
+  <StartingPawnsSelected>Seçilmişlər</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Arxada qalanlar</StartingPawnsLeftBehind>
+  
+  <!--=========== Misc ==========-->
+  <Start>Başla</Start>
+  <Advanced>Təkmilləşdirilmiş</Advanced>
+  <Next>Növbəti</Next>
+  <Back>Geri</Back>
+  <Gameplay>Oynanış</Gameplay>
+  <ConfirmQuit>Dəqiq çıxılsın? Yaddaşa verilməmiş məlumatları itirəcəksiniz.</ConfirmQuit>
+  <EveryoneNeedsValidName>Hər şəxsin uyğun bir adı olmalıdır.</EveryoneNeedsValidName>
+  <Quit>Çıx</Quit>
+  <Ignore>Fikir vermə</Ignore>
+  
+  <!--============ Progress bar==============-->
+  <GeneratingWorld>Dünya yaradılır</GeneratingWorld>
+  <GeneratingPlanet>Planet yaradılır</GeneratingPlanet>
+  <GeneratingMap>Xəritə yaradılır</GeneratingMap>
+  <GeneratingMapForNewEncounter>Rastlaşmaq üçün xəritə yaradılır</GeneratingMapForNewEncounter>
+
+</LanguageData>

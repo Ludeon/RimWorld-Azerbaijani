@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <FactionGreetingHostile>{0} Ağzına gələni dedi və çıxdı.</FactionGreetingHostile>
+  <FactionGreetingWary>{0} salamlayır {1} və işlərin necə getdiyini soruşur.</FactionGreetingWary>
+  <FactionGreetingWarm>{0} salamlayır {1} və koloniyadakı vəziyyəti soruşur.</FactionGreetingWarm>
+
+  <Disconnect>Əlaqəni kəsdi</Disconnect>
+
+  <!-- gift offer -->
+  <OfferGift>Hədiyyə ver</OfferGift>
+  <NeedSilverLaunchable>{0} göndərmək üçün gümüş lazımdır</NeedSilverLaunchable>
+  <NotEnoughSilver>Lazımı qədər gümüş yoxdur.</NotEnoughSilver>
+  <SilverForGoodwill>{1} iltifat üçün {0} gümüş ver</SilverForGoodwill>
+  <SilverGiftSent>{0} təşəkkür edir.\n\n(Etibarın {1} artdı).</SilverGiftSent>
+
+  <!-- trade caravan request -->
+  <RequestTrader>Ticarət karvanı istə (qiyməti: {0} gümüş)</RequestTrader>
+  <ChooseTraderKind>{0} hansı tipdə bir karvan istədiyini soruşur.</ChooseTraderKind>
+  <TraderSent>{0} sənə karvan yollamağı qəbul etdi. Bir neçə günə gəlib çatacaq.</TraderSent>
+	<WaitTime>Gözlə {0}</WaitTime>
+	
+	
+  <!-- military aid request -->
+  <RequestMilitaryAid>Təcili hərbi yardım istə (qiyməti: {0} etibar).</RequestMilitaryAid>
+  <MilitaryAidConfirmMutualEnemy>{0} sənə yardım etməyəcək çünki düşməni olmayanlarla savaşırsan. Buna sənə hədə-qorxu gələnlərdə daxildir, {1}. Yenədə yardım istəyirsən?</MilitaryAidConfirmMutualEnemy>
+  <CallConfirm>Hə, yenədə çağır.</CallConfirm>
+  <CallCancel>Yox, Boş ver getsin.</CallCancel>
+  <MilitaryAidSent>{0} sənə yardım üçün döyüşçülər göndərəcək.</MilitaryAidSent>
+
+</LanguageData>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterDay>g</LetterDay>
+  <LetterHour>s</LetterHour>
+  <LetterMinute>d</LetterMinute>
+  <LetterSecond>san</LetterSecond>
+  
+  <DaysLower>günlər</DaysLower>
+  <SecondsLower>saniyələr</SecondsLower>
+
+  <SeasonSpring>yaz</SeasonSpring>
+  <SeasonSummer>yay</SeasonSummer>
+  <SeasonFall>payız</SeasonFall>
+  <SeasonWinter>qış</SeasonWinter>
+  <SeasonPermanentSummer>daimi yay</SeasonPermanentSummer>
+  <SeasonPermanentWinter>daimi qış</SeasonPermanentWinter>
+
+  <QuadrumAprimay>Aprel</QuadrumAprimay>
+  <QuadrumJugust>Avqust</QuadrumJugust>
+  <QuadrumSeptober>Sentyabr</QuadrumSeptober>
+  <QuadrumDecembary>Dekabr</QuadrumDecembary>
+  
+  <Born>Anadan olub: {0}</Born>
+  <AgeChronological>Xronoloji yaşı: {0} il, {1} quadrum, {2} gün</AgeChronological>
+  <AgeBiological>Bioloji yaşı: {0} il, {1} quadrum, {2} gün</AgeBiological>
+
+  <!-- Date periods -->
+	<Period1Year>1 il</Period1Year>
+  <PeriodYears>{0} il</PeriodYears>
+  <Period1Quadrum>1 quadrum</Period1Quadrum>
+  <PeriodQuadrums>{0} quadrum</PeriodQuadrums>
+  <Period1Day>1 gün</Period1Day>
+  <PeriodDays>{0} gün</PeriodDays>
+  <Period1Hour>1 saat</Period1Hour>
+  <PeriodHours>{0} saat</PeriodHours>
+
+  <!-- Misc -->
+  <Started>Başladı</Started>
+  <Lasted>Davam etdi</Lasted>
+  <OccurredTimeAgo>{0} öncə baş verdi</OccurredTimeAgo>
+  
+</LanguageData>

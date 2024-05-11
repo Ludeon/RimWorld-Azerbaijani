@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <MainPageCredit>Tynan Sylvester'dan bir koloniya Simulyatoru</MainPageCredit>
+  
+  <Credits_Developers>Developerler</Credits_Developers>
+  <Credit_DirectionVarious>Direction, design, code, art</Credit_DirectionVarious>
+  <Credit_MusicAndSound>Musiqi və Səs</Credit_MusicAndSound>
+  <Credit_Code>Kod</Credit_Code>
+  <Credit_GameArt>Oyun Dizaynı</Credit_GameArt>
+  <Credit_MenuArt>Menyu Dizaynı</Credit_MenuArt>
+  <Credit_AdditionalCode>Əlavə Kod</Credit_AdditionalCode>
+  
+  <Credit_SpecialThanks>Özəl Təşəkkürlər</Credit_SpecialThanks>
+
+
+  <Credits_TitleCommunity>İctimai könüllülər</Credits_TitleCommunity>
+  <Credit_Tester>Tester</Credit_Tester>
+  <Credit_ModDonation>İanəçilər</Credit_ModDonation>
+  <Credit_Moderator>Moderator</Credit_Moderator>
+  <Credit_WikiMaster>Vikipediya İdarəetməsi</Credit_WikiMaster>
+  
+  <Credits_TitleLanguage>{0} Dil</Credits_TitleLanguage>
+  <Credit_Writer>Yazar</Credit_Writer>
+  <Credit_Translator>Tərcüməçi</Credit_Translator>
+  <Credit_OpenSourceLibraries>Açıq qaynaq kitabxanaları</Credit_OpenSourceLibraries>
+  <Credit_NoiseGeneration>Səs Dizaynı</Credit_NoiseGeneration>
+
+  <ThanksForPlaying>Oynadığınız üçün təşəkkürlər!</ThanksForPlaying>
+
+</LanguageData>

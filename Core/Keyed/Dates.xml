@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClockTime>Saat</ClockTime>
+  <ClockDate>Tarix</ClockDate>
+  <ClockYear>İl</ClockYear>
+  <DateReadoutTip>indiyənə qədər keçən gün: {0}\n Cari mövsüm: {2}.</DateReadoutTip>
+
+  <FullDate>{0} ın {1} u, il {2}</FullDate>
+  <DateReadout>{0} ın  {1}, {2}</DateReadout>
+  <SeasonFullDate>{0} ın  {1}</SeasonFullDate>
+  <WholeYear>Bütün İl</WholeYear>
+    
+</LanguageData>

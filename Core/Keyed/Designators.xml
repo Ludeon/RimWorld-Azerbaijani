@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <DesignatorCancel>Ləğv et</DesignatorCancel>
+  <DesignatorCancelDesc>Verilən əmrləri; inşaatı, mədənçiliyi, daşınmaçılığı və digərlərini ləğv et.</DesignatorCancelDesc>
+
+  <DesignatorCutPlants>Bitkiləri kəs</DesignatorCutPlants>
+  <DesignatorCutPlantsDesc>İşarələnən bitkilər kəsilər. Bitki tamamilə yox olacaq.</DesignatorCutPlantsDesc>
+
+  <DesignatorDeconstruct>Sök</DesignatorDeconstruct>
+  <DesignatorDeconstructDesc>Binaları sök və işlənən materialların bir hissəsini geri al.</DesignatorDeconstructDesc>
+
+  <DesignatorUninstall>Qaldır</DesignatorUninstall>
+  <DesignatorUninstallDesc>Satılmaq və ya başqa biryerə yenidən inşa etmək üçün götürün.</DesignatorUninstallDesc>
+
+  <DesignatorHarvest>Biç</DesignatorHarvest>
+  <DesignatorHarvestDesc>İşarələnən bitkilər və ya digər məhsullar biçilər.</DesignatorHarvestDesc>
+
+  <DesignatorHarvestWood>Ağac kəs</DesignatorHarvestWood>
+  <DesignatorHarvestWoodDesc>İşarələnən ağaclar kəsilər.</DesignatorHarvestWoodDesc>
+
+  <DesignatorHaulThings>Daşı</DesignatorHaulThings>
+  <DesignatorHaulThingsDesc>Zibiliyyə aparmaq üçün qaya parçalarını və başqa şeyləri seçin.  Hər zaman daşınabilən olan yemək və cəsətlər üçün lazım deyil.</DesignatorHaulThingsDesc>
+  <MustHaulHaulables>Sadəcə avtomatik olmayan şeyləri daşıya bilərsən(məs: qaya parçaları).</MustHaulHaulables>
+
+  <DesignatorHunt>Ov et</DesignatorHunt>
+  <DesignatorHuntDesc>İşarələnən heyvanlar ovçular tərəfindən ovlanacaq.</DesignatorHuntDesc>
+
+  <DesignatorMine>Mədən qaz</DesignatorMine>
+  <DesignatorMineDesc>Filiz çıxarmaq üçün qayaları seç.</DesignatorMineDesc>
+
+  <DesignatorSmoothFloor>Hamar döşəmə</DesignatorSmoothFloor>
+  <DesignatorSmoothFloorDesc>Nahamar olan əraziləri düzəlt.</DesignatorSmoothFloorDesc>
+
+  <DesignatorPlan>Plan</DesignatorPlan>
+  <DesignatorPlanDesc>Yer planlamasını düzəldin.Bu planlaşdırmaqdan başqa bir iş görmür..</DesignatorPlanDesc>
+
+  <DesignatorPlanRemove>Planları sil</DesignatorPlanRemove>
+  <DesignatorPlanRemoveDesc>Yaratdığın planları sil.</DesignatorPlanRemoveDesc>
+
+  <DesignatorAreaHomeExpand>Ev ərazisini genişləndir</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpandDesc>Kolonistlər sadəcə ev ərazisindəki sökülən binaları düzəldir, yerləri süpürər və çıxan yanğınları söndürər. </DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeClear>Ev ərazisini sil</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClearDesc>Ev ərazisini sil. Kolonistlərin artıq burdakı binaları düzəltməyəcək, yerləri süpürməyəvək və çıxan yanğınları söndürməyəcəklər.</DesignatorAreaHomeClearDesc>
+
+  <DesignatorAreaBuildRoofExpand>Damörtüyü Yarat</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpandDesc>Kolonistlər buraya damörtüyü quracaq.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofClear>Damörtüyünü sil</DesignatorAreaBuildRoofClear>
+  <DesignatorAreaBuildRoofClearDesc>Kolonistlər burdakı damörtüyünü siləcək və bura damörtüyü inşa etməyəcəklər.</DesignatorAreaBuildRoofClearDesc>
+  
+  <DesignatorAreaNoRoofExpand>Damörtüyü olmayan ərazi yarat</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpandDesc>Damörtüyü olmayan ərazi yarat. Seçdiyin ərazidəki damörtükləri uçurulacaq.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofClear>Damörtüyü olmayan ərazini sil</DesignatorAreaNoRoofClear>
+  <DesignatorAreaNoRoofClearDesc>Damörtüyü olmayan ərazini silər.</DesignatorAreaNoRoofClearDesc>
+  
+  <DesignatorAreaSnowClearExpand>Qarlı ərazini təmizlə</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpandDesc>Kolonistlər bu ərazidəki qarları təmizləyərlər.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearClear>Qarları təmizləmə ərazisini ləğv et</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClearDesc>Kolonistlər bu ərazini artıq qardan təmizləməyəcəklər.</DesignatorAreaSnowClearClearDesc>
+
+  <DesignatorExpandAreaAllowed>İcazəli əraziləri genişlət</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowedDesc>İcazə verilən ərazilərə təyin olanan kolonistlər sadəcə burdakı işləri görər və kənara çıxmazlar.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorClearAreaAllowed>İcazəli ərazini sil</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowedDesc>icazə verilən ərazini sil.</DesignatorClearAreaAllowedDesc>
+  <ManageAreas>İcazəli əraziləri idarə et...</ManageAreas>
+  
+  <DesignatorGrowingZoneDesc>Kolonistlərin bitki əkə biləcəkləri bir yer yaradın.(Əgər əkiləcək heç nə seçməsəniz kartof əkəcəklər).</DesignatorGrowingZoneDesc>
+
+  <DesignatorZoneCreateStorageResourcesDesc>Kolonistlərin əşyaları yığa biləcəkləri bir depo yaradır.\nBununla mövcud olan depoları genişlədə bilərsən.</DesignatorZoneCreateStorageResourcesDesc>
+
+  <DesignatorZoneCreateStorageDumpingDesc>Kolonistlərin zibilləri ata biləcəyi bir zibilxana yarat.\nBununla hər hansı bir zibilxananı genişlədə bilərsən.</DesignatorZoneCreateStorageDumpingDesc>
+  
+  <DesignatorRemoveFloor>Döşəməni çıxar</DesignatorRemoveFloor>
+  <DesignatorRemoveFloorDesc>Sonradan düzəldilən döşəmələri çıxar.</DesignatorRemoveFloorDesc>
+
+  <DesignatorZoneDelete>Ərazini sil</DesignatorZoneDelete>
+  <DesignatorZoneDeleteDesc>Depo və əkin sahələrini sil.</DesignatorZoneDeleteDesc>
+  
+  <DesignatorClaim>Mənimsə</DesignatorClaim>
+  <DesignatorClaimDesc>Başqa bir koloniyaya aid və ya heç kimin olmayan əşyanı və bölgəni mənimsəməyə bilərsən. Mənimsənilən yeri sökə və ya təmir edə bilərsən.</DesignatorClaimDesc>
+
+  <DesignatorStrip>Soymaq</DesignatorStrip>
+  <DesignatorStripDesc>Cəsəttləri və ya yaralıları soy.</DesignatorStripDesc>
+
+  <DesignatorRearmTrap>Tələni yeniden qur</DesignatorRearmTrap>
+  <DesignatorRearmTrapDesc>Açılmış tələləri yenidən qur.</DesignatorRearmTrapDesc>
+
+  <DesignatorOpen>Aç</DesignatorOpen>
+  <DesignatorOpenDesc>Bağlı konteynerləri aç.</DesignatorOpenDesc>
+  
+  <DesignatorSlaughter>Heyvanları kəs</DesignatorSlaughter>
+  <DesignatorSlaughterDesc>Əhilləşmiş heyvanı kəs.</DesignatorSlaughterDesc>
+  
+  <DesignatorTame>Əhilləşdir</DesignatorTame>
+  <DesignatorTameDesc>Vəhşi heyvanları əhilləşdir.</DesignatorTameDesc>
+
+  
+  <!-- Failure messages -->
+  <UnchosenStuff>Material seçilmədi.</UnchosenStuff>
+  <TooCloseToMapEdge>Xəritənin kənarına çox yaxın.</TooCloseToMapEdge>
+  <OutOfBounds>Kənarda.</OutOfBounds>
+  <CannotPlaceInUndiscovered>Kəşfedilməyən ərazilərə yerləşdirilməz.</CannotPlaceInUndiscovered>
+  <InteractionSpotBlocked>Qarşılıqlı təsir nöqtəsi {0} tərəfindən bloklanıb.</InteractionSpotBlocked>
+  <InteractionSpotOutOfBounds>Qarşılıqlı təsir nöqtəsindən xaricdə.</InteractionSpotOutOfBounds>
+  <InteractionSpotWillBeBlocked>Qarşılıqlı təsir nöqtəsi{0} tərəfindən bloklanacaq.</InteractionSpotWillBeBlocked>
+  <WouldBlockInteractionSpot>{0}, {1}'in qarşılıqlı təsir nöqtəsini bloklayacaq.</WouldBlockInteractionSpot>
+  <TerrainIsAlready>Buradakı ərazi onsuzda {0}.</TerrainIsAlready>
+  <TerrainBeingSmoothed>Bu ərazi onsuzda hamarlaşdırmaq üçün seçildi.</TerrainBeingSmoothed>
+  <IdenticalThingExists>Onsuzda burda eynisindən var.</IdenticalThingExists>
+  <IdenticalBlueprintExists>Onsuzda burda eyni plan var.</IdenticalBlueprintExists>
+  <TerrainCannotSupport>Ərazi bunu dəstəkləmir.</TerrainCannotSupport>
+  <SpaceAlreadyOccupied>Yer dolu.</SpaceAlreadyOccupied>
+  <TerrainMustBeRemovable>Söküləbilən döşəmə seçilməlidir.</TerrainMustBeRemovable>
+  
+  
+  <!-- Mouse attachments -->
+  <ExpandOrCreateZone>{0} 'ı genişlət yada \n Yeni bir {1} yarat.</ExpandOrCreateZone>
+  <CreateNewZone>Yeni bir {0} yarat.</CreateNewZone>
+
+  
+  <!-- desc helpers -->
+  <TransmitsPower>Elektrik ötürülür</TransmitsPower>
+  <ConstructionNeeded>İnşaat lazımdır</ConstructionNeeded>
+
+
+</LanguageData>

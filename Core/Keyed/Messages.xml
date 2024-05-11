@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MessageSiegersAssaulting>Sieging {0} from {1} are assaulting the colony.</MessageSiegersAssaulting>
+
+  <MessageRaidersBeginningAssault>{0} hücuma başladılar.</MessageRaidersBeginningAssault>
+  <MessageRaidersDetectedEarlyAssault>{0} Səni gördülər və hücuma başladılar.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersKidnapping>{0} bacardıqları qədər əsir götürüb getməyə qərar verdilər.</MessageRaidersKidnapping>
+  <MessageRaidersStealing>{0} əllərinə keçəni oğurlayıb getməyə qərar verdilər.</MessageRaidersStealing>
+
+  <MessageRaidersLeaving>{0} gedirlər.</MessageRaidersLeaving>
+	<MessageRaidersGivenUpLeaving>{0} bezdilər və gedirlər.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersSatisfiedLeaving>{1} verdikləri zərər bəs etdi onlara gedirlər.</MessageRaidersSatisfiedLeaving>
+
+  <MessageFightersFleeing>{1} qaçırlar.</MessageFightersFleeing>
+  <MessageFriendlyFightersLeaving>Sənin dostun {0} gedirlər.</MessageFriendlyFightersLeaving>
+
+  <MessageVisitorsTakingWounded>{0} yaralanmış ziyarətçini aparırlar.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTrappedLeaving>{0} tələyə düşdülər qaçmaq istəyirlər.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsDangerousTemperature>{0} təhlükəli temperatura görə xəritəni tərk edirlər.</MessageVisitorsDangerousTemperature>
+  
+  <MessageWornApparelDeterioratedAway>{0} worn by {1} deteriorated away to nothing.</MessageWornApparelDeterioratedAway>
+  
+  <MessageSeasonBegun>{0} başladı.</MessageSeasonBegun>
+
+  <MessageShipHasLeftCommsRange>{0} əhatə dairəmizdən çıxdı.</MessageShipHasLeftCommsRange>
+	
+	<MessageNeedBeaconToTradeWithShip>Gəmilərlə alış-veriş etmək üçün orbital ticarət mayakı lazımdır.\n\n Mayak elektrik ilə işləyir.</MessageNeedBeaconToTradeWithShip>
+	
+  <MessageBillComplete>Tapşırıq Tamamlandı: {0}.</MessageBillComplete>
+  
+  <MessageFullyHealed>{0} tam sağaldı.</MessageFullyHealed>
+
+  <MessagePrisonerIsEscaping>{0} qaçır.</MessagePrisonerIsEscaping>
+
+  <MessageOutOfNearbyShellsFor>{0} {1} üçün boşda olan mərmi tapa bilmədi.</MessageOutOfNearbyShellsFor>
+
+  <MessageAnimalsGoPsychoHunted>Xəbərdarlıq: {0} zərər versən hücüm edə bilər.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalManhuntsOnTameFailed>Xəbərdarlıq: {0} əhilləşdirən zaman hücüm edə bilər ({1} şans).</MessageAnimalManhuntsOnTameFailed>
+  
+  <LetterLabelMessageRecruitSuccess>Bizə Yeni Qoşulan Var!</LetterLabelMessageRecruitSuccess>
+  <MessageRecruitSuccess>{1} {0} tərəfindən bizə qoşulmağa razı salındı ({2} şans).</MessageRecruitSuccess>
+  <MessageTameSuccess>{1} {0} tərəfindən əhilləşdirildi. ({2} şans).</MessageTameSuccess>
+  <MessageTameAndNameSuccess>{1} {0} tərəfindən əhilləşdirildi. ({2} şans) və [PAWN_objective] {3} adını qoydu.</MessageTameAndNameSuccess>
+
+  <MessageColonyCannotAfford>Koloniya bu şərtləri qarşılaya bilməz.</MessageColonyCannotAfford>
+  <MessageColonyNotEnoughSilver>Ticarət üçün yetəri qədər gümüş yoxdur.</MessageColonyNotEnoughSilver>
+
+  <MessageCriticalAlert>Kritik Xəbərdarlıq: {0}</MessageCriticalAlert>
+
+  <MessageMustDesignateHarvestable>Must designate harvestable sufficiently-grown plants.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestableWood>Must designate wood-yielding, sufficiently-grown plants.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignatePlants>Must designate plants.</MessageMustDesignatePlants>
+  <MessageMustDesignateHaulable>Must designate haulable items. Some items are always haulable and can't be designated.</MessageMustDesignateHaulable>
+  <MessageMustDesignateMineable>Must designate impassable mineable rocks.</MessageMustDesignateMineable>
+  <MessageMustDesignateHuntable>Must designate huntable animals.</MessageMustDesignateHuntable>
+  <MessageMustDesignateTameable>Must designate tameable animals.</MessageMustDesignateTameable>
+  <MessageMustDesignateClaimable>Must designate abandoned artificial structures.</MessageMustDesignateClaimable>
+  <MessageMustDesignateSmoothableFloor>Must designate rough stone terrain.</MessageMustDesignateSmoothableFloor>
+  <MessageNothingCanRemoveThickRoofs>Nothing can remove thick roofs.</MessageNothingCanRemoveThickRoofs>
+  <MessageAlreadyInStorage>This is already in storage and will be moved to high-priority storage as necessary.</MessageAlreadyInStorage>
+  <MessageMustDesignateStrippable>Must designate corpse or downed character with strippable apparel.</MessageMustDesignateStrippable>
+  <MessageMustDesignateSlaughterable>Must designate tame animal that belongs to the colony.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateOpenable>Must designate full graves or containers.</MessageMustDesignateOpenable>
+
+  <MessageRefusedArrest>{0} has refused to be arrested!</MessageRefusedArrest>
+  
+  <MessageNoMedicalBeds>Xəstə yatağı yoxdur.</MessageNoMedicalBeds>
+  <MessageNoAnimalBeds>Boş Heyvan yatağı yoxdur.</MessageNoAnimalBeds>
+  <MessageTooLowMedCare>Operation requires {0} or better, but {1}'s current medical care mode is "{2}".</MessageTooLowMedCare>
+  
+  <PawnDiedBecauseOf>{1} buna görə {0} öldü.</PawnDiedBecauseOf>
+
+  <MessageNoLongerDowned>{0} artıq gəzə bilir.</MessageNoLongerDowned>
+
+  <MessageInvoluntarySleep>{0} has collapsed due to extreme exhaustion.</MessageInvoluntarySleep>
+
+	<MessageMedicalOperationFailureMinor>{0} has failed in a minor way while operating on {1}.</MessageMedicalOperationFailureMinor>
+	<MessageMedicalOperationFailureCatastrophic>{0} has failed catastrophically while operating on {1}.</MessageMedicalOperationFailureCatastrophic>
+	<MessageMedicalOperationFailureRidiculous>{0} has failed in a ridiculous way while operating on {1}.</MessageMedicalOperationFailureRidiculous>
+	<MessageMedicalOperationFailureFatal>{0} has committed a fatal errol while operating on {1} because of the special challenges of: {2}</MessageMedicalOperationFailureFatal>
+
+	<MessageMedicalOperationWillAngerFaction>Bu onu əsəbləşdirə bilər {0}.</MessageMedicalOperationWillAngerFaction>
+
+  <MessagePawnExitMapRelationsGain>{0} xəritədən sağlam şəkildə çıxdığı üçün, {1} ilə olan əlaqələrimiz {2} qalxdı.</MessagePawnExitMapRelationsGain>
+
+  <MessageMiscarriedStarvation>{0} aclıqdan balasın saldı.</MessageMiscarriedStarvation>
+  <MessageMiscarriedPoorHealth>{0} xəstləikdən balasın saldı.</MessageMiscarriedPoorHealth>
+  <MessageGaveBirth>{0} doğdu.</MessageGaveBirth>
+
+  <MessageNuzzledPawnGaveNameTo>{0} has named {1} {2} after being nuzzled.</MessageNuzzledPawnGaveNameTo>
+
+  <MessageNoHandlerSkilledEnough>No handler can tame {0} (requires level {1} in {2}, best handler {3} has {4}).</MessageNoHandlerSkilledEnough>
+  
+  <MessageEatenByPredator>{0} {1} tərəfindən yeyildi.</MessageEatenByPredator>
+  <MessageAttackedByPredator>{0} {1} tərəfindən hücuma məruz qaldı!</MessageAttackedByPredator>
+  
+  <MessageHiveReproduced>A bug hive has reproduced itself.</MessageHiveReproduced>
+  
+  <MessageTraderCaravanLeaving>{0} olan ticarət karvanı gedir.</MessageTraderCaravanLeaving>
+  
+  <MessageCantSelectDeadPawn>{0} öldü.</MessageCantSelectDeadPawn>
+  <MessageCantSelectOffMapPawn>{0} xəritədən kənardadır.</MessageCantSelectOffMapPawn>
+  
+  <MessageSocialFight>{0} və {1} bir-biri ilə {2} buna görə savaşdırlar.</MessageSocialFight>
+  
+  <MessageNewMarriageCeremony>Kolonistlər {0} və {1} evliliklərini qeyd etmək üçün toplanırlar.</MessageNewMarriageCeremony>
+  <MessageMarriageCeremonyStarts>{0} və {1} toy məclisinə başlayırlar!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyCalledOff>{0} və {1} toylarını təxirə saldılar.</MessageMarriageCeremonyCalledOff>
+  <MessageNewlyMarried>{0} və {1} evləndilər. Kolonistlər bunu qeyd edirlər.</MessageNewlyMarried>
+  <MessageMarriageCeremonyAfterPartyFinished>{0} və {1} toyları məclisləri sona çatdı.</MessageMarriageCeremonyAfterPartyFinished>
+  
+  <MessageNewBondRelation>{0} and {1} have formed a bond.</MessageNewBondRelation>
+  <MessageNewBondRelationNewName>{0} and {1} have formed a bond. {0} has named [PAWN_objective] {2}.</MessageNewBondRelationNewName>
+  
+  <MessageBondedAnimalMentalBreak>{0} has a mental break because of {1}'s death.</MessageBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>{0} named {1} has a mental break because of {2}'s death.</MessageNamedBondedAnimalMentalBreak>
+  <MessageBondedAnimalsMentalBreak>{0} animals have a mental break because of {1}'s death.</MessageBondedAnimalsMentalBreak>
+  
+  <MessageSuccessfullyRemovedHediff>{0} has successfully removed {1}'s {2}.</MessageSuccessfullyRemovedHediff>
+  
+  <MessageShipChunkDrop>A chunk of a spacecraft has fallen from space and landed nearby.</MessageShipChunkDrop>
+  
+  <MessagePartyCalledOff>Parti təxirə salındı.</MessagePartyCalledOff>
+  <MessagePartyFinished>Party sona çatdı.</MessagePartyFinished>
+
+  <MessageCannotSellItemsReason>Bəzi əşyalar alver üçün istifadə edilə bilməz, SƏBƏB: </MessageCannotSellItemsReason>
+
+  <MessageConstructionFailed>{1} {0} düzəldə bilmədi. Qaynaqlarımızı boş-boşuna heyif etdi.</MessageConstructionFailed>
+
+  <MessageScreenshotSavedAs>Screenshot yaddaşa verildi: {0}</MessageScreenshotSavedAs>
+  
+  <MessageNoLongerSocialFighting>{0} və {1} bir-biri ilə artıq savaşmırlar.</MessageNoLongerSocialFighting>
+  
+  <MessageNoLongerBingingOnDrug>{0} is no longer binging on {1}.</MessageNoLongerBingingOnDrug>
+
+  <MessageNoLongerOnTargetedInsultingSpree>{0} is no longer on an insulting spree against {1}.</MessageNoLongerOnTargetedInsultingSpree>
+
+  <MessageRottedAwayInStorage>{0} anbarda çürüdü.</MessageRottedAwayInStorage>
+  
+  <MessageFoodPoisoning>{0} bu yeməkdən zəhərləndi: {1}.</MessageFoodPoisoning>
+  
+  <MessageFailedToSendCaravanBecausePawnLost>Failed to send the caravan because one of the colonists, prisoners or animals has been lost.</MessageFailedToSendCaravanBecausePawnLost>
+  <MessageCaravanFormationPaused>The caravan formation process will continue when everyone recovers from a mental break.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationUnpaused>Your colonists will now continue forming a caravan.</MessageCaravanFormationUnpaused>
+  
+  <MessageCaravanMemberHasExtremeMentalBreak>One of the caravan members has a mental break.</MessageCaravanMemberHasExtremeMentalBreak>
+  
+  <MessageMaxPlanetCoveragePerformanceWarning>Warning: It can take a very long time to generate an entire planet.</MessageMaxPlanetCoveragePerformanceWarning>
+
+	<MessagePlantDiedOfCold>{0} soyuqdan məhv oldu.</MessagePlantDiedOfCold>
+	<MessagePlantDiedOfRot_LeftUnharvested>{0} biçilmədiyi üçün qala-qala çürüyüb xarab oldu.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_ExposedToLight>{0} işıqa məruz qaldığından məhv oldu.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot>{0} çürüməyə görə məhv oldu.</MessagePlantDiedOfRot>
+	<MessagePlantDiedOfPoison>{0} zəhərdən məhv oldu.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfBlight>{0} zərəvericilər üçündən məhv oldu.</MessagePlantDiedOfBlight>
+
+	<MessagePawnBeingBurned>{0} çox isti havadan yandı!</MessagePawnBeingBurned>
+
+	<MessageAccidentalOverdose>{0} has accidentally overdosed while consuming {1}!</MessageAccidentalOverdose>
+  
+  <MessageCaravanArrivedAtDestination>{0} məntəqəyə çatdı.</MessageCaravanArrivedAtDestination>
+  
+  <MessageCaravanIsVisitingSettlement>{0} çatdı: {1}.</MessageCaravanIsVisitingSettlement>
+  
+  <MessageCaravanEnteredWorldObject>{0} çatdı: {1}.</MessageCaravanEnteredWorldObject>
+  
+  <MessagePawnLeftMapAndCreatedCaravan>{0} has left the area and formed a caravan.</MessagePawnLeftMapAndCreatedCaravan>
+  
+  <MessageSettledInExistingMap>Yeni əraziyə uğurla yerləşdin.</MessageSettledInExistingMap>
+	
+  <MessageAmbushVictory>Victory! In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageAmbushVictory>
+  
+  <MessageAutomaticallyReformedCaravan>kolonistlərin karvanı yenidən hazırlayacaq.</MessageAutomaticallyReformedCaravan>
+
+	<MessageOldWoundHealed>Buna görə {0}, {1} bunun {2} sağaldı.</MessageOldWoundHealed>
+
+	<MessageRescueeJoined>Since you rescued [PAWN_objective], {0} has joined your group!</MessageRescueeJoined>
+  
+  <MessageAttackedCaravanIsNowHostile>Because you attacked a caravan of {0}, this faction is now hostile to you.</MessageAttackedCaravanIsNowHostile>
+  <MessageFactionPawnCrushed>{0} lost people to a roof collapse. Faction relation: {1}</MessageFactionPawnCrushed>
+  <MessageFactionPawnLost>{0} has lost {1}. Faction relation: {2}</MessageFactionPawnLost>
+  
+  <MessageTransporterUnreachable>Some transport pods are unreachable.</MessageTransporterUnreachable>
+  <MessageTransportersNotAdjacent>All pod launchers connected to the selected transport pods must be adjacent.</MessageTransportersNotAdjacent>
+  
+  <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport pods has been destroyed.</MessageTransportersLoadCanceled_TransporterDestroyed>
+	<MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>The loading process has been canceled because one of the pod launchers has been destroyed.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  
+  <MessageTransportersLoadingProcessStarted>Your colonists will now load the assigned items into the transport pods.</MessageTransportersLoadingProcessStarted>
+  
+  <MessageTransportPodsArrived>Your transport pods have arrived.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrivedAndLost>Your transport pods have arrived, but since there were no colonists inside, the contents are lost.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Your transport pods have arrived. The contents have been added to your caravan.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrived_BecameHostile>{0} is now hostile to you.</MessageTransportPodsArrived_BecameHostile>
+  
+  <MessageFailedToLoadTransportersBecauseColonistLost>The loading process has been canceled because one of the colonists has been lost.</MessageFailedToLoadTransportersBecauseColonistLost>
+  
+  <MessageFinishedLoadingTransporters>Your colonists have finished loading the transport pods.</MessageFinishedLoadingTransporters>
+  
+  <MessageTransportPodsDestinationIsInvalid>Selected destination is invalid.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsTooFar>Each pod launcher would need at least {0}x chemfuel to send transport pods that far.</MessageTransportPodsDestinationIsTooFar>
+  
+  <MessageReformedCaravan>Karvan hazırlanacaq.</MessageReformedCaravan>
+  
+  <MessageCantBanishLastColonist>You can't banish the last colonist.</MessageCantBanishLastColonist>
+  
+  <MessageCantEquipIncapableOfViolence>Götürə bilməz: {0} şiddətə qarşıdır.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfManipulation>Götürə bilməz: bacarmır.</MessageCantEquipIncapableOfManipulation>
+  
+  <MessageSlaughteringBondedAnimal>Because they are bonded, slaughtering {0} will make {1} unhappy.</MessageSlaughteringBondedAnimal>
+  
+  <MessageCaravanRunOutOfFood>{0} yeməksiz qaldı ({1}).</MessageCaravanRunOutOfFood>
+
+	<MessageSelectOwnBaseToFormCaravan>To form a caravan, select your own colony or a site where you have people.</MessageSelectOwnBaseToFormCaravan>
+
+	<MessageScreenResTooSmallForUIScale>At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution.</MessageScreenResTooSmallForUIScale>
+	
+	<MessageYouHaveToReformCaravanNow>You have to reform the caravan now. Everyone left behind will be abandoned.</MessageYouHaveToReformCaravanNow>
+	
+  <MessageDefendersAttacking>{0} from {1} are attacking your {2}.</MessageDefendersAttacking>
+
+  <MessageSelfTendUnsatisfied>To self-tend, {0} must also be assigned to Doctor work.</MessageSelfTendUnsatisfied>
+	<MessageCannotSelfTendEver>{0} is incapable of doing Doctor work, and so cannot ever self-tend.</MessageCannotSelfTendEver>
+	
+  <MessageCantAddWaypointBecauseImpassable>This tile is impassable.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseUnreachable>It's not possible to reach this tile from the last waypoint.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseLimit>You can't add more than {0} waypoints.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantRemoveWaypointBecauseFirst>You can't remove this waypoint.</MessageCantRemoveWaypointBecauseFirst>
+  
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>None of your wardens is capable of violence. The execution won't be performed.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  
+  <MessageSiteCountdownBecauseNoMoreEnemies>You have defeated all enemies. In {0}, the caravan will automatically be reformed.</MessageSiteCountdownBecauseNoMoreEnemies>
+  <MessageSiteCountdownBecauseNoEnemiesInitially>In {0}, the caravan will automatically be reformed. You can reform the caravan now in the World screen.</MessageSiteCountdownBecauseNoEnemiesInitially>
+
+  <MessageCantBanishDownedPawn>Cannot banish {0} since [PAWN_pronoun] cannot walk.</MessageCantBanishDownedPawn>
+
+  <MessageSleepingPawnsWokenUp>{0} have woken up.</MessageSleepingPawnsWokenUp>
+
+  <MessageCompSpawnerSpawnedItem>Item produced: {0}.</MessageCompSpawnerSpawnedItem>
+
+  <MessageHediffCuredByItem>Health condition healed: {0}.</MessageHediffCuredByItem>
+  <MessageBodyPartCuredByItem>Body part restored: {0}.</MessageBodyPartCuredByItem>
+  <MessageResearchProjectFinishedByItem>Technology given: {0}.</MessageResearchProjectFinishedByItem>
+
+  <MessagePawnResurrected>{0} has been brought back to life!</MessagePawnResurrected>
+
+  <MessageFailedToRescueRelative>You have failed to rescue {0}. This will make {1} sad.</MessageFailedToRescueRelative>
+  <MessageRescuedRelative>You have rescued {0}. This will make {1} happy.</MessageRescuedRelative>
+
+  <MessagePrisonerRescued>You have rescued [PAWN_nameDef] and [PAWN_pronoun] has joined your colony.</MessagePrisonerRescued>
+
+  <MessageTornadoLeftMap>The tornado has left the map.</MessageTornadoLeftMap>
+  <MessageTornadoDissipated>The tornado has dissipated.</MessageTornadoDissipated>
+
+  <MessagePeaceTalksNoDiplomat>No conscious, capable diplomat.</MessagePeaceTalksNoDiplomat>
+
+  <MessageWarningCavePlantsExposedToLight>Warning: {0} cannot live when exposed to light.</MessageWarningCavePlantsExposedToLight>
+
+  <MessageTargetedTantrumChangedTarget>{0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}.</MessageTargetedTantrumChangedTarget>
+
+  <MessageTargetedInsultingSpreeChangedTarget>{0} couldn't reach {1} so [PAWN_pronoun] decided to redirect [PAWN_possessive] anger at {2}.</MessageTargetedInsultingSpreeChangedTarget>
+
+</LanguageData>

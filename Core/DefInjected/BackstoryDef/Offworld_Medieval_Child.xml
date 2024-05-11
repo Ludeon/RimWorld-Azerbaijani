@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: The child of an illicit affair, [PAWN_nameDef] was bought up by nuns in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical. -->
+  <ConventChild16.baseDesc>Qeyri-məşru bir əlaqənin uşağı olaraq [PAWN_nameDef], bir orta əsrlər monastırında rahibələr tərəfindən böyüdülmüşdür. [PAWN_pronoun], çox işləməyin və itaətin dəyərini öyrəndi, yenə də ona texnologiyaların bidət olduğunu dedilər.</ConventChild16.baseDesc>
+  <!-- EN: convent child -->
+  <ConventChild16.title>monastır uşağı</ConventChild16.title>
+  <!-- EN: illicit -->
+  <ConventChild16.titleShort>qeyri-məşru</ConventChild16.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of stone, served by bowing lowerclassmen.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
+  <MedievalLordling19.baseDesc>[PAWN_nameDef], orta əsrlər dünyasındakı köhnə bir krallıqda kiçik bir zadəgan idi. [PAWN_pronoun], daşdan tikilmiş malikanədə böyüdü, aşağı sinif insanları, ona xidmət edirdi.\n\nBelə yaşam, heç bir texniki bacarıq öyrətmir və əl əməyinə qarşı ömür boyu sürəcək istəksizlik aşılayır - lakin [PAWN_nameDef], sosial manipulyasiya yollarını erkən öyrənib.</MedievalLordling19.baseDesc>
+  <!-- EN: medieval lordling -->
+  <MedievalLordling19.title>orta əsrlərdə kiçik zadəgan</MedievalLordling19.title>
+  <!-- EN: medieval lady -->
+  <MedievalLordling19.titleFemale>orta əsrlər ledisi</MedievalLordling19.titleFemale>
+  <!-- EN: lordling -->
+  <MedievalLordling19.titleShort>kiçik zadəgan</MedievalLordling19.titleShort>
+  <!-- EN: lady -->
+  <MedievalLordling19.titleShortFemale>ledi</MedievalLordling19.titleShortFemale>
+  
+  <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
+  <MedievalSlave49.baseDesc>[PAWN_nameDef], orta əsrlər dünyasında at arabası çəkərək və çuxur qazaraq böyümüşdür. Sadə əl əməyi və əfəndisinin qamçısı, onun ən köhnə yoldaşları oldu.\n\n[PAWN_pronoun], doqquz yaşınadək oxumağı öyrənmədi.</MedievalSlave49.baseDesc>
+  <!-- EN: medieval slave -->
+  <MedievalSlave49.title>orta əsrlər köləsi</MedievalSlave49.title>
+  <!-- EN: slave -->
+  <MedievalSlave49.titleShort>kölə</MedievalSlave49.titleShort>
+  
+</LanguageData>

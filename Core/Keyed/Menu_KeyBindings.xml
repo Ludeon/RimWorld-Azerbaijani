@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SaveButton>Yaddaşa Ver</SaveButton>
+  <!--<CancelButton>Cancel</CancelButton>-->
+  <ClearBinding>Təmizlə</ClearBinding>
+  <ResetBinding>Sıfırla</ResetBinding>
+  <BindingButtonToolTip>Ayarlamaq üçün Sol düyməni və ya seçimlər üçün sağ düyməni basın</BindingButtonToolTip>
+  <PressAnyKeyOrEsc>Hər hansı bir düyməni basın və ya ESC ilə ləğv edin...</PressAnyKeyOrEsc>
+  <KeyBindingOverwritten>Key binding overwritten: {0}</KeyBindingOverwritten>
+  
+</LanguageData>

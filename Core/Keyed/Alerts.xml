@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ClickToJumpToProblem>Problemə getmək üçün tıkla.</ClickToJumpToProblem>
+
+  <BreakRiskMinor>Kiçik böhran riski</BreakRiskMinor>
+  <BreakRiskMajor>Böyük böhran riski</BreakRiskMajor>
+  <BreakRiskExtreme>Son dərəcə böhran riski</BreakRiskExtreme>
+  <BreakRiskMinorDesc>Bu kolonistlərin kefi yoxdur. Hər an kiçik böhran keçirə bilərlər:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMajorDesc>Bu kolonistlərdə vəziyyət xarabdı. Hər an böyük böhran keçirə bilərlər:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskExtremeDesc>Bu kolonistlərdə vəziyyət həddən artıq xarabdı və hər an dəli ola bilərlər (böyük ehtimalla qabaqlarına nı keçsə dağıdacaqlar):\n\n{0}</BreakRiskExtremeDesc>
+  <BreakRiskDescEnding>Bu kolonistlərin nəyə üzüldüyünə baxmaq üçün ehtiyaclar hissəsinə keç..\n\n Kolonistlərin özlərini daha yaxşı hiss etməsi üçün, onlara dadlı yeməklər, əyləncə vasitələri, qəşəng otaqlar, siqaret və içki təşkil edə bilərsən.</BreakRiskDescEnding>
+
+  <ColonistNeedsRescue>kolonisti qurtarmaq lazımdır</ColonistNeedsRescue>
+  <ColonistsNeedRescue>kolonistlərin qurtarılması lazımdır</ColonistsNeedRescue>
+  <ColonistsNeedRescueDesc>kolonist, hərəkət edə bilmir:\n\n{0}\nOnu qurtarıb, yatağa aparması üçün başqa bir adam yolla.\n\n(Qurtarmaq üçünç başqa bir kolonisti seçib yardıma ehtiyacı olanın üzərində sağ düyməni vurub "Qurtar" Seç.).</ColonistsNeedRescueDesc>
+
+  <NeedDefenses>Müdafiə lazımdır</NeedDefenses>
+  <NeedDefensesDesc>Xeyli vaxtdı burdasan və yüz faiz kimsə səni görüb. Piratlar harda olsa gələcəklər.\n\nMüdafiə yaratmalısan.\n\nTələ, Qum Torbaları və ya Qüllələr tikə bilərsən.</NeedDefensesDesc>
+
+  <NeedDoctor>Həkim lazımdır</NeedDoctor>
+  <NeedDoctorDesc>Bəzi kolonistlərə tibbi yardım lazımdır, ancaq həkim olaraq işləyə biləcək kolonist seçməmisən.\n\n{0}\nNormal bir kolonisti Həkim olaraq ayarla. Əgər müalicə olmasalar yaraları ömürlük qalacaq.</NeedDoctorDesc>
+
+  <NeedMiner>Mədənçi lazımdır</NeedMiner>
+  <NeedMinerDesc>Bəzi qayaların qazılması üçün əmir verdin, amma mədənçi olaraq işləyəcək adam yoxdur.\n\nBir kolonisti mədənçi elə..</NeedMinerDesc>
+
+  <NeedWarden>Türmə rəisi lazımdır</NeedWarden>
+  <NeedWardenDesc>Bir dustağın var, ancaq türmə rəisi olaraq təyin olunmuş kolonist yoxdur.\n\nBir kolonisti türmə rəisi elə.</NeedWardenDesc>
+
+  <LowFood>Yemək Azdır</LowFood>
+  <LowFoodDesc>Anbarda sadəcə {0} dənə yemək var. Bu dəhşətli dərəcədə azdır.\n\nƏkib-Becərə, satın ala, ovlana və ya bir yerlərdən tapa bilərsən.</LowFoodDesc>
+
+  <LowMedicine>Dərman azdır</LowMedicine>
+  <LowMedicineDesc>Anbarda sadcəcə {0} dərman var.\n\nAlverçilərdən dərman al.</LowMedicineDesc>
+  <NoMedicineDesc>Anbarda dərman qalmayıb.\n\nAlverçilərdən çoxlu dərman al.</NoMedicineDesc>
+
+  <NeedColonistBeds>kolonist yatağı lazımdır</NeedColonistBeds>
+  <NeedColonistBedsDesc>kolonistlərin sayı yataqlardan çoxdur. Bəzilərinin yatmağa yeri yoxdur.\n\n Ya çoxlu yataq düzəlt ya da dustaqların yatağını kolonistlətinə ver. Əgər heç bir resursun yoxdursa yataq spotlarını işlət.</NeedColonistBedsDesc>
+
+  <HunterLacksWeapon>Ovçunun silahı yoxdur</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Kolonisti ovçu olaraq təyin eləmisən amma silahı yoxdur. Uzaq mənzilli Silahı olmayana qədər ov etməyəcək.</HunterLacksWeaponDesc>
+
+  <AlertTatteredApparel>Cırıq Paltar</AlertTatteredApparel>
+  <AlertTatteredApparelDesc>Bu kolonistlərin paltarları cırılıb, və bu onların kefin pozur:\n\n{0}\n
+  Onlara qəşəng paltarlar tap.\n\nPaltarları Dərzi stolunda hazılaya bilər və ya alverçilərdən ala bilərsən.</AlertTatteredApparelDesc>
+
+  <AlertUnhappyNudity>Çılpaqlıqdan narazıdır</AlertUnhappyNudity>
+  <AlertUnhappyNudityDesc>Bu kolonistlər çılpaqdırlar və bundan narazıdırlar:\n\n{0}\nOnlara paltar tap ver.\n\nPaltarları Dərzi stolunda hazılaya bilər və ya alverçilərdən ala bilərsən.</AlertUnhappyNudityDesc>
+
+  <Starvation>Aclıq</Starvation>
+  <StarvationDesc>Kolonistlərin acıblar:\n\n{0}\nOnlara biraz yemək tap.</StarvationDesc>
+
+  <StarvationAnimals>Heyvan Aclığı</StarvationAnimals>
+  <StarvationAnimalsDesc>Heyvanların acıblar:\n\n{0}\nOnlara biraz yemək tap.</StarvationAnimalsDesc>
+
+  <Exhaustion>Yorğunluq</Exhaustion>
+  <ExhaustionDesc>Bəzi kolonistlər yorğundurlar.:\n\n{0}\nOnlara bir az istirahət ver. Kolonist istifadəsi üçün işarələnmiş yataqlara ehtiyacları var. Ayrıca səfərbərlik rejimindən olmdıqlarından əmin ol.</ExhaustionDesc>
+
+  <NeedFoodHopper>Qida bunkeri lazımdır</NeedFoodHopper>
+  <NeedFoodHopperDesc>Yanında bunkeri olmayan qida dispanseri var.\n\nDispanserin işləməsi üçün ona bitişik xam maddələri götürə biləcəyi bunker lazımdır.\n\nDispanserin yanında bunker düzəlt.</NeedFoodHopperDesc>
+
+  <NeedMealSource>Yemek qaynağı lazımdır</NeedMealSource>
+  <NeedMealSourceDesc>Çiy qidalardan yemək hazırlamaq üçün soba, ocaq və ya qida dispanseri düzəlt. Türməyə düzəltsən kolonistlərin onu istifadə edə bilməyəcək.</NeedMealSourceDesc>
+
+  <NeedJoySource>Əyləncə qaynağı lazımdır</NeedJoySource>
+  <NeedJoySourceDesc>Kolonistlərin əyləncəyə ehtiyacları vardır ancaq heç bir əyləncə yerləri düzəltməmisən.\n\n Onlara şahmat,nal atma yada başqa əyləncə yerləri düzəlt.</NeedJoySourceDesc>
+
+  <NeedBatteries>Batareya lazımdır</NeedBatteries>
+  <NeedBatteriesDesc>Günəş enerjisi panellərin var amma elektriki saxlamağa batareyan yoxdur. Yəni axşam olandan elektriklər kəsiləcək.\n\n Axşam elektriksiz qalmamamaq üçün bir neçədə batereya yarat.</NeedBatteriesDesc>
+
+  <BrawlerHasRangedWeapon>Davakarın uzaq mənzilli silahı var</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeaponDesc>Kolonistlərindən biri davakardır(yaxın döyüşçüdür) amma uzaq mənzilli silahı var. Bu onun kefini çox qaçırır.</BrawlerHasRangedWeaponDesc>
+
+  <ShieldUserHasRangedWeapon>Qalxan işlədənin uzaq mənzilli silahı vardır</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeaponDesc>Kolonistlərdən birinin şəxsi qalxanı vardır və  uzaq mənzilli silah daşıyır. Qalxanın arxasından o silahla atəş eliyə bilməz. (Ona toxunan hədəflər xaric).</ShieldUserHasRangedWeaponDesc>
+
+  <NeedResearchProject>Araşdırma projesi lazımdır</NeedResearchProject>
+  <NeedResearchProjectDesc>Araşdırma üçün hər şeyin var amma heç bir proje seçməmisən.\n\nAraşdırma menyusunu aç və bir proje seç.</NeedResearchProjectDesc>
+
+  <ColonistsIdle>{0} kolonist bekardır</ColonistsIdle>
+  <ColonistsIdleDesc>Kolonistlərin boş boş gəzirlər:\n\n{0}\nOnlara görə biləcəkləri bir iş tap.</ColonistsIdleDesc>
+
+  <ColonistNeedsTreatment>kolonistin müalicəyə ehtiyacı var</ColonistNeedsTreatment>
+  <ColonistNeedsTreatmentDesc>Bu kolonistin tibbi yardıma ehtiyacı var. Əgər müalicə olmasalar ya öləcəklər ya da yaraları ömürlük qalacaq.:\n\n{0}\nOnları tibbi bir yatağa göndərərək müalicə et.\n\n(Öncə bir yatağı seç və onu tibbi yatağa çevir. Sonra yaralı kolonisti seç və tibbi yatağın üzərinə sağ tıklayaraq onları bir xəstəyə çevir qoy sağalsınlar.)</ColonistNeedsTreatmentDesc>
+
+  <AlertHypothermia>Hipotermi</AlertHypothermia>
+  <AlertHypothermiaDesc>Bu kolonistler hipotermidən əzab çəkir.\n\n{0}\n
+Paltarlarının mövsümə uyğun olduğundan və otaqların yaxşı bir şəkildə isidildiyindən əmin ol.</AlertHypothermiaDesc>
+
+  <PatientsAwaitingMedicalOperation>{0} kolonist cərrahi əməliyyatı gözləyir</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperationDesc>Bu kolonistlər cərrahi əməliyyatı gözləyir:\n\n{0}\n
+  Əməliyyat üçün lazım olan bütün tibbi alətləri və yaxşı bir həkimin olduğundan əmin ol.</PatientsAwaitingMedicalOperationDesc>
+
+  <FireInHomeArea>Yanğın!</FireInHomeArea>
+  <FireInHomeAreaDesc>Evdə yanğın var.</FireInHomeAreaDesc>
+
+  <PawnsWithLifeThreateningDisease>Ağır Xəstəlik</PawnsWithLifeThreateningDisease>
+  <PawnsWithLifeThreateningDiseaseDesc>İnsanların ağır xəstəlik üzündən ölüm təhlükləri var:\n\n{0}\n  Mümkun olan ən yaxşı şəkildə müalicə aldıqlarından əmin ol.</PawnsWithLifeThreateningDiseaseDesc>
+  <PawnsWithLifeThreateningDiseaseAmputationDesc>İnsanların ağır xəstəlik üzündən ölüm təhlükləri var:\n\n{0}\n İmkan varsa kolonistlərin ölməməsi üçün infeksiya düşmüş orqanlarını kəsməyi və dəyişdirməyi yoxla.</PawnsWithLifeThreateningDiseaseAmputationDesc>
+
+  <BilliardsNeedsSpace>Bilyard üçün yer lazımdır</BilliardsNeedsSpace>
+  <BilliardsNeedsSpaceDesc>Bilyardlardan birinin yanında nəsə var və kolonistlər oyunya bilmirlər.\n\n  Bilyard oynaya bilmələri üçün dörd bir yanından da boş yerin olduğundan əmin ol.</BilliardsNeedsSpaceDesc>
+
+  <HunterHasShieldAndRangedWeapon>Ovçunun qalxanı və uzun mənzilli silahı var</HunterHasShieldAndRangedWeapon>
+  <HunterHasShieldAndRangedWeaponDesc>  Ovçulardan biri uzaq mənzilli silah daşıyır və atəş açamağa mane olan qalxanı var.\n\nQalxanı çıxarmadıqca ov edə bilməyəcək.</HunterHasShieldAndRangedWeaponDesc>
+
+  <NeedWarmClothes>İsti Paltar lazımdır</NeedWarmClothes>
+  <NeedWarmClothesDesc1>Soyuqlar düşdüyündən, en az {0} kolonistin isti palatara ehtiyacları olacaq.</NeedWarmClothesDesc1>
+  <NeedWarmClothesDesc1All>Soyuqlar düşəndə bütün kolonistlərin isti paltarlara ehtiyacları olacaq.</NeedWarmClothesDesc1All>
+  <NeedWarmClothesDesc2>Bayırda istilik {0} dərəcə olacaq.\n\n Dərzi masasında paltar tikə və ya alverçilərdən ala bilərsən.</NeedWarmClothesDesc2>
+
+  <ImmobileCaravan>Karvan hərəkət etmir</ImmobileCaravan>
+  <ImmobileCaravanDesc>Karvanlarından bir dənəsində həddən artıq yük olduğundan hərəkət edə bilmir.\n\n Bəzi şeyləri çıxardaraq karvanı yenidən hərəkət elətdirə bilərsən.</ImmobileCaravanDesc>
+
+
+</LanguageData>

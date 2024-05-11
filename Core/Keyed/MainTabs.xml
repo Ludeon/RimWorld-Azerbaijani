@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Work tab -->
+  <ManualPriorities>Fərdi prioritetlər</ManualPriorities>
+  <HigherPriority>Yüksək prioritet</HigherPriority>
+  <LowerPriority>Aşağı Prioritet</LowerPriority>
+  <RelevantSkills>Əlaqəli bacarıqlar: {0}\nƏlaqəli bacarıqların ortalaması: {1} / {2}</RelevantSkills>
+  <ClickToJumpTo>Getmək üçün klikləyin:</ClickToJumpTo>
+  <CannotDoThisWork>{0} bucür işləri görə bilmir.</CannotDoThisWork>
+  <NoneBrackets>(heç biri)</NoneBrackets>
+  <IncapableOfWorkTypeBecauseOfCapacities>Sağlamlığına görə bucür işlərin heç birini görə bilməz.</IncapableOfWorkTypeBecauseOfCapacities>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
+  <SelectedWorkTypeWithVeryBadSkill>Xəbərdarlıq: əlaqəli bacarıqların ortalaması çox aşağıdır.</SelectedWorkTypeWithVeryBadSkill>
+  
+  <!-- Assign tab -->
+  <ManageOutfits>Geyim idarəetməsi</ManageOutfits>
+  <ClearForcedApparel>Məcburini sil</ClearForcedApparel>
+  <ApparelForcedLower>məcburi</ApparelForcedLower>
+  <ForcedApparel>Məcburi geydirilmiş</ForcedApparel>
+  <AssignTabEdit>Redaktə et...</AssignTabEdit>
+  <ManageDrugPolicies>Narkotiklərin idarəsi</ManageDrugPolicies>
+  
+  <!-- Restrictions tab -->
+  <Copy>Kopyala</Copy>
+  <Paste>Yapışdır</Paste>
+  <AllowedArea>İcazəli ərazi</AllowedArea>
+  
+  <!-- Animals tab -->
+  <Master>Sahib</Master>
+  <PregnantIconDesc>Hamilə ({0} / {1})</PregnantIconDesc>
+	
+  <!-- Factions tab -->
+  <Hostile>Əsir</Hostile>
+  <DefeatedLower>məğlub edilmiş</DefeatedLower>
+  <HostileTo>{0}-in düşməni</HostileTo>
+  <CurrentGoodwill>Bu klanla hazırkı yaxşı münasibətlər.</CurrentGoodwill>
+  
+	<!-- Social tab -->
+	<Friend>Dost</Friend>
+	<Rival>Rəqib</Rival>
+	<Acquaintance>Tanışlıq</Acquaintance>
+	
+  <!-- History tab - subtabs -->
+  <Graph>Qrafik</Graph>
+  <Statistics>Statistikalar</Statistics>
+  
+  <!-- History tab - Graphs -->
+  <SelectGraph>Qrafik Seç</SelectGraph>
+  <Last30Days>Son 30 gün</Last30Days>
+  <Last100Days>Son 100 gün</Last100Days>
+  <Last300Days>Son 300 gün</Last300Days>
+  <AllDays>Hamısı</AllDays>
+  <Day>Gün</Day>
+  <Value>Dəyər</Value>
+  <External>Xarici</External>
+
+  <!-- History tab - Statistics -->
+  <Playtime>Oyun zamanı</Playtime>
+  <Storyteller>Hekayə danışan</Storyteller>
+  <ThisMapColonyWealthTotal>Koloniya dəyəri (bu xəritə)</ThisMapColonyWealthTotal>
+  <ThisMapColonyWealthItems>Koloniya dəyəri (əşyalar) (bu xəritə)</ThisMapColonyWealthItems>
+  <ThisMapColonyWealthBuildings>Koloniya dəyəri (tikililər) (bu xəritə)</ThisMapColonyWealthBuildings>
+  <NumThreatBigs>Əsas təhlükələr</NumThreatBigs>
+  <NumEnemyRaids>Düşmən basqınları</NumEnemyRaids>
+  <ThisMapDamageTaken>Dəymiş zərər (bu xəritə)</ThisMapDamageTaken>
+  <ColonistsKilled>Ölmüş Kolonistlər</ColonistsKilled>
+  <ColonistsLaunched>Kosmosa gedən Kolonistlər</ColonistsLaunched>
+
+  <!-- Research tab -->
+  <ProjectTechLevel>layihə texnoloji səviyyəsi</ProjectTechLevel>
+  <YourTechLevel>sənin texnoloji səviyyən</YourTechLevel>
+  <ResearchCostMultiplier>başa gəlmək(dəyər) əmsalı</ResearchCostMultiplier>
+  <ResearchCostComparison>Layihənin əsas dəyəri {0} sənə texnoloji səviyyənə görə {1} olacaq.</ResearchCostComparison>
+  
+</LanguageData>

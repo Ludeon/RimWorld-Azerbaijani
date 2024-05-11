@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <StatsReport_BaseValue>Baza dəyəri</StatsReport_BaseValue>
+  <StatsReport_RelevantTraits>Əlaqəli özəlliklər</StatsReport_RelevantTraits>
+  <StatsReport_RelevantGear>Əlaqəli mexanizm</StatsReport_RelevantGear>
+  <StatsReport_RelevantHediffs>Uyğun sağlamlıq şərtləri</StatsReport_RelevantHediffs>
+  <StatsReport_LifeStage>Həyat dövrü</StatsReport_LifeStage>
+  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_CharacterQuality>Xarakter keyfiyyəti</StatsReport_CharacterQuality>
+  <StatsReport_Skills>Bacarıqlar</StatsReport_Skills>
+  <StatsReport_OtherStats>Digər Statistikalar</StatsReport_OtherStats>
+	<StatsReport_Health>Sağlamlıq</StatsReport_Health>
+	<HealthFactorPercentImpact>{0} vacib</HealthFactorPercentImpact>
+	<HealthOffsetScale>{0} təsir</HealthOffsetScale>
+	<HealthFactorMaxImpact>{0} maks</HealthFactorMaxImpact>
+  <HealthFactorAllowedDefect>{0}-dan aşağı olarsa</HealthFactorAllowedDefect>
+	<StatsReport_PostProcessed>Post-process curve</StatsReport_PostProcessed>
+  <StatsReport_FinalValue>Son Dəyər</StatsReport_FinalValue>
+  <StatsReport_MarketValueFromStuffsAndWork>Bazar qiyməti, işlənən materiallar və sərf olunan iş həcmi ilə hesablanır.</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_QualityMultiplier>Keyfiyyət əmsalı</StatsReport_QualityMultiplier>
+  <StatsReport_AgeMultiplier>Yaş əmsalı {0}</StatsReport_AgeMultiplier>
+  <StatsReport_HealthMultiplier>Sağlamlıq əmsalı {0}</StatsReport_HealthMultiplier>
+  <StatsReport_MoodMultiplier>Əhval-Ruhiyyə əmsalı {0}</StatsReport_MoodMultiplier>
+	<StatsReport_LightMultiplier>İşıq əmsalı {0}</StatsReport_LightMultiplier>
+	<StatsReport_DifficultyMultiplier>Çətinlik əmsalı {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_InBed>Yataqda</StatsReport_InBed>
+  <StatsReport_Facilities>İmkanlar</StatsReport_Facilities>
+  <StatsReport_BodySize>Bədən ölçüsü əmsalı {0}</StatsReport_BodySize>
+  <StatsReport_MeleeDPSExplanation>DPS = Yaxın döyüş zamanı vurduğu ziyan * Yaxından vurma şansı / Saniyəlik gözləmə vaxtı</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDamage>Yaxın döyüş zamanı vurduğu ziyan</StatsReport_MeleeDamage>
+  <StatsReport_Cooldown>Gözləmə vaxtı</StatsReport_Cooldown>
+  <StatsReport_MeleeHitChance>Yaxından vurma şansı</StatsReport_MeleeHitChance>
+  <StatsReport_CooldownFormat>{0} san</StatsReport_CooldownFormat>
+  <StatsReport_LifeExpectancy>Ömür</StatsReport_LifeExpectancy>
+  <StatsReport_MissingBodyParts>Əksik bədən üzvü əmsalı</StatsReport_MissingBodyParts>
+  <StatsReport_GearAndInventoryMass>Gear and inventory</StatsReport_GearAndInventoryMass>
+	<StatsReport_WornByCorpse>Ölü paltarlarının əmsalı</StatsReport_WornByCorpse>
+	<AverageOfAllAttacks>Bütün hücumların ortalaması</AverageOfAllAttacks>
+	<StatsReport_ScenarioFactor>Senari</StatsReport_ScenarioFactor>
+  <StatsReport_IngredientsMass>Tərkibi</StatsReport_IngredientsMass>
+  <StatsReport_PermanentlyDisabled>Həmişəlik ləğv olundu.</StatsReport_PermanentlyDisabled>
+  <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
+  <StatsReport_AddedBodyPartsMass>Quraşdırılmış bədən hissələri</StatsReport_AddedBodyPartsMass>
+
+</LanguageData>

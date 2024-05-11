@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CallOnRadio>Zəng Et {0}</CallOnRadio>
+  <CannotUseReason>İstifadə oluna bilməz ({0})</CannotUseReason>
+	<CannotUseSolarFlare>İstifadə oluna bilməz (günəş partlaması)</CannotUseSolarFlare>
+	<CannotUseNoPower>İstifadə oluna bilməz (elektrik yoxdur)</CannotUseNoPower>
+	<CannotUseNoPath>İstifadə oluna bilməz (yol yoxdur)</CannotUseNoPath>
+  <CannotUseReserved>İstifadə oluna bilməz (rezerv)</CannotUseReserved>
+  <CannotUseFull>İstifadə oluna bilməz (dolu)</CannotUseFull>
+	<LeaderUnavailable>lider {0} istifadə edilə bilmir</LeaderUnavailable>
+	<LeaderUnavailableNoLeader>lider istifadə edilə bilmir</LeaderUnavailableNoLeader>
+  
+  <FireAt>Atəş aç {0}</FireAt>
+
+  <OutOfRange>hədəfdən kənarda</OutOfRange>
+  <CannotHitTarget>hədəfi vura bilməz</CannotHitTarget>
+  <IsIncapableOfViolenceLower>{0} şiddət və zorakılıq edə bilmir</IsIncapableOfViolenceLower>
+  <IncapableOfViolenceLower>şiddət və zorakılıq edə bilmir</IncapableOfViolenceLower>
+  <IsNotDraftedLower>{0} səfərbərliyə keçirilməyib</IsNotDraftedLower>
+  <CannotOrderNonControlledLower>idarə olunmayan bölmələrə əmr vermək olmur</CannotOrderNonControlledLower>
+  <CannotAttackSelf>şəxsi hücum etmək olmur</CannotAttackSelf>
+
+  <OrderManThing>Adam {0}</OrderManThing>
+  
+  <MeleeAttack>Yaxın döyüş {0}</MeleeAttack>
+  <MeleeAttackToDeath>{0} yaxın döyüş ilə öldür</MeleeAttackToDeath>
+  <NoPath>yol yoxdur</NoPath>
+
+	<ForbiddenLower>qadağan olunub</ForbiddenLower>
+	<ForbiddenOutsideAllowedAreaLower>icazə verilən ərazidən kənarda</ForbiddenOutsideAllowedAreaLower>
+	<NotInHomeArea>ev ərazisində deyil</NotInHomeArea>
+	<BurningLower>yanır</BurningLower>
+	<NoEmptyPlaceLower>bunu saxlamağa boş anbar yoxdur</NoEmptyPlaceLower>
+	<AlreadyFilledLower>onsuzda lazımı qədər doludur</AlreadyFilledLower>
+	<MissingMaterials>material lazımdır</MissingMaterials>
+	<MissingSkill>bacarığı çox zəifdir</MissingSkill>
+	<NoEmptyGraveLower>saxlamaq üçün boş qəbir yoxdur</NoEmptyGraveLower>
+	<AnimalInteractedTooRecently>heyvanla bir az bundan qabaq qarşılıqlı təsirdə oldu</AnimalInteractedTooRecently>
+	<NoUsableFood>istifadə oluna bilən qida yoxdur</NoUsableFood>
+	<NoFood>qida yoxdur</NoFood>
+	<AnimalsSkillTooLow>heyvanın bacarığı çox aşağıdır</AnimalsSkillTooLow>
+  <ConstructionSkillTooLow>inşaat bacarığı çox aşağıdır</ConstructionSkillTooLow>
+	<NoComponentsToRepair>komponent lazımdır</NoComponentsToRepair>
+	<NoFuelToRefuel>lazımdır {0}</NoFuelToRefuel>
+  <NoWort>fermentə olmamış pivə lazımdır</NoWort>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>anbarda olan uyğun qidalar yüksək prioritetə malikdir</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <NoFoodToFillHopper>uyğun qida yoxdur</NoFoodToFillHopper>
+  <SelfTendDisabled>şəxsi müalicə ləğv edilib</SelfTendDisabled>
+  <ReservedForPrisoners>dustaq tərəfindən rezerv edilib</ReservedForPrisoners>
+  <CannotReach>çata bilməz</CannotReach>
+  <NotSurgeryReady>əməliyyata hazır deyil</NotSurgeryReady>
+  <CantSowCavePlantBecauseOfLight>çox işıqlıdır</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseUnroofed>damörtüyü yoxdur</CantSowCavePlantBecauseUnroofed>
+  
+  <ConsumeThing>{0} ye</ConsumeThing>
+  
+  <CannotGoNoPath>Bura gedə bilməz (yol yoxdur)</CannotGoNoPath>
+  <GoHere>Bura get</GoHere>
+  
+  <Arrest>Həbs elə {0}</Arrest>
+  <TryToArrest>Həbs etməyə çalış {0}</TryToArrest>
+  <CannotArrest>Həbs edə bilməz</CannotArrest>
+
+  <Capture>{0} tut</Capture>
+  <CannotCapture>Tutmağa çalış</CannotCapture>
+
+  <Rescue>Qurtar {0}</Rescue>
+  <CannotRescue>Qurtara bilməz</CannotRescue>
+
+  <CarryToCryptosleepCasket>{0} kriptoyuxu konteynerinə apar</CarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Kriptoyuxu konteynerinə apara bilir </CannotCarryToCryptosleepCasket>
+
+  <NoCryptosleepCasket>Boşda kriptoyuxu konteyneri yoxdur.</NoCryptosleepCasket>
+  <NoPrisonerBed>Dustaq üçün yataq yoxdur.</NoPrisonerBed>
+  <NoNonPrisonerBed>Dustaq üçün yataq yoxdur.</NoNonPrisonerBed>
+  <NoAnimalBed>Heyvan üçün yataq yoxdur.</NoAnimalBed>
+  <Reserved>Başqa biri tərəfindən rezrev edilib.</Reserved>
+  <ReservedBy>{0} tərəfindən rezerv olunub.</ReservedBy>
+  <IsReservedBy>{0} bu {1} tərəfindən rezerv olunub.</IsReservedBy>
+  <TooHeavy>Çox ağır</TooHeavy>
+
+  <Incapable>bacarıqsız</Incapable>
+  <IncapableOfCapacity>{0} bacarmır</IncapableOfCapacity>
+
+  <MinSkill>minimum bacarıq</MinSkill>
+  
+  <Equip>Silahlan {0}</Equip>
+  <EquipWarningBrawler>(döyüşçünün xoşu gəlməyəcək)</EquipWarningBrawler>
+  <CannotEquip>{0} silahını götürə bilməz</CannotEquip>
+  
+  <ForceWear>Geyinməyə məcbur et {0}</ForceWear>
+  <CannotWear>Geyinə bilməz {0}</CannotWear>
+  <CannotWearBecauseOfMissingBodyParts>Bədən üzvü yoxdur</CannotWearBecauseOfMissingBodyParts>
+  
+  <CannotPickUp>{0} götürə bilməz</CannotPickUp>
+  <CannotPickUpAll>{0} götürə bilməz (heç birini)</CannotPickUpAll>
+  <PickUp>{0} götür</PickUp>
+  <PickUpAll>{0} götür (hamısını)</PickUpAll>
+  <PickUpSome>{0} götür...</PickUpSome>
+  <PickUpCount>{0} götür x{{0}}</PickUpCount>
+  
+  <CannotGiveToPackAnimal>{0} heyvana verə bilməz</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimalAll>{0} heyvana verə bilməz (heç birini)</CannotGiveToPackAnimalAll>
+  <GiveToPackAnimal>Heyvana {0} ver</GiveToPackAnimal>
+  <GiveToPackAnimalAll>Heyvana {0} ver (hamısını)</GiveToPackAnimalAll>
+  <GiveToPackAnimalSome>Heyvana {0} ver...</GiveToPackAnimalSome>
+  <GiveToPackAnimalCount>Götür {0} x{{0}}</GiveToPackAnimalCount>
+  
+  <CannotCarryToExit>{0} daşıya və ərazini tərk edə bilməz</CannotCarryToExit>
+  <CarryToExit>{0} daşı və ərazini tərk et</CarryToExit>
+  
+  <Strip>Soyundur {0}</Strip>
+  <CannotStrip>Soyundura bilməz {0}</CannotStrip>
+
+  <SelfDestructHere>Buranı dağıt</SelfDestructHere>
+  
+  <Drop>At yerə {0}</Drop>
+
+  <UseMedicalBed>Sağalana qədər istirahət et</UseMedicalBed>
+  <NotInjured>Yaralı deyil</NotInjured>
+  <SomeoneElseSleeping>{0} tərəfindən işlədilir (boşda deyil)</SomeoneElseSleeping>
+  
+  <TradeWith>{0} ilə alış-veriş et</TradeWith>
+  <CannotTrade>Alış-veriş edilə bilməz</CannotTrade>
+  
+  <EnterMap>Daxil ol {0}</EnterMap>
+  <VisitSettlement>Ziyarət et {0}</VisitSettlement>
+  <VisitPeaceTalks>Ziyarət et {0}</VisitPeaceTalks>
+  <VisitSite>Ziyarət et {0}</VisitSite>
+  <VisitEscapeShip>Ziyarət et {0}</VisitEscapeShip>
+  <AttackSite>Hücum et {0}</AttackSite>
+  <AttackSettlement>Hücum et {0}</AttackSettlement>
+
+  <!-- Specific thing interactions -->
+  <EnterCryptosleepCasket>Kriptoyuxu konteynerinə daxil ol</EnterCryptosleepCasket>
+  <OpenCryptosleepCasket>Kriptoyuxu konteynerini aç</OpenCryptosleepCasket>
+
+  <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc.-->
+  <CannotGenericWork>Edə bilməz {0} {1}</CannotGenericWork>
+
+  <!-- e.g. Already GERUND OBJECt, Already repairing wall, already hauling metal, etc-->
+  <CannotMissingHealthActivities>Prioritet verilə bilmir ({0} bacarmır)</CannotMissingHealthActivities>
+
+  <CannotGenericAlreadyAm>Hal-hazırda {0} {1}</CannotGenericAlreadyAm>
+
+  <CannotPrioritizeWorkTypeDisabled>Prioritet verilə bilmir ({0} heç vaxt etməyib)</CannotPrioritizeWorkTypeDisabled>
+
+	<CannotPrioritizeWorkGiverDisabled>Prioritet verilə bilmir ({0} heç vaxt etməyib)</CannotPrioritizeWorkGiverDisabled>
+
+	<CannotPrioritizeNotAssignedToWorkType>Prioritet verilə bilmir ({0} təyin olunmayıb)</CannotPrioritizeNotAssignedToWorkType>
+
+  <CannotPrioritizeResearch>Prioritet verilə bilmir (araşdırma çox çəkən işdir)</CannotPrioritizeResearch>
+
+  <CannotPrioritizeForbidden>Prioritet verilə bilmir ({0} icazə verilmir)</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Prioritet verilə bilmir ({0} icazə verilən ərazidən kənardadır)</CannotPrioritizeForbiddenOutsideAllowedArea>
+  
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc-->
+  <PrioritizeGeneric>Prioritet ver {0} {1}</PrioritizeGeneric>
+  
+  <DropAtEdge>Qırağa at</DropAtEdge>
+  <DropInCenter>Ortaya at</DropInCenter>
+  
+  <VomitingLower>qusur</VomitingLower>
+  <NotInterruptibleLower>bölünə bilməz</NotInterruptibleLower>
+  
+  <AddWaypoint>Yeni yol əlavə et</AddWaypoint>
+  <RemoveWaypoint>Bu yolu sil</RemoveWaypoint>
+  
+</LanguageData>

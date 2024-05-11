@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>AudioVizual</Audiovisuals>
+  <GameVolume>Oyun səsi</GameVolume>
+  <MusicVolume>Musiqi səsi</MusicVolume>
+  <AmbientVolume>Ətraf mühit sısi</AmbientVolume>
+  <Antialiasing>Anti-aliasing</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Ekran-kənarı maus hərəkəti</EdgeScreenScroll>
+  <PauseOnLoad>Pauza vəziyyətində başlat</PauseOnLoad>
+  <PauseOnUrgentLetter>Təcili məktub gələndə saxla</PauseOnUrgentLetter>
+  <CustomCursor>Fərdi maus ikonu</CustomCursor>
+  <HatsShownOnlyOnMap>Papaqlar ancaq oyun xəritəsində görsənsin</HatsShownOnlyOnMap>
+  <UIScale>UI şkalası</UIScale>
+	<KeyboardConfig>Klaviatura ayarları</KeyboardConfig>
+  <ChooseLanguage>Dil seçin</ChooseLanguage>
+  <ResetAdaptiveTutor>Öyrənməni sıfırlayın</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Öyrədici sıfırlandı. Ən sadədən başlayaraq öyərnəcəksiniz.</AdaptiveTutorIsReset>
+  <RunInBackground>Arxafonda çalış</RunInBackground>
+  <DevelopmentMode>Development modu</DevelopmentMode>
+  <ResetModsConfigOnCrash>Qəza anında modların ayarlarını sıfırla</ResetModsConfigOnCrash>
+  <LogVerbose>Verbose loqlaması</LogVerbose>
+  <OpenSaveGameDataFolder>Yaddaş qovluğunu aç</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Görmək istədiyin oyunçu-personaj adları:</NamesYouWantToSee>
+  <AddName>Ad əlavə et</AddName>
+  <TypeFirstNickOrLastName>Adını, ləqəbini və ya soyadını yaz.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>Bu ad siyahıda onsuzda var..</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Hekayə danışanı seç</ChangeStoryteller>
+  <AutosaveInterval>AvtoYaddaş aralığı</AutosaveInterval>
+  <TemperatureMode>Temperatur rejimi</TemperatureMode>
+  <ShowRealtimeClock>Real zamanı göstər</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Maksimal koloniya sayı: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Plant wind sway</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Permadeath rejimində maksimal AvtoYaddaş aralığı {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Mod Ayarları</ModSettings>
+
+  <!-- Resolution -->
+  <Resolution>Görüntü</Resolution>
+  <Fullscreen>Tam Ekran</Fullscreen>
+
+  <!-- Privacy -->
+  <Privacy>Məxfilik</Privacy>
+  <UserName>İstifadəçi adı</UserName>
+  <ChooseHistoryUploadPref>Oyun məlumatlarını paylaş</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Sizin oyun məlumatlarınız developerlərə oyunu daha balansı etməyə yardım edir. Razı olarsanız hər {0} oyun günündən bir (bəzəndə oyun sonlarında) RimWorld serverinə göndəriləcək və analiz olunacaqlar. Göndərilənlər sadəcə statistika və oyunla bağlı  məlumatlarlardır. İstifadəç adından başqa sizin fərdi məlumatlarını göndərilməyəcək bu da tam məxfi deməkdir.</AboutHistoryUpload>
+
+  <!-- Mods -->
+  <SelectMod>Mod seçin...</SelectMod>
+  <NoConfigurableMods>Ayarlana biləcək mod yüklənməyib.</NoConfigurableMods>
+</LanguageData>

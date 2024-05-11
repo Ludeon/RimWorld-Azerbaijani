@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: utility -->
+  <Belt.label>əlavə təchizat</Belt.label>
+  
+  <!-- EN: eyes -->
+  <EyeCover.label>gözlər</EyeCover.label>
+  
+  <!-- EN: middle -->
+  <Middle.label>orta</Middle.label>
+  
+  <!-- EN: skin -->
+  <OnSkin.label>dəri</OnSkin.label>
+  
+  <!-- EN: headgear -->
+  <Overhead.label>başlıq</Overhead.label>
+  
+  <!-- EN: outer -->
+  <Shell.label>üst</Shell.label>
+  
+</LanguageData>

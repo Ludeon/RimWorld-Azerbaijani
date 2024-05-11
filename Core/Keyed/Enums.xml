@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- glow -->
+  <Dark>Qaranlıq</Dark>
+  <Lit>İşıqlı</Lit>
+  <LitBrightly>Çox İşıqlı</LitBrightly>
+  
+  <!-- history upload pref -->
+  <Unspecified>Qeyri-müəyyən</Unspecified>
+  <Always>İcazə Ver</Always>
+  <Never>İcazə Vermə</Never>
+  
+  <!-- Price types -->
+  <PriceTypeVeryCheap>çox ucuz</PriceTypeVeryCheap>
+  <PriceTypeCheap>ucuz</PriceTypeCheap>
+  <PriceTypeNormal>normal</PriceTypeNormal>
+  <PriceTypeExpensive>bahalı</PriceTypeExpensive>
+  <PriceTypeExorbitant>çox bahalı</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <StoragePriorityUnstored>Dəyərləndirilməmiş</StoragePriorityUnstored>
+  <StoragePriorityLow>aşağı</StoragePriorityLow>
+  <StoragePriorityNormal>normal</StoragePriorityNormal>
+  <StoragePriorityPreferred>seçimə bağlı</StoragePriorityPreferred>
+  <StoragePriorityImportant>önəmli</StoragePriorityImportant>
+  <StoragePriorityCritical>kritik</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <FoodTypeFlags_VegetableOrFruit>tərəvəzlər</FoodTypeFlags_VegetableOrFruit>
+  <FoodTypeFlags_Meat>çiy ət</FoodTypeFlags_Meat>
+  <FoodTypeFlags_Corpse>cəsətlər</FoodTypeFlags_Corpse>
+  <FoodTypeFlags_Seed>toxumlar</FoodTypeFlags_Seed>
+  <FoodTypeFlags_AnimalProduct>heyvan məhsulları</FoodTypeFlags_AnimalProduct>
+  <FoodTypeFlags_Plant>canlı bitkilər</FoodTypeFlags_Plant>
+  <FoodTypeFlags_Tree>canlı ağaclar</FoodTypeFlags_Tree>
+  <FoodTypeFlags_Meal>yeməklər</FoodTypeFlags_Meal>
+  <FoodTypeFlags_Processed>işlənmiş yeməklər</FoodTypeFlags_Processed>
+  <FoodTypeFlags_Liquor>likyor</FoodTypeFlags_Liquor>
+  <FoodTypeFlags_Kibble>jımıx</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <QualityCategory_Awful>bərbad</QualityCategory_Awful>
+  <QualityCategory_Shoddy>çox pis</QualityCategory_Shoddy>
+  <QualityCategory_Poor>pis</QualityCategory_Poor>
+  <QualityCategory_Normal>normal</QualityCategory_Normal>
+  <QualityCategory_Good>yaxşı</QualityCategory_Good>
+  <QualityCategory_Superior>super</QualityCategory_Superior>
+  <QualityCategory_Excellent>əla</QualityCategory_Excellent>
+  <QualityCategory_Masterwork>şahəsər</QualityCategory_Masterwork>
+  <QualityCategory_Legendary>əfsanəvi</QualityCategory_Legendary>
+  <QualityCategoryShort_Awful>bərbad</QualityCategoryShort_Awful>
+  <QualityCategoryShort_Shoddy>çox pis</QualityCategoryShort_Shoddy>
+  <QualityCategoryShort_Poor>pis</QualityCategoryShort_Poor>
+  <QualityCategoryShort_Normal>normal</QualityCategoryShort_Normal>
+  <QualityCategoryShort_Good>yaxşı</QualityCategoryShort_Good>
+  <QualityCategoryShort_Superior>super</QualityCategoryShort_Superior>
+  <QualityCategoryShort_Excellent>əla</QualityCategoryShort_Excellent>
+  <QualityCategoryShort_Masterwork>şahəsər</QualityCategoryShort_Masterwork>
+  <QualityCategoryShort_Legendary>əfsanə</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <HungerLevel_Starving>Acından ölür</HungerLevel_Starving>
+  <HungerLevel_UrgentlyHungry>Çox ac</HungerLevel_UrgentlyHungry>
+  <HungerLevel_Hungry>Ac</HungerLevel_Hungry>
+  <HungerLevel_Fed>Tox</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <HungerLevel_Exhausted>Əldən düşüb</HungerLevel_Exhausted>
+  <HungerLevel_VeryTired>Çox yorğun</HungerLevel_VeryTired>
+  <HungerLevel_Tired>Yorğun</HungerLevel_Tired>
+  <HungerLevel_Rested>Dincəlib</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <Hilliness_Flat>düz</Hilliness_Flat>
+  <Hilliness_SmallHills>kiçik təpələr</Hilliness_SmallHills>
+  <Hilliness_LargeHills>böyük təpələr</Hilliness_LargeHills>
+  <Hilliness_Mountainous>dağlar</Hilliness_Mountainous>
+  <Hilliness_Impassable>Keçilməz</Hilliness_Impassable>
+  
+  <!-- Steam workshop interaction -->
+  <WorkshopInteractStage_CreatingItem>Yaradılır</WorkshopInteractStage_CreatingItem>
+  <WorkshopInteractStage_SubmittingItem>Təsdiq olunur</WorkshopInteractStage_SubmittingItem>
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Uyğun deyil</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Konfiqurasiya məlumatları hazırlanır</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Kontent faylları hazırlanır</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Kontent yüklənir</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Önizləmə faylı yüklənir</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Dəyişikliklər tətbiq edilir</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <ContentSource_LocalFolder>Lokal Qovluq</ContentSource_LocalFolder>
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
+  <!-- Medical care category -->
+  <MedicalCareCategory_NoCare>Tibbi yardım yoxdur</MedicalCareCategory_NoCare>
+  <MedicalCareCategory_NoMeds>Həkim yarıdımı, dərmansız</MedicalCareCategory_NoMeds>
+  <MedicalCareCategory_HerbalOrWorse>Bitki mənşəli dərmanlar və ya lap pis</MedicalCareCategory_HerbalOrWorse>
+  <MedicalCareCategory_NormalOrWorse>Normal dərmanlar və ya lap pis</MedicalCareCategory_NormalOrWorse>
+  <MedicalCareCategory_Best>Ən yaxşı tibbi müalicə</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <HostilityResponseMode_Ignore>Fikir Vermə</HostilityResponseMode_Ignore>
+  <HostilityResponseMode_Attack>Savaş</HostilityResponseMode_Attack>
+  <HostilityResponseMode_Flee>Qaç</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <HediffGrowthMode_Growing>böyüyür</HediffGrowthMode_Growing>
+  <HediffGrowthMode_Stable>stabil</HediffGrowthMode_Stable>
+  <HediffGrowthMode_Remission>zəifləyib</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <TechLevel_Animal>heyvan</TechLevel_Animal>
+  <TechLevel_Neolithic>neolit</TechLevel_Neolithic>
+  <TechLevel_Medieval>orta əsr</TechLevel_Medieval>
+  <TechLevel_Industrial>sənaye</TechLevel_Industrial>
+  <TechLevel_Spacer>kosmoslu</TechLevel_Spacer>
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <TechLevel_Transcendent>üstün</TechLevel_Transcendent>
+
+  <!-- Player pawns arrive method -->
+  <PlayerPawnsArriveMethod_Standing>Dünyada Gözləyəcəklər</PlayerPawnsArriveMethod_Standing>
+  <PlayerPawnsArriveMethod_DropPods>Kapsulların düşməsi ilə başlayacaqlar</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <PawnGenerationContext_All>bütün personajlar</PawnGenerationContext_All>
+  <PawnGenerationContext_PlayerStarter>oyunçu başlanğıc personajları</PawnGenerationContext_PlayerStarter>
+  <PawnGenerationContext_NonPlayer>oyunçu olmayan personajlar</PawnGenerationContext_NonPlayer>
+  
+  <!-- Animal name display mode -->
+  <ShowAnimalNames>Heyvan adlarını göstər</ShowAnimalNames>
+  <AnimalNameDisplayMode_TameNamed>Əhilləşmiş (ad verdiklərin ancaq)</AnimalNameDisplayMode_TameNamed>
+  <AnimalNameDisplayMode_TameAll>Əhilləşmiş (hamsı)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Temperature -->
+  <Celsius>Selsi</Celsius>
+  <Fahrenheit>Farenheyt</Fahrenheit>
+  <Kelvin>Kelvin</Kelvin>
+  
+  <!-- Direction8Way -->
+  <Direction8Way_North_Short>Ş</Direction8Way_North_Short>
+  <Direction8Way_NorthEast_Short>ŞŞ</Direction8Way_NorthEast_Short>
+  <Direction8Way_East_Short>Ş</Direction8Way_East_Short>
+  <Direction8Way_SouthEast_Short>CŞ</Direction8Way_SouthEast_Short>
+  <Direction8Way_South_Short>C</Direction8Way_South_Short>
+  <Direction8Way_SouthWest_Short>CQ</Direction8Way_SouthWest_Short>
+  <Direction8Way_West_Short>Q</Direction8Way_West_Short>
+  <Direction8Way_NorthWest_Short>ŞQ</Direction8Way_NorthWest_Short>
+  
+</LanguageData>

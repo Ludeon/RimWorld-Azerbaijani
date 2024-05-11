@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <TabBills>Tapşırıqlar</TabBills>
+  <TabGrowing>Böyüyür</TabGrowing>
+  <TabCharacter>Xarakter</TabCharacter>
+  <TabTraining>Təlim</TabTraining>
+  <TabPrisoner>Dustaq</TabPrisoner>
+  <TabGuest>Qonaq</TabGuest>
+  <TabGear>Tərtibat</TabGear>
+  <TabNeeds>İstəklər</TabNeeds>
+  <TabStorage>Anbarlar</TabStorage>
+  <TabShells>Mərmilər</TabShells>
+  <TabHealth>Sağlıq</TabHealth>
+  <TabRace>Yarış</TabRace>
+  <TabBasics>Əsaslar</TabBasics>
+  <TabStats>Statistikalar</TabStats>
+  <TabRecords>Qeydlər</TabRecords>
+  <TabArt>Sənət</TabArt>
+  <TabSocial>Sosial</TabSocial>
+  <TabCombat>Döyüş</TabCombat>
+
+  
+  <!-- Bills tab  -->
+  <AddBill>Tapşırıq əlavə et</AddBill>
+  <RecipeRequiresSkills>{0} tapşırığı aşağıdakı bacarıqları tələb edir.Kolonistlərinin heç birində bu bacarıq yoxdur, beləki heç kim bunu edə bilməyəcək.</RecipeRequiresSkills>
+  <MinimumSkill>Min bacarıq</MinimumSkill>
+  <SuspendedCaps>Dayandır</SuspendedCaps>
+  <BoundWorkerIs>İşçi: {0}</BoundWorkerIs>
+  <PlantVerb>Əkmək</PlantVerb>
+
+
+  <!-- Guest/prisoner tab -->
+  <RecruitmentDifficulty>Qoşulma çətinliyi</RecruitmentDifficulty>
+  <GetsFood>Yemək verilsin</GetsFood>
+  <DoctorsCare>Həkim qayğısı</DoctorsCare>
+  <GetsMedicine>Dərman verilsin</GetsMedicine>
+  <ShouldTryToRecruit>Kolonist etməyə çalış</ShouldTryToRecruit>
+	<ConsideredGuilty>Günahkarlıq hissi ({0} bitəcək)</ConsideredGuilty>
+
+
+  <!-- Medical - general -->
+  <MoveSpeed>Hərəkət sürəti</MoveSpeed>
+  <Efficiency>Effektivlik</Efficiency>
+	<PartEfficiency>Hissəvi effektivlik</PartEfficiency>
+	<BodyPartEfficiency>Bədən üzvü effektivliyi</BodyPartEfficiency>
+	<MissingBodyPart>Yoxdur</MissingBodyPart>
+  <DestroyedBodyPart>Dağılmış</DestroyedBodyPart>
+  <ShatteredBodyPart>Parçalanmış</ShatteredBodyPart>
+  <RemovedBodyPart>Çıxarılmış</RemovedBodyPart>
+  <Healthy>Sağlamlıq</Healthy>
+  <InPain>Ağrı içində</InPain>
+  <PainLevel>Ağrı</PainLevel>
+  <Injured>Yaralı</Injured>
+  <NoInjuries>(Yarası yoxdur)</NoInjuries>
+  <WholeBody>Bütün bədən</WholeBody>
+  <DataProcessing>Məlumat işlənir</DataProcessing>
+  <Communication>Əlaqə</Communication>
+  <Affects>Təsirləri</Affects>
+  <BleedingRate>Qanayır</BleedingRate>
+  <TimeToDeath>{0} içində öləcək</TimeToDeath>
+  <WontBleedOutSoon>Təcili təhlükə yoxdur</WontBleedOutSoon>
+  <HealthOverview>Ümumibaxış</HealthOverview>
+  <MedicalOperationsShort>Əməliyyatlar ({0})</MedicalOperationsShort>
+  <MedicalOperationsMechanoidsShort>Modifikasiyalar ({0})</MedicalOperationsMechanoidsShort>
+  <MedicalOperations>Tibbi əməliyyatlar</MedicalOperations>
+  <Amputate>Amputasiya</Amputate>
+  <Harvest>Çıxarmaq</Harvest>
+  <RemoveOrgan>Çıxarıb atmaq</RemoveOrgan>
+  <MemoryLower>yaddaş</MemoryLower>
+  <SocialInteractionsLower>sosial əlaqələr</SocialInteractionsLower>
+  <HungerRate>Aclıq dərəcəsi</HungerRate>
+  <Tiredness>Yorğunluq</Tiredness>
+  <PainFactor>Ağrı</PainFactor>
+  <PreventsInfection>İnfeksiyanın qarşısını alır</PreventsInfection>
+  <SelfTend>Şəxsi müalicə</SelfTend>
+  <SelfTendTip>{0} şəxi müalicə aktivləşdikdə kolonist özünü {1} nöqtəsində normal effektivliklə müalicə edəcək.</SelfTendTip>
+  
+
+  <!-- Medical - Body and activities condition -->
+  <None>Heç biri</None>
+  <VeryPoor>Çox pis</VeryPoor>
+  <Poor>Pis</Poor>
+  <Weakened>Zəif</Weakened>
+  <GoodCondition>Normal</GoodCondition>
+  <Enhanced>İlhamlanmış</Enhanced>
+  <SeriouslyImpaired>Ciddi olaraq pozulmuş</SeriouslyImpaired>
+  <Impaired>Pozulmuş</Impaired>
+  <SlightlyImpaired>Bir qədər pozulmuş</SlightlyImpaired>
+  <NoPain>Ağrı yoxdur</NoPain>
+  <LittlePain>Azca</LittlePain>
+  <MediumPain>Orta</MediumPain>
+  <SeverePain>Şiddətli</SeverePain>
+  <ExtremePain>Həddən artıq şiddətli</ExtremePain>
+
+
+  <!-- Training tab-->
+  <TrainableIntelligence>Təlim keçirilə bilən zəka</TrainableIntelligence>
+  <CannotTrainNotSmartEnough>Təlim keçə bilmək üçün {0} zəka lazımdır.</CannotTrainNotSmartEnough>
+  <CannotTrainTooSmall>{0} bu təlim üçün çox balacadır.</CannotTrainTooSmall>
+
+  <TrainingNeedsPrerequisite>Lazım olan ilkin şərtlər: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <NoRelationships>(Münasibətləri yoxdur)</NoRelationships>
+  <Kidnapped>Oğurlanmış</Kidnapped>
+  <Missing>İtkin</Missing>
+  <Slave>Kölə</Slave>
+  <FactionLeader>Klanın lideri</FactionLeader>
+  <OpinionOf>{0} haqqında fikri</OpinionOf>
+  <SomeonesOpinionOfMe>{0}-in mənim haqqımdakı fikri</SomeonesOpinionOfMe>
+  <IAmDead>Ölüyəm</IAmDead>
+  <IAmPsychopath>Psixopatam</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <AverageArmor>Ortalama zireh</AverageArmor>
+  <MassCarried>Daşıya biləcəyi Yük: {0} / {1} kg</MassCarried>
+  <ComfyTemperatureRange>Rahat olduğu temperatur aralığı</ComfyTemperatureRange>
+  <ArmorBlunt>Küt</ArmorBlunt>
+  <ArmorSharp>İti</ArmorSharp>
+  <ArmorHeat>İstilik</ArmorHeat>
+  <ArmorElectric>Elektrik</ArmorElectric>
+
+</LanguageData>

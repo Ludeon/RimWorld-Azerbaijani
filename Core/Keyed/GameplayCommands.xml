@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Forbid -->
+  <CommandForbid>Qadağa</CommandForbid>
+	<CommandForbiddenDesc>Qadağan - kolonist buna toxunmayacaq.</CommandForbiddenDesc>
+	<CommandNotForbiddenDesc>Qadağan olmayan - kolonistə bununla bağlı icazə verilib.</CommandNotForbiddenDesc>
+
+  <!-- Power -->
+  <CommandTogglePowerLabel>Yandır-Söndür</CommandTogglePowerLabel>
+  <CommandTogglePowerDesc>Yandır-Söndür.</CommandTogglePowerDesc>
+  
+  <CommandDesignateTogglePowerLabel>Elektrik durumunu dəyiş</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerDesc>Bu alətin elektrik durumunu dəyişir. Kolonistlərdən biri ən qısa zamanda gəlib açarın vəziyətini dəyişəcək.</CommandDesignateTogglePowerDesc>
+  
+  <CommandTryReconnectLabel>Yenidən qoş</CommandTryReconnectLabel>
+  <CommandTryReconnectDesc>Ətrafındakı başqa bir elektrik mənbəyinə qoşulmağa çalışacaq. Bu elektrik olmayan kabellərdən ayrılıb başqa bir kabelə qoşulmağa yarayır.</CommandTryReconnectDesc>
+
+  <CommandGatherSpotToggleLabel>Yığıncaq yeri</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleDescActive>Aktiv - Kolonistlər bunun ətrafında toplanacaq.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescInactive>Aktiv deyil - Kolonistlər bunun ətrafında toplanamaycaq.</CommandGatherSpotToggleDescInactive>
+  
+  
+  <!-- Drafting -->
+  <CommandDraftLabel>Səfərbərlik</CommandDraftLabel>
+  <CommandUndraftLabel>Səfərbərlikdən çıxar</CommandUndraftLabel>
+  <CommandToggleDraftDesc>Səfərbərlik elan et.\n\nSəfərbər olmuş kolonistlər ancaq əmrləri yerinə yetirib döyüşəcək. İşləməyəcək, yeməyəcək və ya istirahət etməyəcəklər.</CommandToggleDraftDesc>
+  <IsIncapped>{0} yeriyə bilməz.</IsIncapped>
+
+  <CommandFireAtWillLabel>Atəş açmağa icazə ver</CommandFireAtWillLabel>
+	<CommandFireAtWillDesc>Atəş açmaq seçimini dəyişdir.\n\n Deaktiv edildikdə, atəş mənzilindəki hədəflərə avtomatik atəş açmayacaq. Bu yaxın döyüşə təsir etmir.</CommandFireAtWillDesc>
+	
+  <CommandClearPrioritizedWork>Prioritet verilən işi ləğv et</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWorkDesc>Təyin etdiyiniz hər hansı prioritetli işləri ləğv edin. Kolonist öz işi ilə məşğul olacaq.</CommandClearPrioritizedWorkDesc>
+  
+  <CommandCancelConstructionLabel>Ləğv et</CommandCancelConstructionLabel>
+  <CommandCancelConstructionDesc>Bu inşaatı ləğv et.</CommandCancelConstructionDesc>
+
+  <CommandGetOutOfBedLabel>Qalx yataqdan</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedDesc>Olduğu yataqdan qalxar.</CommandGetOutOfBedDesc>
+
+  <CommandBedSetOwnerLabel>Sahib</CommandBedSetOwnerLabel>
+  <CommandBedSetOwnerDesc>Bu yatağı hər hansı bir kolonistə ver.</CommandBedSetOwnerDesc>
+  <CommandGraveAssignColonistLabel>Kolonistə təyin et</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistDesc>Bu qəbiri hər hansı bir kolonistə ver.</CommandGraveAssignColonistDesc>
+  <BuildingAssign>Təyin et</BuildingAssign>
+  <BuildingUnassign>Təyinatı ləğv et</BuildingUnassign>
+  <CommandBedSetForPrisonersLabel>Dustaqlar üçün</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersDesc>Bu otaqdakı yataqları dustaqlara ayır.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersFailOutdoors>Dustaqlar çöldə yata bilməz.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetAsMedicalLabel>Tibbi</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalDesc>Bu yatağı tibbi istifadəyə ayır.</CommandBedSetAsMedicalDesc>
+  <TurningOnPrisonerBedWarning>Dustaq rejimini açmaq otaqdakı bütün yataqlara təsir edir (beləki dustaqlar ilə kolonistlər eyni otaqda yata bilməz).\n\nBu kolonistlər yataqlarını itirəcəklər:</TurningOnPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Dustaq rejimini ləğv etmək otaqdakı bütün yataqlara təsir edir (beləki dustaqlar ilə kolonistlər eyni otaqda yata bilməz).\n\nBu dustaqlar yataqlarını itirəcəklər:</TurningOffPrisonerBedWarning>
+  <AreYouSure>Bunu həqiqətən etmək istəyirsiniz?</AreYouSure>
+
+  <CommandDetonateLabel>Partlat</CommandDetonateLabel>
+  <CommandDetonateDesc>Partlayış üçün geri sayımı başlat.</CommandDetonateDesc>
+
+  <CommandRenameZoneLabel>Yenidən adlandır</CommandRenameZoneLabel>
+  <CommandRenameZoneDesc>Bu ərazinin adın dəyiş.</CommandRenameZoneDesc>
+
+  <CommandHideZoneLabel>Gizlət</CommandHideZoneLabel>
+  <CommandUnhideZoneLabel>Gizlətmə</CommandUnhideZoneLabel>
+  <CommandHideZoneDesc>Bu ərazini Gizlət/Gizlətmə.</CommandHideZoneDesc>
+
+  <CommandDeleteZoneLabel>Sil</CommandDeleteZoneLabel>
+  <CommandDeleteZoneDesc>Ərazini sil.</CommandDeleteZoneDesc>
+
+  <CommandCopyZoneSettingsLabel>Ayarları kopyala</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsDesc>Ərazinin ayarlarını başqa əraziyə yapışdırmaq üçün kopyala.</CommandCopyZoneSettingsDesc>
+
+  <CommandPasteZoneSettingsLabel>Ayarları yapışdır</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsDesc>Kopyalanmış ayarlar ilə carini dəyişdir.</CommandPasteZoneSettingsDesc>
+
+  <CommandAllowSow>Əkinə icazə ver</CommandAllowSow>
+  <CommandAllowSowDesc>Ləğv edildikdə, kolonistlər bu ərazidə heç nə əkmirlər sadəcə biçinlə məşğul olurlar.</CommandAllowSowDesc>
+
+  <!-- Artillery -->
+  <CommandSetForceAttackTarget>Hədəf Seç</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTargetDesc>Bu taretin bacardığı qədər davamlı hücum etməsi üçün lazım olan hədəfi təyin edin.</CommandSetForceAttackTargetDesc>
+  <CommandStopForceAttack>Məcbur edilmiş hücumu dayandırın</CommandStopForceAttack>
+  <CommandStopForceAttackDesc>Məcbur edilmiş hücumu saxlayır və taret istədiyi zaman atəş açır.</CommandStopForceAttackDesc>
+  <CommandStopAttackFailNotForceAttacking>Hal-hazırda məcbur edilmiş hücum yoxdur.</CommandStopAttackFailNotForceAttacking>
+  <CommandExtractShell>Mərmini çıxar</CommandExtractShell>
+  <CommandExtractShellDesc>Başqa sursat yerləşdirmək üçün cari mərmini çıxarın.</CommandExtractShellDesc>
+  <CommandExtractShellFailNoShell>Heç bir mərmi daxil edilməyib.</CommandExtractShellFailNoShell>
+  <MessageTargetBeyondMaximumRange>Hədəf çox uzaqdadır.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBelowMinimumRange>Hədəf çox yaxındadır.</MessageTargetBelowMinimumRange>
+  <MessageTurretWontFireBecauseHoldFire>Diqqət: Minaatan atəş açmayacaq çünki "Atəşi Saxla" əmri verilib.</MessageTurretWontFireBecauseHoldFire>
+  
+  <!-- Ship computer core -->
+  <CommandShipLaunch>Gəmini işə sal</CommandShipLaunch>
+  <CommandShipLaunchDesc>Cari konfiqurasiyalar ilə gəminin işə salma ardıcıllığını başladın.</CommandShipLaunchDesc>
+  <CommandShipLaunchReport>Başlama hesabatını göstərin</CommandShipLaunchReport>
+  <CommandShipLaunchReportDesc>Gəminin işə salma qabiliyyəti barədə hazırlıq hesabatını göstərin.</CommandShipLaunchReportDesc>
+  <CommandShipStartup>Gəmini başlat</CommandShipStartup>
+  <CommandShipStartupDesc>Yuxu rejimindəki gəmi komponentlərini oyadın.</CommandShipStartupDesc>
+
+  <!-- Pod -->
+  <CommandPodEject>Yatanı çıxar.</CommandPodEject>
+  <CommandPodEjectDesc>Oyat və çıxar.</CommandPodEjectDesc>
+  <CommandPodEjectFailEmpty>Heçkim yoxdur.</CommandPodEjectFailEmpty>
+
+  <!-- Door -->
+  <CommandToggleDoorForbid>Keçidi qadağan edin</CommandToggleDoorForbid>
+  <CommandToggleDoorForbidDesc>Bir qapı qadağan edildikdə, kolonistlər və müttəfiqlər içəri girməyəcəklər. Bu düşmənlərə və ya heyvanlara təsir göstərmir</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorHoldOpen>Açıq saxla</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpenDesc>Aktiv olduqda kolonistləriniz keçdikdən sonra qapını bağlamayacaqlar.</CommandToggleDoorHoldOpenDesc>
+
+  <!-- Temperature control -->
+  <CommandResetTemp>Sıfırla</CommandResetTemp>
+  <CommandResetTempDesc>Hədəf temperaturu otaq temperaturuna sıfırla.</CommandResetTempDesc>
+  <CommandRaiseTempDesc>Hədəf temperaturu artır.</CommandRaiseTempDesc>
+  <CommandLowerTempDesc>Hədəf temperaturu azalt.</CommandLowerTempDesc>
+
+  <!-- Install/reinstall -->
+  <CommandInstall>Quraşdır</CommandInstall>
+  <CommandInstallDesc>Bu obyekt hazırda saxlama və daşınma üçün qablaşdırılıb. Bu elementi son bir yerə qurmaq üçün bu əmrdən istifadə edin.</CommandInstallDesc>
+  <CommandReinstall>Yenidən quraşdır...</CommandReinstall>
+  <CommandReinstallDesc>Silinib başqa bir yerə yenidən quraşdırılmaq üçün bu elementi təyin edin.</CommandReinstallDesc>
+  
+  <!-- Trade beacon -->
+  <CommandMakeBeaconStockpileDesc>Bu binanın ətrafında mayakın radiusuna tam uyğun bir anbar yaradın.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileLabel>Anbar yaradın</CommandMakeBeaconStockpileLabel>
+
+  <!-- Sun lamp -->
+  <CommandSunLampMakeGrowingZoneDesc>Bu binanın ətrafında lampanın işıq radiusunun formasına tam uyğun tarla yaradın.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneLabel>Tarla düzəldin</CommandSunLampMakeGrowingZoneLabel>
+
+  <!-- Trap -->
+  <CommandAutoRearm>Təkrar qur</CommandAutoRearm>
+  <CommandAutoRearmDesc>Bu açıq olduqda, tələ açıldıqan sonra yenidən qurulacaq.</CommandAutoRearmDesc>
+  
+  <!-- Animal control -->
+  <CommandReleaseAnimalsLabel>Heyvanı sərbəst buraxın</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsDesc>Əgər açıqdırsa, heyvanlar uzaq hədəflərə hücum etmək üçün təlimçiləri tərəfindən göndərilir. Söndürüldükdə, yaxınlıqda qalırlar və onları qoruyurlar.</CommandReleaseAnimalsDesc>
+  
+  <!-- Squad attack -->
+  <CommandSquadAttack>Hücüm</CommandSquadAttack>
+  <CommandSquadAttackDesc>Seçilmiş kolonistlərə təyin edilmiş hədəflərə hücum əmri verin.</CommandSquadAttackDesc>
+  
+  <!-- Melee attack -->
+  <CommandMeleeAttack>Yaxın döyüş</CommandMeleeAttack>
+  <CommandMeleeAttackDesc>Seçilmiş kolonistlərə yalnız yumruq və soyuq silahlardan istifadə edərək təyin olunmuş hədəfə hücum əmri verin.</CommandMeleeAttackDesc>
+
+  <!-- Hold fire -->
+  <CommandHoldFire>Atəşi saxla</CommandHoldFire>
+  <CommandHoldFireDesc>Davam edən hücumları saxlayın</CommandHoldFireDesc>
+  
+  <!-- Select plant to grow -->
+  <CommandSelectPlantToGrowMulti>Əkmək üçün bitki seçin</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrow>Bitki: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrowDesc>Burada hansı bitkinin əkilməli olduğunu müəyyənləşdirin.</CommandSelectPlantToGrowDesc>
+  
+  <!-- Build copy -->
+  <CommandBuildCopy>Kopyala</CommandBuildCopy>
+  <CommandBuildCopyDesc>Bunun kopyasını yarat.</CommandBuildCopyDesc>
+  
+  <!-- Form caravan -->
+  <CommandFormCaravan>Karvan yarat</CommandFormCaravan>
+  <CommandFormCaravanDesc>Yeni ərazilərə səyahət edə bilən kolonist qrupu yaradın. Kolonistlərlər, təyin olunmuş bütün materialları və müşayiət edən heyvanları toplayacaq, mövcud ərazilərindən ayrılacaq və növbəti əmrləri gözləyəcəklər.</CommandFormCaravanDesc>
+  
+  <!-- Reform caravan -->
+  <CommandReformCaravan>Karvanı yenidən yarat</CommandReformCaravan>
+  <CommandReformCaravanDesc>Yenidən yaradılan Karvan. Kolonistlər indiki ərazilərini tərk edəcək və gələcək əmrləri gözləyəcəklər.</CommandReformCaravanDesc>
+  <CommandReformCaravanFailHostilePawns>Ərazidə hələdə bəzi düşmənlər var.</CommandReformCaravanFailHostilePawns>
+  
+  <!-- Split caravan -->
+  <CommandSplitCaravan>Ayır</CommandSplitCaravan>
+  <CommandSplitCaravanDesc>Bu karvanı iki yerə ayır. Daha sonra karvanlar bir-birinə yaxın olduqlarında yenidən birləşdirlə biləcəksiniz.</CommandSplitCaravanDesc>
+  
+  <!-- Merge caravan -->
+  <CommandMergeCaravans>Birləşdir</CommandMergeCaravans>
+  <CommandMergeCaravansDesc>Seçilmiş karvanları birləşdir.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansFailCaravansNotSelected>Birləşdirilməli olan bütün karvanları seçin. Karvanlar bir-birinə yaxın olmalıdır.</CommandMergeCaravansFailCaravansNotSelected>
+  
+  <!-- Settle -->
+  <CommandSettle>Məskunlaş</CommandSettle>
+  <CommandSettleDesc>Bu ərazidə məskunlaşın. Kolonistləriniz bu əraziyə girəcək və yeni bir ev tikməyə başlaya biləcəksiniz.</CommandSettleDesc>
+  <CommandSettleFailAlreadyHaveBase>Fraksiyanızın yalnız bir dənə bazası ola bilər.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailReachedMaximumNumberOfBases>Maksimum koloniya sayına çatdınız.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailNoColonists>Orada əraziyə iddia edəcək kimsə yoxdur.</CommandSettleFailNoColonists>
+  <CommandSettleFailEnemies>Bu ərazidə düşmənlər var.</CommandSettleFailEnemies>
+  
+  <!-- Abandon home -->
+  <CommandAbandonHome>Tərk edin</CommandAbandonHome>
+  <CommandAbandonHomeDesc>Bu ərazidən imtina edin. Bölgə əlçatmaz olacaq və bir daha buraya qayıda bilməyəcəksiniz. Evinizi tərk etdikdən sonra karvanlarınızdan birinə yeni bir ərazidə yerləşməyi sifariş edə biləcəksiniz.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeFailAllColonistsThere>Bütün kolonistləriniz oradadır.</CommandAbandonHomeFailAllColonistsThere>
+  
+  <!-- Cancel forming caravan -->
+  <CommandCancelFormingCaravan>Karvan yaratmağı ləğv edin</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravanDesc>Karvanın yaranma prosesini ləğv edin.</CommandCancelFormingCaravanDesc>
+  
+  <!-- Show map -->
+  <CommandShowMap>Yaxınlaşdır</CommandShowMap>
+  <CommandShowMapDesc>Bu ərazini yaxınlaşdırın.</CommandShowMapDesc>
+  
+  <!-- Trade -->
+  <CommandTrade>Ticarət</CommandTrade>
+  <CommandTradeDesc>Bu fraksiya ilə ticarət edin.</CommandTradeDesc>
+  <CommandTradeFailNoNegotiator>Şüurlu və bacarıqlı bir vasitəçi yoxdur.</CommandTradeFailNoNegotiator>
+
+  <!-- Fulfill request -->
+  <CommandFulfillTradeOffer>Ticarət təklifini yerinə yetirin</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOfferDesc>Anlaşmanın tələblərini yerinə yetirin və mükafatınızı tələb edin</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferFailInsufficient>Karvanınızda {0} ədəd olmalıdır ki, istəyi təmin edə biləsiniz.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferConfirm>{0} {1} qiymətə təklif edin?</CommandFulfillTradeOfferConfirm>
+  
+  <!-- Take off -->
+  <CommandTakeOff>Çıxar</CommandTakeOff>
+  <CommandTakeOffDesc>Gəmiyə minin və planeti tərk edin.</CommandTakeOffDesc>
+  <CommandTakeOffConfirmation>Gəmini işə salmaq istəyirsinizmi?\n\nBurdakı hərkəs tərk edəcək. Qalan hərkəs arxada qalacaq.</CommandTakeOffConfirmation>
+  
+  <!-- Set target fuel level -->
+  <CommandSetTargetFuelLevel>Hədəf yanacaq səviyyəsini təyin edin</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevelDesc>Hədəf yanacaq səviyyəsini təyin edin. Kolonistlər bunu hədəf yanacaq səviyyəsinə doldurmağa çalışacaqlar.</CommandSetTargetFuelLevelDesc>
+  
+  <!-- Cancel load -->
+  <CommandCancelLoad>Yükləməni ləğv edin</CommandCancelLoad>
+  <CommandCancelLoadDesc>İnsanları və əşyalarlı yükləməyi ləğv edin və artıq yüklənmiş hər şeyi çıxarın.</CommandCancelLoadDesc>
+  
+  <!-- Launch group -->
+  <CommandLaunchGroup>Qrupu çalışdır</CommandLaunchGroup>
+  <CommandLaunchGroupDesc>Bir qrup nəqliyyat konteynerinin işə salınma hədəflənməsini başladır. Növbəti addım hədəf seçməkdir. Konteynerlər birlikdə uçacaq və enəcək.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Burdakı nəqliyyat konteynerinin bəziləri yanacaq doldurma nöqtəsinə bağlı deyil.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNoFuel>Bu qrupdakı bəzi konteynerlərin yanacağı yoxdur.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailUnderRoof>Bəziləri çardağın altında.</CommandLaunchGroupFailUnderRoof>
+  
+  <!-- Load transporter -->
+  <CommandLoadTransporter>{0} işə salma qrupunu yükləyin</CommandLoadTransporter>
+  <CommandLoadTransporterDesc>Seçilmiş daşıyıcıları bir başlanğıc qrupu olaraq təyin edir. İçəridə kimin və nəyin yüklənəcəyinə qərar vermək üçün yükləmə dialoqunu açır.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Nəqliyyat konteyneri yanacaq limanına qoşulmayıb.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNoFuel>Konteyner başladıcısının yanacağı yoxdur.</CommandLoadTransporterFailNoFuel>
+  
+  <!-- Select previous transporter -->
+  <CommandSelectPreviousTransporter>Başlatma qrupunda öncəkini seç</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporterDesc>Başlatma qrupunda öncəki nəqliyyat konteynerini seçin.</CommandSelectPreviousTransporterDesc>
+  
+  <!-- Select all transporters -->
+  <CommandSelectAllTransporters>Başlatma qrupunu seçin</CommandSelectAllTransporters>
+  <CommandSelectAllTransportersDesc>Bu başlatma qrupundakı bütün nəqliyyat konteynerlərini seçin.</CommandSelectAllTransportersDesc>
+  
+  <!-- Select next transporter -->
+  <CommandSelectNextTransporter>Başlatma qrupunda növbətini seçin</CommandSelectNextTransporter>
+  <CommandSelectNextTransporterDesc>Başlatma qrupunda növbəti nəqliyyat konteynerini seçin.</CommandSelectNextTransporterDesc>
+  
+  <!-- Vent -->
+  <CommandDesignateOpenCloseVentLabel>Açma/Bağlama Əmri</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentDesc>Bu açılmalı və ya bağlanılmalıdır. Tapşırığı yerinə yetirmək üçün bir kolonist tezliklə gələcək.</CommandDesignateOpenCloseVentDesc>
+  
+  <!-- Remove waypoint -->
+  <CommandRemoveWaypointLabel>Çıxar</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointDesc>Bu yolu çıxarın.</CommandRemoveWaypointDesc>
+  
+</LanguageData>
